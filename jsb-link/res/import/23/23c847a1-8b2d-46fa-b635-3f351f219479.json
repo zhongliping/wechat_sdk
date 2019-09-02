@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuyin",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      384,
+      738,
+      46,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      63
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "zi_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":681,\"y\":1,\"height\":264,\"name\":\"yuepai\",\"x\":1},{\"width\":59,\"y\":1,\"height\":60,\"name\":\"未标题-2\",\"x\":684}],\"width\":1024,\"height\":512,\"name\":\"zi\",\"imagePath\":\"zi_tex.png\"}",
+  "texture": {
+    "__uuid__": "faz26QnfZMaLEfR4WNKSfj"
+  }
+}

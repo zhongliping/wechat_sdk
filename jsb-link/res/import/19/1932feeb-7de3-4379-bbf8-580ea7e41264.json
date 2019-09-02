@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liu",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      194,
+      611,
+      106,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      108
+    ]
+  }
+}

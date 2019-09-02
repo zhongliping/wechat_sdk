@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_founder",
+    "texture": "94vk7U7UJBMKQ1BwAo4YbH",
+    "rect": [
+      0,
+      0,
+      41,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      34
+    ]
+  }
+}

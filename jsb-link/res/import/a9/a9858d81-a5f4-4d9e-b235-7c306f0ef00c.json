@@ -1,0 +1,108 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Effects_List",
+  "_duration": 1,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.6
+        },
+        {
+          "frame": 0.1,
+          "value": 0.7
+        },
+        {
+          "frame": 0.2,
+          "value": 0.8
+        },
+        {
+          "frame": 0.3,
+          "value": 0.9
+        },
+        {
+          "frame": 0.4,
+          "value": 1
+        },
+        {
+          "frame": 0.5,
+          "value": 0.9
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.6
+        },
+        {
+          "frame": 0.1,
+          "value": 0.7
+        },
+        {
+          "frame": 0.2,
+          "value": 0.8
+        },
+        {
+          "frame": 0.3,
+          "value": 0.9
+        },
+        {
+          "frame": 0.4,
+          "value": 1
+        },
+        {
+          "frame": 0.5,
+          "value": 0.9
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": 60
+        },
+        {
+          "frame": 0.2,
+          "value": 120
+        },
+        {
+          "frame": 0.3,
+          "value": 180
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        }
+      ]
+    },
+    "paths": {
+      "Node_1": {
+        "props": {}
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "finish",
+      "params": [
+        true
+      ]
+    },
+    {
+      "frame": 1,
+      "func": "finish",
+      "params": [
+        false
+      ]
+    }
+  ]
+}

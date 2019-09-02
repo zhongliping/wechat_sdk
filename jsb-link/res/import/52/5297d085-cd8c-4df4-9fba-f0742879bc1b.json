@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "04顺子-顺子 (7)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      1004,
+      1585,
+      423,
+      127
+    ],
+    "offset": [
+      -4,
+      15
+    ],
+    "originalSize": [
+      433,
+      179
+    ],
+    "rotated": 1
+  }
+}

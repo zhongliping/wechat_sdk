@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward_3",
+    "texture": "bfoYZyJKZBCa1SLjEIrNzj",
+    "rect": [
+      2,
+      379,
+      107,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      96
+    ],
+    "rotated": 1
+  }
+}

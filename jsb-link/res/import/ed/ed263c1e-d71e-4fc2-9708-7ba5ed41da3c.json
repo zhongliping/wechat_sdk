@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Qguan",
+    "texture": "2ctmfYvElFc7n7y2GZAyQX",
+    "rect": [
+      0,
+      0,
+      120,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      38
+    ]
+  }
+}

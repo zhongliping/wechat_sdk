@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Agree ",
+    "texture": "34adSsJcBG1qdTbfUtXvb4",
+    "rect": [
+      0,
+      0,
+      67,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      38
+    ]
+  }
+}

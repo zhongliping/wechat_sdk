@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_room_infor02",
+    "texture": "f0QnBsLstKq7M0lE2S4pxc",
+    "rect": [
+      4,
+      0,
+      118,
+      38
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      127,
+      38
+    ]
+  }
+}

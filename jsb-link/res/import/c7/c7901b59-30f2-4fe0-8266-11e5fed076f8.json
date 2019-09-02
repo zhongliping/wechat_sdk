@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "lingquzhuanshi4_tex",
+  "_atlasJson": "{\"imagePath\":\"lingquzhuanshi4_tex.png\",\"width\":512,\"SubTexture\":[{\"frameX\":-73,\"y\":1,\"frameY\":0,\"frameWidth\":543,\"width\":408,\"frameHeight\":429,\"height\":410,\"name\":\"获得钻石/组_2\",\"x\":1},{\"width\":59,\"y\":413,\"height\":60,\"name\":\"光点们/texture/未标题-2\",\"x\":1}],\"height\":512,\"name\":\"lingquzhuanshi4\"}",
+  "texture": {
+    "__uuid__": "dcqFVJI41Nj4yB1I4Km2W8"
+  }
+}

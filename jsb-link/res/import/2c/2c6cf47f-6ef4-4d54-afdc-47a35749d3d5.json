@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_club_left",
+    "texture": "06OW9DZD9AvoGJDcin5oXM",
+    "rect": [
+      0,
+      0,
+      294,
+      710
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      294,
+      710
+    ]
+  }
+}

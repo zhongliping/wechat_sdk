@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红桃10-3",
+    "texture": "e3iKrCe49NHrQOWYdRUXNu",
+    "rect": [
+      343,
+      2,
+      116,
+      122
+    ],
+    "offset": [
+      -1,
+      -14
+    ],
+    "originalSize": [
+      122,
+      162
+    ],
+    "rotated": 1
+  }
+}

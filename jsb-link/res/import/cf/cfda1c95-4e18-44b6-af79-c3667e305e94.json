@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anjian_tex",
+    "texture": "abHKpGI1BE36emjE0Wq1IH",
+    "rect": [
+      1,
+      1,
+      310,
+      227
+    ],
+    "offset": [
+      -100,
+      13.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

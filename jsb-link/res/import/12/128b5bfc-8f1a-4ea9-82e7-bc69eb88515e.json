@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑桃-2",
+    "texture": "e3iKrCe49NHrQOWYdRUXNu",
+    "rect": [
+      225,
+      270,
+      103,
+      46
+    ],
+    "offset": [
+      0,
+      -55
+    ],
+    "originalSize": [
+      113,
+      164
+    ],
+    "rotated": 1
+  }
+}

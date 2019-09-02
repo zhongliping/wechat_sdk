@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btnSetting",
+    "texture": "1au2sz6PVIS5+x9EwSNe0Z",
+    "rect": [
+      2,
+      2,
+      38,
+      37
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      42,
+      42
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gengduo",
+    "texture": "1eDeKCnlpPPaxh53qciVdr",
+    "rect": [
+      198,
+      221,
+      52,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      35
+    ]
+  }
+}

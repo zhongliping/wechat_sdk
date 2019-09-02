@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "match_tip_bg1",
+    "texture": "45FurkVxdOP68nx7kBg0ri",
+    "rect": [
+      0,
+      0,
+      814,
+      588
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      814,
+      588
+    ]
+  }
+}

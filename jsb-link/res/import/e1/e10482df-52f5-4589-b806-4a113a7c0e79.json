@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_smrz",
+    "texture": "15qBh0yGNHd75zWYStQaty",
+    "rect": [
+      0,
+      0,
+      166,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      38
+    ]
+  }
+}

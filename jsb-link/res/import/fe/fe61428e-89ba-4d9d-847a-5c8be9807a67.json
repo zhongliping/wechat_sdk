@@ -1,0 +1,57 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "texiao_zjh",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "texiao_zjh",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "cfXOehhzVPhpbjykXuj5TV"
+          },
+          {
+            "__uuid__": "50VrkEEpFNH6iDszbPcdHX"
+          },
+          {
+            "__uuid__": "89NT+v471Bhq71oUG+vnIU"
+          },
+          {
+            "__uuid__": "b8rM51cjxPX7ftaZis4WCR"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "feYUKOibpNnYR6XIvpgHpn"
+      },
+      "fileId": "6ee52LY5MJMKJAhXs2JVz46"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

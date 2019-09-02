@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhongjiang",
+    "texture": "62oMv/n+hCQ4c/7n05din0",
+    "rect": [
+      0,
+      0,
+      518,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      518,
+      137
+    ]
+  }
+}

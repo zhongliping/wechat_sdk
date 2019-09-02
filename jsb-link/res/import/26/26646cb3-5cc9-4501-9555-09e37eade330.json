@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_zhuang",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      134,
+      363,
+      58,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      62
+    ],
+    "rotated": 1
+  }
+}

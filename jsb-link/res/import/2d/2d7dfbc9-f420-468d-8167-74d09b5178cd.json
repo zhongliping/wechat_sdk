@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "benren",
+    "texture": "08y4PEtQhEwpSh8E6PfBru",
+    "rect": [
+      0,
+      0,
+      57,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      53
+    ]
+  }
+}

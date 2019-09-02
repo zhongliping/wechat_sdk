@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhiya0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      126,
+      250,
+      112,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      120
+    ],
+    "rotated": 1
+  }
+}

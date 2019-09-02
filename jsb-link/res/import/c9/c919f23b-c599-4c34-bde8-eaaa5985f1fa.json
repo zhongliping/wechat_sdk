@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_checkfold01",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      211,
+      361,
+      99,
+      99
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      115,
+      115
+    ]
+  }
+}

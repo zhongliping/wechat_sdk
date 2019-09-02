@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baoshuangdi",
+    "texture": "3aOKuG20RErpCIZzGJQda2",
+    "rect": [
+      0,
+      0,
+      362,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      362,
+      60
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "operationNode",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "operationNode",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "32OI6UK55EZ71A/FU/jGD4"
+      },
+      "fileId": "4b73qZHMtMw4D/ZezOLWZD"
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 9.094947017729282e-13,
+      "y": 4.547473508864641e-13
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "chi_node",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Layout",
+        "node": {
+          "__id__": 2
+        },
+        "_layoutSize": {
+          "__type__": "cc.Size",
+          "width": 460,
+          "height": 80
+        },
+        "_N$layoutType": 1,
+        "_N$spacingX": 26,
+        "_N$horizontalDirection": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "32OI6UK55EZ71A/FU/jGD4"
+      },
+      "fileId": "3a6/9hC2xCuZ2zqWRl1Igt"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 460,
+      "height": 80
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -150
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "btn_node",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Layout",
+        "node": {
+          "__id__": 3
+        },
+        "_layoutSize": {
+          "__type__": "cc.Size",
+          "width": 900,
+          "height": 130
+        },
+        "_N$layoutType": 1,
+        "_N$horizontalDirection": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "32OI6UK55EZ71A/FU/jGD4"
+      },
+      "fileId": "34dnuxdyxFXrih8mSSrnKS"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 900,
+      "height": 130
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -150
+    }
+  }
+]

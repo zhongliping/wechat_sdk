@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "01天王-SDB_0006_tw",
+    "texture": "7ambZt/b1OO5RDT8/beEr+",
+    "rect": [
+      692,
+      413,
+      165,
+      100
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      175,
+      112
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "start.plist",
+  "_spriteFrames": {
+    "btn_big": {
+      "__uuid__": "f6mlh2f39P6qaUAh2KQ7qQ"
+    },
+    "dkfj_sn": {
+      "__uuid__": "b98lmGVK5Pua1zK0tkpr51"
+    },
+    "dui_1": {
+      "__uuid__": "13fHueXvRLI7t8zSXdP3mz"
+    },
+    "gengduo": {
+      "__uuid__": "a6LoB0sgpNeJj4Yw+wjtww"
+    },
+    "icon_dazi01": {
+      "__uuid__": "e2QZrop6hF5r0u1n2eK9VZ"
+    },
+    "img_bao": {
+      "__uuid__": "56S0DrS0xPUpF1vF+fWtvX"
+    },
+    "img_gang": {
+      "__uuid__": "42JkUfqnpBLY2b8Yizo83D"
+    },
+    "jin_bg": {
+      "__uuid__": "0bd3UuqT1EFpgiMirbigWt"
+    },
+    "kaisyoui": {
+      "__uuid__": "b7EghpF4lMoIQzdlUAT8sY"
+    },
+    "shijiangkuang": {
+      "__uuid__": "76eVakGg1IVZSynYWxktnG"
+    },
+    "yaoqinghaoyou": {
+      "__uuid__": "8ddNQXOWBH4IaPWbsCT7yX"
+    },
+    "yuyin": {
+      "__uuid__": "3465QOqvRGgoI+I4zGLAoH"
+    },
+    "zhunbei": {
+      "__uuid__": "42yor3c8dEPaT5xxCUdJTb"
+    }
+  }
+}

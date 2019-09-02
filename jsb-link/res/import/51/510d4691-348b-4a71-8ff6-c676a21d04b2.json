@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_touxiang01",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      99,
+      720,
+      150,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      95
+    ],
+    "rotated": 1
+  }
+}

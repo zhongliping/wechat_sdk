@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lihai",
+  "_duration": 2.1666666666666665,
+  "sample": 6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "13HtYjswNPjJTfSPaK4B7m"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "03vmivsAxBsIRz8lXbyFEQ"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1bBWtAidxNf4vC/iEvmjV8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9dTVc1i0NL1YUMtfQYc1n9"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "3dsZB9ynNJMq5yKEZi/eac"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "6eLVq1O0VLBaSs43oFRGj5"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "8dBz8ss2xAzYrMvBETkZ5M"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "86hvMzEwVFv7ro797BXsmc"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "89A5PCtXdHIZixVdsnhomP"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "0cBBy/AapGgIcXU6s4e4iE"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "37Ateh7f1OXqg3YJ4ZKyyW"
+            }
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": {
+              "__uuid__": "996w3P/EVBvZ+4obXT0+rc"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "20wHBHpypC56xVJdiL0zht"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

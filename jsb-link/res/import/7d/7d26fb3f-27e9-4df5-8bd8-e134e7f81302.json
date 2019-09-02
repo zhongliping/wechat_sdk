@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanzeduiwei_jiantou",
+    "texture": "5bCQtTCDhCY6XSgsCFf0ZI",
+    "rect": [
+      436,
+      701,
+      66,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      85
+    ]
+  }
+}

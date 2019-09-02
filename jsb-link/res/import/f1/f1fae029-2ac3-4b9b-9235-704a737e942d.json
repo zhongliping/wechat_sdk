@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "julebu_tex",
+  "_atlasJson": "{\"width\":128,\"imagePath\":\"julebu_tex.png\",\"height\":128,\"name\":\"julebu\",\"SubTexture\":[{\"frameWidth\":50,\"y\":48,\"frameX\":-1,\"frameHeight\":50,\"frameY\":-4,\"width\":49,\"height\":41,\"name\":\"icon2_julebu\",\"x\":1},{\"width\":7,\"y\":112,\"height\":8,\"name\":\"图层_2\",\"x\":20},{\"frameWidth\":83,\"y\":1,\"frameX\":0,\"frameHeight\":72,\"frameY\":-14,\"width\":83,\"height\":45,\"name\":\"微信图片_20180119223242\",\"x\":1},{\"width\":19,\"y\":91,\"height\":19,\"name\":\"$RGUN87K\",\"x\":20},{\"width\":17,\"y\":91,\"height\":34,\"name\":\"图层_4\",\"x\":1}]}",
+  "texture": {
+    "__uuid__": "46EObf6wVHNq4SjDQSbYuL"
+  }
+}

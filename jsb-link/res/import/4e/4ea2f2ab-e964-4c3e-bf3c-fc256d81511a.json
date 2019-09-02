@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huicheng2_tex",
+    "texture": "79v0J6s0pEZ54Bp4PDE7bq",
+    "rect": [
+      1,
+      1,
+      480,
+      336
+    ],
+    "offset": [
+      -15,
+      87
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

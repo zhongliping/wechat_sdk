@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "huicheng2_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":84,\"y\":254,\"height\":83,\"name\":\"双白点\",\"x\":248},{\"width\":35,\"y\":254,\"height\":44,\"name\":\"图层_1\",\"x\":397},{\"width\":245,\"y\":1,\"height\":282,\"name\":\"大白点\",\"x\":1},{\"width\":233,\"y\":1,\"height\":251,\"name\":\"大白点2\",\"x\":248},{\"width\":61,\"y\":254,\"height\":59,\"name\":\"小白点1\",\"x\":334}],\"width\":512,\"height\":512,\"name\":\"huicheng2\",\"imagePath\":\"huicheng2_tex.png\"}",
+  "texture": {
+    "__uuid__": "79v0J6s0pEZ54Bp4PDE7bq"
+  }
+}

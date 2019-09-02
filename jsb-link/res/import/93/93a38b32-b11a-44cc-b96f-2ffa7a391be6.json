@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_chuangjian",
+    "texture": "18sk2nigNOWr47/HthwJjp",
+    "rect": [
+      0,
+      0,
+      263,
+      292
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      292
+    ]
+  }
+}

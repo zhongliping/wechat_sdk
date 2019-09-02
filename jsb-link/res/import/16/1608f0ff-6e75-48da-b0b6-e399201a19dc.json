@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "banker_base_lb_2",
+    "texture": "08ir8+pOhIFp6CUOphb3Mn",
+    "rect": [
+      0,
+      0,
+      335,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      335,
+      56
+    ]
+  }
+}

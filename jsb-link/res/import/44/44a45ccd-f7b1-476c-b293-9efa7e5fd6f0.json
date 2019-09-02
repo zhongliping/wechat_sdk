@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jin_shang",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      68,
+      304,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      64
+    ],
+    "rotated": 1
+  }
+}

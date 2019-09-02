@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_a3",
+    "texture": "f9cMy0XR1H6o1MPvC1iPJc",
+    "rect": [
+      0,
+      0,
+      78,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      81
+    ]
+  }
+}

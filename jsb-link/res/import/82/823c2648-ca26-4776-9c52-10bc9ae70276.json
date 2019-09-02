@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "13s-dong",
+  "_duration": 1.05,
+  "sample": 20,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "26EajrP7VMcJNT3OxxHAL0"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ad4quHXX9JuKanEZHYfh/v"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "81rtAjcDBEN76+M38sXQFY"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            19,
+            -12
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 1,
+          "value": [
+            19,
+            -31
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanjiao",
+    "texture": "16YLuLIYJAY4b3SHeRrJUX",
+    "rect": [
+      0,
+      0,
+      32,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      21
+    ]
+  }
+}

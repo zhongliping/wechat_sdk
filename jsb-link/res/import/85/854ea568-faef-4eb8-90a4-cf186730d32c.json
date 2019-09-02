@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LLS",
+    "texture": "bdR5kJHhFPCKpHZoUzJIQw",
+    "rect": [
+      366,
+      138,
+      308,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      115
+    ]
+  }
+}

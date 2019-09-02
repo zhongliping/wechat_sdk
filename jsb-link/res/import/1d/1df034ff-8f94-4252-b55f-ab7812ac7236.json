@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shaoxiang0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      291,
+      2,
+      121,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      127
+    ],
+    "rotated": 1
+  }
+}

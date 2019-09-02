@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qunzu_0",
+    "texture": "d8dJOGCGxKPoXQ7PqpvlEW",
+    "rect": [
+      1,
+      0,
+      53,
+      27
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      54,
+      27
+    ]
+  }
+}

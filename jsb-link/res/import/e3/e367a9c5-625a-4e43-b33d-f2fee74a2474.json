@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_timeTurn.plist",
+  "_spriteFrames": {
+    "TimeTurn_bg": {
+      "__uuid__": "523nDjPVlMGotg+lBP9di1"
+    },
+    "mj_f0": {
+      "__uuid__": "8dBPzxuMBDU5vEj1FNQTAW"
+    },
+    "mj_f1": {
+      "__uuid__": "e3BKNjnxhJ3rC9qrVAVxxc"
+    },
+    "mj_f2": {
+      "__uuid__": "91icDFPApF6KRF0gTREGv7"
+    },
+    "mj_f3": {
+      "__uuid__": "d5LN6WIpBHk4CJlJTGFfEr"
+    }
+  }
+}

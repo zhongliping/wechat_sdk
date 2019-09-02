@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bankerScore_lb",
+    "texture": "21iv7IrApJ37cOwQsR+1er",
+    "rect": [
+      0,
+      0,
+      252,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      56
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jin_zuo",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      77,
+      146,
+      69,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      54
+    ]
+  }
+}

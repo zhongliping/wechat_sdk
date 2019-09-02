@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "touxiang",
+  "_duration": 0.5,
+  "sample": 8,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "13c7dbf+5P9J4zZFGYZEfP"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "604uZ34pNJOoracdu6eK0A"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f1/35SWbBB6otzPo33Ebzi"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "f93+x0KBNBf6cMKrfzCC7p"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

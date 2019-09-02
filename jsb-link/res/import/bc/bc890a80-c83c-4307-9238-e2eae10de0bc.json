@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ht10",
+    "texture": "4arbwCXipPp4rsf8uoIUIl",
+    "rect": [
+      0,
+      0,
+      120,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      38
+    ]
+  }
+}

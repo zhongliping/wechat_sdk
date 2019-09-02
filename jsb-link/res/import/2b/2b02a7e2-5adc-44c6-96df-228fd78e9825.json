@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu",
+    "texture": "6avNi1/t1K+YQm0Xqul9Vq",
+    "rect": [
+      2,
+      2,
+      1019,
+      1417
+    ],
+    "offset": [
+      -0.5,
+      313.5
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

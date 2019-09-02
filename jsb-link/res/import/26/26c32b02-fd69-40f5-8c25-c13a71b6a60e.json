@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "01豹子-豹子 (6)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      268,
+      1160,
+      556,
+      145
+    ],
+    "offset": [
+      -5,
+      6
+    ],
+    "originalSize": [
+      570,
+      179
+    ],
+    "rotated": 1
+  }
+}

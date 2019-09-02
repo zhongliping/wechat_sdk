@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biao_dianpao",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      201,
+      420,
+      139,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      80
+    ]
+  }
+}

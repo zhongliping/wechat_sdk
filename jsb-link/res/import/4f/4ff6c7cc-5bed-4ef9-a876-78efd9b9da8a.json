@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ppl_effect_lost",
+    "texture": "aeRfYAZ45DKZ9B01TE7GBh",
+    "rect": [
+      3,
+      2,
+      185,
+      159
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      190,
+      166
+    ]
+  }
+}

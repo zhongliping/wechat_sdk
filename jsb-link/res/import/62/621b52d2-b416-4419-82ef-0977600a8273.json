@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wanfa",
+    "texture": "e3mdJD2l1O7Yxq9DxRPMnj",
+    "rect": [
+      434,
+      2,
+      146,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      68
+    ],
+    "rotated": 1
+  }
+}

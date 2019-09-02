@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "damuzhi_011",
+    "texture": "36xvdPN2tGta+ZMeOSJtT1",
+    "rect": [
+      260,
+      1590,
+      96,
+      102
+    ],
+    "offset": [
+      2,
+      -3
+    ],
+    "originalSize": [
+      166,
+      166
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_wait2",
+    "texture": "42tWBog11NtJFHi5tgy4IX",
+    "rect": [
+      0,
+      0,
+      192,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      128
+    ]
+  }
+}

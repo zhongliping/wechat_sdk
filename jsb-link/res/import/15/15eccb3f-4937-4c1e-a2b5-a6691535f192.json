@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anzhushuohua",
+    "texture": "78XVoJMcdGH7mme6/muVNq",
+    "rect": [
+      0,
+      0,
+      63,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      15
+    ]
+  }
+}

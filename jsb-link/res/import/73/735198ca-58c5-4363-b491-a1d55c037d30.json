@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_t_hui",
+    "texture": "e0CafB7M9F07KAtK9fVEJ/",
+    "rect": [
+      2,
+      0,
+      241,
+      91
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      244,
+      92
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SSP",
+    "texture": "06GypW/nhKTrHQNEBbVKDT",
+    "rect": [
+      18,
+      12,
+      277,
+      378
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

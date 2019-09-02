@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "zhuanpan_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":433,\"y\":1,\"height\":434,\"name\":\"色相_饱和度_4\",\"x\":1},{\"width\":397,\"y\":1,\"height\":400,\"name\":\"色相_饱和度_4_拷贝\",\"x\":436},{\"width\":60,\"y\":403,\"height\":70,\"name\":\"图层_1\",\"x\":436},{\"width\":144,\"y\":1,\"height\":148,\"name\":\"色相_饱和度_4_拷贝_2\",\"x\":835}],\"width\":1024,\"height\":512,\"name\":\"zhuanpan\",\"imagePath\":\"zhuanpan_tex.png\"}",
+  "texture": {
+    "__uuid__": "65EGnnOldGCKmjAZEO6BKR"
+  }
+}

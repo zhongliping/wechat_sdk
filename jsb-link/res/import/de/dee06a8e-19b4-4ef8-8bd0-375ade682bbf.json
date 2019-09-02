@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy0",
+    "texture": "4fkHrcTY9OCZtqT4+9lXmQ",
+    "rect": [
+      1052,
+      683,
+      111,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      121
+    ]
+  }
+}

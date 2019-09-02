@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shezhi",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      432,
+      741,
+      146,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      60
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "wangzha.plist",
+  "_spriteFrames": {
+    "王炸 (10)": {
+      "__uuid__": "2bHbjlRGVO+LyGTpslwRuT"
+    },
+    "王炸 (11)": {
+      "__uuid__": "0dm+EkWRZEJpylW+/q3CCk"
+    },
+    "王炸 (12)": {
+      "__uuid__": "f7RBjwZJtFu7iWp8y8petK"
+    },
+    "王炸 (13)": {
+      "__uuid__": "97hRb4fBxDI6HN7DBgHKQF"
+    },
+    "王炸 (14)": {
+      "__uuid__": "04uxI6GOxLtIKiNZhOWcQC"
+    },
+    "王炸 (2)": {
+      "__uuid__": "541r3cDFJOx6pSGXXdITuO"
+    },
+    "王炸 (3)": {
+      "__uuid__": "e8GuMGaqRLl4JF5S5nK1a0"
+    },
+    "王炸 (4)": {
+      "__uuid__": "98NI7yjadO+rH8kcJ5aWKt"
+    },
+    "王炸 (5)": {
+      "__uuid__": "32XDq8dCpMV4Sfb0NzzRBH"
+    },
+    "王炸 (6)": {
+      "__uuid__": "b9unR/3MBNz5IiFWpOUxH4"
+    },
+    "王炸 (7)": {
+      "__uuid__": "94NZvTV3JNiph9XJIN77jX"
+    },
+    "王炸 (8)": {
+      "__uuid__": "cf3kwT0rNI04znC1877DM9"
+    },
+    "王炸 (9)": {
+      "__uuid__": "9cfXdFJohIxpHzq5ztrLif"
+    }
+  }
+}

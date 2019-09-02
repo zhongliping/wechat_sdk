@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_bm_tbox",
+    "texture": "97Oi9u+4JC1pYwNRL2HcLF",
+    "rect": [
+      0,
+      0,
+      275,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      62
+    ]
+  }
+}

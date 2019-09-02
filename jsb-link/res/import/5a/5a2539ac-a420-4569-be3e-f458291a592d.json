@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "02三条-SG_0009_st",
+    "texture": "43DJkZ2yRJVY87v2c37ufU",
+    "rect": [
+      656,
+      384,
+      242,
+      72
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      242,
+      136
+    ],
+    "rotated": 1
+  }
+}

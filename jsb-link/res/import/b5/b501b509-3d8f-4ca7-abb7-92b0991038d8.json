@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "02同花顺-同花顺 (6)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      1036,
+      791,
+      570,
+      147
+    ],
+    "offset": [
+      0,
+      7
+    ],
+    "originalSize": [
+      570,
+      179
+    ]
+  }
+}

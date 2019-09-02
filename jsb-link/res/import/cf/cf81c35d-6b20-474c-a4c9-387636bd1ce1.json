@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paguo-zjtx",
+  "_duration": 0.75,
+  "sample": 20,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "553zMX6+1Poo872yBr9Agv"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "bewkKkAgxLvKLAj4WLdS1Z"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "453G7EKKxAvaSQjy7yQP09"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "f6cZ9cyzpPhpXI9qhAeDWF"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "70P6mkvm5JxIdj5Jhi/lV7"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "05XfuT9rFA7afT/miuZ/Do"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "d8lwTyPolJ2KsJDIAnJBOr"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "acm853dlhDV512qN+Nwr3G"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8ej0owC2dDTICrMuG4tJV1"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.35,
+          "value": [
+            0,
+            2
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 2
+        },
+        {
+          "frame": 0.75,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 2
+        },
+        {
+          "frame": 0.75,
+          "value": 2
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.65,
+          "value": 255
+        },
+        {
+          "frame": 0.75,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhanji",
+    "texture": "39DzaNmnpIfJ+p9SwTXTCZ",
+    "rect": [
+      4,
+      1,
+      107,
+      45
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

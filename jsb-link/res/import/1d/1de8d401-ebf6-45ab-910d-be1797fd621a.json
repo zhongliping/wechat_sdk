@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FlyBomb-FlyBomb_5",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      602,
+      889,
+      113,
+      102
+    ],
+    "offset": [
+      -3,
+      1
+    ],
+    "originalSize": [
+      147,
+      108
+    ]
+  }
+}

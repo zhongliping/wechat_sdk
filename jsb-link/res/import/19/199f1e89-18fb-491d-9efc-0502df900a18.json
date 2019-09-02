@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shule",
+    "texture": "59bzoD+MFEd6Uxy9OiIm7e",
+    "rect": [
+      0,
+      0,
+      603,
+      191
+    ],
+    "offset": [
+      0,
+      47.5
+    ],
+    "originalSize": [
+      603,
+      286
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "smaile8",
+    "texture": "4fkHrcTY9OCZtqT4+9lXmQ",
+    "rect": [
+      874,
+      230,
+      122,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      121
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_daikai",
+    "texture": "2cfb0fFPhH1I0W8CzQMbhC",
+    "rect": [
+      0,
+      0,
+      214,
+      238
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      238
+    ]
+  }
+}

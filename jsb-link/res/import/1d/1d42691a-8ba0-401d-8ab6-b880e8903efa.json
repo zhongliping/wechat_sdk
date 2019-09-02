@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_ad_p02",
+    "texture": "be0LTkZ69D0ZYfPM+yNj+X",
+    "rect": [
+      0,
+      0,
+      199,
+      281
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      281
+    ]
+  }
+}

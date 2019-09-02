@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shopguang_tex",
+    "texture": "67gQAv/6pMjYeHxoB9xVp4",
+    "rect": [
+      1,
+      1,
+      25,
+      25
+    ],
+    "offset": [
+      -2.5,
+      2.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ]
+  }
+}

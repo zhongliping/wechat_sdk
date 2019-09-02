@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiaofen_bg",
+    "texture": "c4adb0chRFRp6GkRMiGwqa",
+    "rect": [
+      0,
+      0,
+      368,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      89
+    ]
+  }
+}

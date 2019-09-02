@@ -1,0 +1,37 @@
+{
+    "dev": {
+        "login": "http://192.168.0.104:9000",
+        "channel": "TOTORO",
+        "kefu": "CblackoutC",
+        "yxName": "5LyY5ri46bq75bCG",
+        "sharelink": "https://aoodbm.mlinks.cc/AKIz",
+        "hotupdate": "",
+        "download_url": "https://www.fir.im/17ew",
+        "client_url": "",
+        "version": "1.0.0"
+    },
+
+    "test": {
+        "login": "http://39.108.130.181:9000",
+        "channel": "TOTORO",
+        "kefu": "CblackoutC",
+        "yxName": "5LyY5ri46bq75bCG",
+        "sharelink": "https://aoodbm.mlinks.cc/AKIz",
+        "hotupdate": "",
+        "download_url": "https://www.fir.im/17ew",
+        "client_url": "",
+        "version": "1.0.0"
+    },
+
+    "prod": {
+        "login": "http://s1.youyou.totorogame.cn:9000",
+        "channel": "TOTORO",
+        "kefu": "yuepai0887",
+        "yxName": "5LyY5ri46bq75bCG",
+        "sharelink": "https://aoodbm.mlinks.cc/AKIz",
+        "hotupdate": "",
+        "download_url": "https://www.fir.im/17ew",
+        "client_url": "https://tny4deqd4byxugei.totorotec.com/web-mobile/index.html?env=prod",
+        "version": "1.0.0"
+    }
+}

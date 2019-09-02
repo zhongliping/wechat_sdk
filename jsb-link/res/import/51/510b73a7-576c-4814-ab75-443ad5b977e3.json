@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btnDaily",
+    "texture": "1c4CgtgEZOfZ1SjxZzY7VB",
+    "rect": [
+      0,
+      4,
+      102,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      76
+    ]
+  }
+}

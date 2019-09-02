@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lvkuang",
+    "texture": "09MX9MqPRKApeLURI4v27b",
+    "rect": [
+      0,
+      0,
+      125,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      171
+    ]
+  }
+}

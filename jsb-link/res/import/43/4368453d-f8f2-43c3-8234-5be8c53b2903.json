@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "头像倒计时框",
+    "texture": "9ccyLD5PxCJbx3ufecvPb+",
+    "rect": [
+      349,
+      2,
+      109,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      136
+    ],
+    "rotated": 1
+  }
+}

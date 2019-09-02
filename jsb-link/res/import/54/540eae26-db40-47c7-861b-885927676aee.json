@@ -1,0 +1,208 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zjh-shandian",
+  "_duration": 0.6,
+  "sample": 20,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "37RfXxDjtCpbwN8CjexC+l"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "feJ+Y0pyJMYbAu0PPD+N15"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "68gVIHSk5H/KONoqonJZlL"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "cd69zJo0pOPZgxMBgKG+Iq"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c44BgK+6pGLrYkt+VW3vUG"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "712qgytvtNcaGJmDQDKbT7"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "feJ+Y0pyJMYbAu0PPD+N15"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "68gVIHSk5H/KONoqonJZlL"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "cd69zJo0pOPZgxMBgKG+Iq"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "c44BgK+6pGLrYkt+VW3vUG"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "712qgytvtNcaGJmDQDKbT7"
+            }
+          },
+          {
+            "frame": 0.55
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            0,
+            25
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            -8,
+            20
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            -15,
+            -20
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            -8,
+            20
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            0,
+            25
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.35,
+          "value": [
+            0,
+            25
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            -7.9,
+            20.1
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.45,
+          "value": [
+            -7.8,
+            20.1
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -14.9,
+            -19.8
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.55,
+          "value": [
+            0,
+            25
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.55,
+          "value": 255
+        },
+        {
+          "frame": 0.6,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

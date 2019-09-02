@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pingju.plist",
+  "_spriteFrames": {
+    "平局-1": {
+      "__uuid__": "77XzHEC9RHnoO/bwhT0nKf"
+    },
+    "平局-10": {
+      "__uuid__": "ffD6WEep1NmaWw6VamTC5d"
+    },
+    "平局-11": {
+      "__uuid__": "afXPJ9GTdCWqC4H5y28EOy"
+    },
+    "平局-12": {
+      "__uuid__": "59JhOKkm5AT5ySyvRUBXwv"
+    },
+    "平局-2": {
+      "__uuid__": "a7mIQ19IRAXKAZdV6MK2jD"
+    },
+    "平局-3": {
+      "__uuid__": "8aGwGPtY9Iy4aivmkJg9BI"
+    },
+    "平局-4": {
+      "__uuid__": "f0nzswmyRF75ltVvf7s54v"
+    },
+    "平局-5": {
+      "__uuid__": "6abI6unahPAo3kOutlBVuT"
+    },
+    "平局-6": {
+      "__uuid__": "088EejMV1O5Kjm93j8L+s0"
+    },
+    "平局-7": {
+      "__uuid__": "d6NMfuWkZMdb0jo2NrSniY"
+    },
+    "平局-8": {
+      "__uuid__": "ccL/Jci4dCWrpeOrAX3qBN"
+    },
+    "平局-9": {
+      "__uuid__": "36gkKVXBhJHrgkmHRpTzlc"
+    }
+  }
+}

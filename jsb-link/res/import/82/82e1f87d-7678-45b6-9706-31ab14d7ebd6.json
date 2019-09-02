@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "春天 (13)",
+    "texture": "ae6jcBBixFOInhmzmk0KNr",
+    "rect": [
+      2,
+      1498,
+      450,
+      259
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      259
+    ],
+    "rotated": 1
+  }
+}

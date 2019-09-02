@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "03五小-SDB_0004_renwu",
+    "texture": "7ambZt/b1OO5RDT8/beEr+",
+    "rect": [
+      2,
+      841,
+      125,
+      87
+    ],
+    "offset": [
+      1,
+      3
+    ],
+    "originalSize": [
+      175,
+      105
+    ],
+    "rotated": 1
+  }
+}

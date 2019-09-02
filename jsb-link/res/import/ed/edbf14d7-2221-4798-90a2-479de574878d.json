@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "12DAni.plist",
+  "_spriteFrames": {
+    "21D_21-21D_001_21": {
+      "__uuid__": "bbW6TsJHpOpLYIiW0amefu"
+    },
+    "21D_21-21D_002_21": {
+      "__uuid__": "dfRiO3sx5CJqF8sFtl0nBo"
+    },
+    "21D_21-21D_003_21": {
+      "__uuid__": "69tztPlHpPq7DMRS+rWEOo"
+    },
+    "21D_21-21D_004_21": {
+      "__uuid__": "22TGkZIK5MIb8mxcietfwC"
+    },
+    "21D_21-21D_005_21": {
+      "__uuid__": "4aTz+avopEg4MZ+97ZL1Tz"
+    },
+    "21D_21-21D_006_21": {
+      "__uuid__": "37G2KhIX5NYa0G5OLmTUM8"
+    },
+    "21D_5XL-21D_001_5XL": {
+      "__uuid__": "f9Zll3gj5FzoFNZNApbNJt"
+    },
+    "21D_5XL-21D_002_5XL": {
+      "__uuid__": "6cbGgW1jxIN54emIlclK5o"
+    },
+    "21D_5XL-21D_003_5XL": {
+      "__uuid__": "f0+JgRc1tPJ6W2JikRSyfy"
+    },
+    "21D_5XL-21D_004_5XL": {
+      "__uuid__": "e479w4yRhMp6sS5HHYrM3+"
+    },
+    "21D_5XL-21D_005_5XL": {
+      "__uuid__": "7aCJ3R9bxHlZ+MaBXcm7JZ"
+    },
+    "21D_HJK-21D_001_HJK": {
+      "__uuid__": "04sy5Wl8ZLdYkHd3MCKL/X"
+    },
+    "21D_HJK-21D_002_HJK": {
+      "__uuid__": "5eaULNUhxBFro1tbJnhTs0"
+    },
+    "21D_HJK-21D_003_HJK": {
+      "__uuid__": "dbaLFh4KZH4aAPNzFlr4to"
+    },
+    "21D_HJK-21D_004_HJK": {
+      "__uuid__": "b4Kd5U8m9HKoTA20U6TffC"
+    },
+    "21D_HJK-21D_005_HJK": {
+      "__uuid__": "18PSQpPpFAf43TClUQCXjW"
+    },
+    "21点与十点半-爆点-1": {
+      "__uuid__": "c3R626/PpOU60UJyma9Wyx"
+    },
+    "21点与十点半-爆点-10": {
+      "__uuid__": "969Iqy2kBD7aKvTm7ey75l"
+    },
+    "21点与十点半-爆点-2": {
+      "__uuid__": "3atlaX0FVEP4rUGv6mAiHS"
+    },
+    "21点与十点半-爆点-3": {
+      "__uuid__": "67/DN4UoVErr+tpwQh/Byt"
+    },
+    "21点与十点半-爆点-4": {
+      "__uuid__": "3b9fz+V8BDuYToN//8Cilx"
+    },
+    "21点与十点半-爆点-5": {
+      "__uuid__": "2fueXaZU1MN77/bEw6Io1L"
+    },
+    "21点与十点半-爆点-6": {
+      "__uuid__": "f6wjX5naxHVoUS77pXeALB"
+    },
+    "21点与十点半-爆点-7": {
+      "__uuid__": "64+h4Uk+xDko30BLw/eLup"
+    },
+    "21点与十点半-爆点-8": {
+      "__uuid__": "45rhjOAkhPpYyUZZWHbImL"
+    },
+    "21点与十点半-爆点-9": {
+      "__uuid__": "bacBmhkY9BIbN0iQfiogLc"
+    }
+  }
+}

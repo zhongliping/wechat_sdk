@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhupai_hongtao",
+    "texture": "46CA30Xh5MrojRAzOU34eP",
+    "rect": [
+      0,
+      7,
+      120,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

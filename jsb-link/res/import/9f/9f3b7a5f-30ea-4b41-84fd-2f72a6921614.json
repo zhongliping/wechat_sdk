@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zj_return",
+    "texture": "75GaM9iCFKBbasF7GY/JTX",
+    "rect": [
+      0,
+      0,
+      57,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      39
+    ]
+  }
+}

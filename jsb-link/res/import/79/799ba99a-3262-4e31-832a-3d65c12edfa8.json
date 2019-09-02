@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dichi_di",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      2,
+      16,
+      184,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      34
+    ]
+  }
+}

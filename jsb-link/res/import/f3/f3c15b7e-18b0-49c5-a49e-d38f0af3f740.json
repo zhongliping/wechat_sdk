@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "飞机6",
+    "texture": "0eAJ0arQ1BBZA4zBf1m1Yv",
+    "rect": [
+      2,
+      593,
+      659,
+      195
+    ],
+    "offset": [
+      -11,
+      0
+    ],
+    "originalSize": [
+      681,
+      207
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zousai_1",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      668,
+      1516,
+      90,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      91
+    ]
+  }
+}

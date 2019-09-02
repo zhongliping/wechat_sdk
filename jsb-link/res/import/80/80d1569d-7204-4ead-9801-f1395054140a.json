@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "emoji_icon.plist",
+  "_spriteFrames": {
+    "angry0": {
+      "__uuid__": "a7AhXsg8BGRIQ96pumlGNa"
+    },
+    "fennu0": {
+      "__uuid__": "d6ZbS0v7VMZYfO1KML9AEY"
+    },
+    "han0": {
+      "__uuid__": "d0oqJpteJLoKaga+x45N7e"
+    },
+    "happy0": {
+      "__uuid__": "a7ubMpHfJLuKWoYG5UlMeV"
+    },
+    "huaixiao0": {
+      "__uuid__": "4f7vxVjVpNK4bTr6adGF0R"
+    },
+    "jiong0": {
+      "__uuid__": "27SI0PRZZM0autiG5FrY4A"
+    },
+    "lihai5": {
+      "__uuid__": "c5XEwfOsZEyZrZgoaYY7y/"
+    },
+    "se0": {
+      "__uuid__": "46pR/jWgZFG6nt8JAtk32X"
+    },
+    "shaoxiang0": {
+      "__uuid__": "1d8DT/j5RCUrVfq3gSrHI2"
+    },
+    "shihua0": {
+      "__uuid__": "2bqf8q6PNNRpw5/UaxeLpo"
+    },
+    "sleep0": {
+      "__uuid__": "8dC38LuEpMJZEfbZdyjMvh"
+    },
+    "smaile0": {
+      "__uuid__": "21H729qwJENb5rgG2ZVKoH"
+    },
+    "touxiang0": {
+      "__uuid__": "9cr571QPRExbwF1vJ4mp82"
+    },
+    "yun3": {
+      "__uuid__": "4bYIx5ms9FYJNMwiTJsXQ4"
+    },
+    "zhiya0": {
+      "__uuid__": "33YapPza9Er4j+HCuyDw1+"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenxiang",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      1486,
+      184,
+      73
+    ],
+    "offset": [
+      12,
+      -45
+    ],
+    "originalSize": [
+      232,
+      217
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "05比牌-长闪电-长闪电-5",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      2,
+      430,
+      1060,
+      221
+    ],
+    "offset": [
+      9,
+      16
+    ],
+    "originalSize": [
+      1190,
+      269
+    ]
+  }
+}

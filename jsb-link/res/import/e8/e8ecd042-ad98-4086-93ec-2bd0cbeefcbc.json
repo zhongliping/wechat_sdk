@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caidai_tex",
+    "texture": "3c1nv7Ek1Na4mAB9ZZhx/O",
+    "rect": [
+      1,
+      1,
+      111,
+      78
+    ],
+    "offset": [
+      -7.5,
+      24
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

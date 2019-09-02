@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clock_bg",
+    "texture": "fdZtmOO/ZNHbWt41ps78Dq",
+    "rect": [
+      0,
+      0,
+      79,
+      90
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      79,
+      91
+    ]
+  }
+}

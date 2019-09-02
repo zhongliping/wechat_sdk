@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baomingde_1",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1560,
+      1361,
+      373,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      373,
+      153
+    ]
+  }
+}

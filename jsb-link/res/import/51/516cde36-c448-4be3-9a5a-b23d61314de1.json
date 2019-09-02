@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_duihuan",
+    "texture": "c78qTgmfZNh6LGRekusC2l",
+    "rect": [
+      1,
+      5,
+      112,
+      41
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_p",
+    "texture": "54i5U9d/1M9KsefqMatwqI",
+    "rect": [
+      0,
+      0,
+      154,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      158
+    ]
+  }
+}

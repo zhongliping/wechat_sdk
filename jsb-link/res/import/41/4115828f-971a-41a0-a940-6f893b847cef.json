@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NIUniu_niuniu-NIUniu_niuniu08",
+    "texture": "6avNi1/t1K+YQm0Xqul9Vq",
+    "rect": [
+      604,
+      164,
+      175,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      175,
+      99
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_infor02",
+    "texture": "67g9yF3+9H2bQDx4W1kkEg",
+    "rect": [
+      1,
+      0,
+      274,
+      113
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      275,
+      113
+    ]
+  }
+}

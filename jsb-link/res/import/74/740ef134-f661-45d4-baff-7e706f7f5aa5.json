@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "02同花顺-同花顺 (8)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      2,
+      1160,
+      570,
+      131
+    ],
+    "offset": [
+      0,
+      15
+    ],
+    "originalSize": [
+      570,
+      179
+    ],
+    "rotated": 1
+  }
+}

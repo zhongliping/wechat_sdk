@@ -1,0 +1,199 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feiwen",
+  "_duration": 1.7,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "56rNkHCG5FabSoUSY0T2c+"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f3FIHtkD9FRplwhhVSus/V"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "adafRsokBM65Q+SczJWeFu"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "b1LyCr6xhK17DD79ANuUb/"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e2G+s139FHbJceMDIJBpK6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "818Ig3FnpLMKXpEKinODst"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "7aYIu873BOAbAKX6whS7Rk"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "5bItNseB5IbpPv8ILWnDTg"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "a6K5s485lKb6XT4VGJouyw"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "98G6I34tVChrfL92sv/SNK"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "aczmkLLh1A5q6cK790e2dF"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "19Y4JAwyZLGIKisESSMXxP"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "b0Ko0ZhL9Elp6Chqt/OgRq"
+            }
+          },
+          {
+            "frame": 1.3,
+            "value": {
+              "__uuid__": "de8Mn5pRND75M6wpgflehD"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "27fabPJUZGLK/uSQauQhIS"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "18pjW8gIVL3aodxDD6Ktvi"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "0a+792lyZA9q4nT7OiXrUP"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            6,
+            -6
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            6,
+            -6
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            5
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 1.1,
+          "value": [
+            -5,
+            10
+          ]
+        },
+        {
+          "frame": 1.2,
+          "value": [
+            -5,
+            10
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 1.3,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        }
+      ]
+    }
+  }
+}

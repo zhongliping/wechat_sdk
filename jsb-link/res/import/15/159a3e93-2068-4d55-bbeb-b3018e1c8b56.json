@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jin",
+    "texture": "74EizJTA1AiJbmhBHh24zq",
+    "rect": [
+      0,
+      0,
+      30,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      33
+    ]
+  }
+}

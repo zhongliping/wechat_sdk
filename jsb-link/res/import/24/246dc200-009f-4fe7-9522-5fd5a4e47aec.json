@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playertime_01",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      176,
+      138,
+      120,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      172
+    ],
+    "rotated": 1
+  }
+}

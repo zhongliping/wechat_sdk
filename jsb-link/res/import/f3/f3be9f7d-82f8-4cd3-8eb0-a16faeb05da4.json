@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon2_xiaoxi",
+    "texture": "6dnyLtTG9HzrE6AS1Yj5Dj",
+    "rect": [
+      3,
+      9,
+      45,
+      32
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ]
+  }
+}

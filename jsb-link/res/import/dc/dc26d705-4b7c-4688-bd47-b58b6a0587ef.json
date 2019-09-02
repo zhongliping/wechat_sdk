@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CSMJ",
+    "texture": "8fn/fqdm9Eard7K3GIZlPB",
+    "rect": [
+      21,
+      12,
+      271,
+      379
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

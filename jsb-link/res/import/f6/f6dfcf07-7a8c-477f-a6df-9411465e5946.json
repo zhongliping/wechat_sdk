@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lingquzhuanshi4_tex",
+    "texture": "dcqFVJI41Nj4yB1I4Km2W8",
+    "rect": [
+      1,
+      1,
+      408,
+      472
+    ],
+    "offset": [
+      -51,
+      19
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

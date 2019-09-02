@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QYS",
+    "texture": "bdR5kJHhFPCKpHZoUzJIQw",
+    "rect": [
+      416,
+      404,
+      286,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      118
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianshu_blackjack",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      339,
+      255,
+      50,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      48
+    ],
+    "rotated": 1
+  }
+}

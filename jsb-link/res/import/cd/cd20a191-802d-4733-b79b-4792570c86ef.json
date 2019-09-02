@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_game_phz",
+    "texture": "89urej3QxGqbYCWMU8WFCm",
+    "rect": [
+      0,
+      0,
+      138,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      146
+    ]
+  }
+}

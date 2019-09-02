@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pai_di01",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      392,
+      180,
+      72,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      202
+    ],
+    "rotated": 1
+  }
+}

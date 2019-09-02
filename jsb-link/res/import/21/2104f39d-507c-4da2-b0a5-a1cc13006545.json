@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_picture_rw02",
+    "texture": "7drT4RgmpNrZ/kSiFIhXvY",
+    "rect": [
+      28,
+      25,
+      341,
+      290
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      397,
+      341
+    ]
+  }
+}

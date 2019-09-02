@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_wupin",
+    "texture": "4605JtGmRHdJnEPcaUowtZ",
+    "rect": [
+      300,
+      2,
+      49,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      49
+    ],
+    "capInsets": [
+      21,
+      21,
+      20,
+      23
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_join_qz",
+    "texture": "6bXPR8SSxF74zuVM9ZO1VB",
+    "rect": [
+      0,
+      0,
+      90,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      194
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "global_award",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "global_award",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "8dK0ELHzpH9LL51slsyfXb"
+      },
+      "fileId": "431b1NUQr5L3oA68jx/vMWC"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1150,
+      "height": 140
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -75
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "item",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 2
+        },
+        "_N$target": {
+          "__id__": 2
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "8dK0ELHzpH9LL51slsyfXb"
+      },
+      "fileId": "8c15bD006FAD6uWOvi4rOE0"
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 21
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Sprite",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 3
+        },
+        "_spriteFrame": {
+          "__uuid__": "11euIstxZEgaEsxAt9Zvxh"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "8dK0ELHzpH9LL51slsyfXb"
+      },
+      "fileId": "963f8lSYvxFFIZB//FmMKT+"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1150,
+      "height": 140
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -26
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "tittle",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 4
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 24,
+        "_fontSize": 24,
+        "_lineHeight": 24,
+        "_N$string": "2017年11月7日临时停服补偿",
+        "_N$verticalAlign": 1,
+        "_N$overflow": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "8dK0ELHzpH9LL51slsyfXb"
+      },
+      "fileId": "46d8604WDBDIplaM9V4P9di"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 225,
+      "b": 60
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 720,
+      "height": 24
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -542,
+      "y": 26
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "mail_content",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 5
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 18,
+        "_fontSize": 18,
+        "_lineHeight": 20,
+        "_N$string": "尊敬的各位玩家：\\r\\n     由于网络波动，导致部分玩家登陆游戏失败的问题已经解决，对您带来不便敬请谅解，为此我们将对受到影响的玩家进行补偿，补偿内容为：10房卡，我们将于今日18点前全部发放完毕，请尽快领取，再次感谢您对游戏支持与关注，祝您游戏愉快。",
+        "_N$overflow": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "8dK0ELHzpH9LL51slsyfXb"
+      },
+      "fileId": "ab488RIjKhDAo46dPlzLy93"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 250,
+      "b": 250
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 739,
+      "height": 85
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -542,
+      "y": -36
+    }
+  }
+]

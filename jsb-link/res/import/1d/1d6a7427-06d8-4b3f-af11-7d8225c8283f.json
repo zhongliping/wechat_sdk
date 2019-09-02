@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "主牌-梅花",
+    "texture": "0drKKRRjhM4L6gCLpxcS6h",
+    "rect": [
+      880,
+      144,
+      120,
+      118
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

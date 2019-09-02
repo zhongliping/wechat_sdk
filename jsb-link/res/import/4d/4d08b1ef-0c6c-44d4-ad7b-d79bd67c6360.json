@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_mall_num",
+    "texture": "693Yva9K1KmYmRiuaJ9Nnn",
+    "rect": [
+      2,
+      3,
+      136,
+      140
+    ],
+    "offset": [
+      -4,
+      3
+    ],
+    "originalSize": [
+      148,
+      152
+    ]
+  }
+}

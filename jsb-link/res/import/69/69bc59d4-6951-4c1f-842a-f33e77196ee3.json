@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "05比牌-赢-赢-12",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      1106,
+      195,
+      68,
+      75
+    ],
+    "offset": [
+      0,
+      -121
+    ],
+    "originalSize": [
+      166,
+      403
+    ],
+    "rotated": 1
+  }
+}

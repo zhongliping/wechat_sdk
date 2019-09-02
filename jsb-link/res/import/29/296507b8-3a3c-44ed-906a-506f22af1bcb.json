@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shoupaiqu",
+    "texture": "f5HnrIOlRK17cy4O/5ChX1",
+    "rect": [
+      312,
+      370,
+      102,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      134
+    ]
+  }
+}

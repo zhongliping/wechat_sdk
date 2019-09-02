@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liuju_bg",
+    "texture": "eeQkU4fJNPEZoy4n24xXqh",
+    "rect": [
+      0,
+      0,
+      500,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      179
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "difen_bg",
+    "texture": "fd2LQ9iWNGjbojevYwcMLR",
+    "rect": [
+      0,
+      0,
+      97,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      41
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "renwu",
+    "texture": "3blNQc/fdB87fdljpyNNop",
+    "rect": [
+      26,
+      2,
+      112,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      59
+    ],
+    "rotated": 1
+  }
+}

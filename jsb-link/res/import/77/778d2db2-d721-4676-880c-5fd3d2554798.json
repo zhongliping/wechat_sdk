@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_mall_jiage",
+    "texture": "c2GJz9FpdGfZ8Fi006wx0T",
+    "rect": [
+      2,
+      3,
+      146,
+      186
+    ],
+    "offset": [
+      -2,
+      2.5
+    ],
+    "originalSize": [
+      154,
+      197
+    ]
+  }
+}

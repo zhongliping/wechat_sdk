@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_liu01",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      417,
+      691,
+      105,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      106
+    ],
+    "rotated": 1
+  }
+}

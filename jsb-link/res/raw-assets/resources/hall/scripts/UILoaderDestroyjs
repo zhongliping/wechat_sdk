@@ -1,0 +1,9 @@
+const UILoader = require("./UILoader");
+cc.Class({
+    extends: cc.Component,
+    
+    onClose:function(){
+        UILoader.destroy(this.node);
+    },
+   
+});

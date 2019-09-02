@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Z_nobody",
+    "texture": "e84u4CGdxOO6FvAsSCWJrr",
+    "rect": [
+      10,
+      5,
+      40,
+      54
+    ],
+    "offset": [
+      -2.5,
+      0.5
+    ],
+    "originalSize": [
+      65,
+      65
+    ]
+  }
+}

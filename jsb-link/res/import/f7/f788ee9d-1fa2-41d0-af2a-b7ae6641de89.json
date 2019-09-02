@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_04a",
+    "texture": "90RwP1ZBxAUb6TFHJ5YYea",
+    "rect": [
+      188,
+      2,
+      38,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      38
+    ]
+  }
+}

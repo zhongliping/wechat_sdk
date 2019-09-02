@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fangjianleixing",
+    "texture": "beRfbDbNtA7IdPRQkZinT2",
+    "rect": [
+      0,
+      0,
+      98,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      26
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zhadan.plist",
+  "_spriteFrames": {
+    "跑得快-炸弹1": {
+      "__uuid__": "84VfZOyjBPi6COczh0qte/"
+    },
+    "跑得快-炸弹2": {
+      "__uuid__": "3dHg5KsVRPJJ1kdj4nYGBX"
+    },
+    "跑得快-炸弹3": {
+      "__uuid__": "6dlBgWb8RKGafgv+TcL6eU"
+    },
+    "跑得快-炸弹4": {
+      "__uuid__": "7fKEPnZR9BaJtNoeMce7OI"
+    },
+    "跑得快-炸弹5": {
+      "__uuid__": "2bYOAnTWdIB7QAMtBMzK5q"
+    },
+    "跑得快-炸弹6": {
+      "__uuid__": "f3XauPTjlNdbNuTxcUtJf8"
+    },
+    "跑得快-炸弹7": {
+      "__uuid__": "f18AyulNNBPr3Ar/zexb8Z"
+    },
+    "跑得快-炸弹8": {
+      "__uuid__": "b28Tpv0ulLMrb9nMgGrHEo"
+    },
+    "跑得快-炸弹9": {
+      "__uuid__": "2bxjSKYJlEtJyWwGDaAfnN"
+    }
+  }
+}

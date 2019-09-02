@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_zj",
+    "texture": "90RwP1ZBxAUb6TFHJ5YYea",
+    "rect": [
+      2,
+      162,
+      104,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      106
+    ],
+    "rotated": 1
+  }
+}

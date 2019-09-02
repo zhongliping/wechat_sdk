@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "handcard14",
+    "texture": "6akpyDSQdMx51+ixwX81jq",
+    "rect": [
+      182,
+      510,
+      56,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      62
+    ],
+    "rotated": 1
+  }
+}

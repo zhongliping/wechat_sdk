@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "pdktexiao",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pdktexiao",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "62vitsXttJ7JVXyKw8It8G"
+          },
+          {
+            "__uuid__": "722RHOGZBO17+5u0YKAxj8"
+          },
+          {
+            "__uuid__": "687IQJBwlIsYt4zChJj3rP"
+          },
+          {
+            "__uuid__": "55J1FTzKdLJpEVwn9hEXHt"
+          },
+          {
+            "__uuid__": "a090+G7bNNmIVTso0qmS0y"
+          },
+          {
+            "__uuid__": "dfXu+4gT1HV6IiRgj+bw2R"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b1p2+nlZNMSb/G7K5xB0kL"
+      },
+      "fileId": "94ZXhWDZBDja+6t/SBttNJ"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 671,
+      "height": 195
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 30
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_buchu",
+    "texture": "15WdZmVfhJxZpVw2uluNOF",
+    "rect": [
+      0,
+      0,
+      84,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      41
+    ]
+  }
+}

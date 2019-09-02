@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common-seat_bg",
+    "texture": "fdSJs52FJOaIpVryC71/KL",
+    "rect": [
+      2,
+      59,
+      105,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      131
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "quanguan",
+  "_duration": 0.9,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "afDpo32dZJPZRscXMGgy36"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "2dO6T+5dNBE4aA4e4X569V"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "e3z+jk1ARDpokZInyyXqLz"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "c72e2usTVOb48NNOCD+mFg"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "9enST8wWdC347mEAsO4Bad"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "0703bKjCNDUYg//yDTEtDe"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "f1+jBXfdVD+Ju3DCuHduiF"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "a3JtA3Rn5NMqto0v4Mzy+B"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            7.5,
+            -9
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.7,
+          "value": 255
+        },
+        {
+          "frame": 0.9,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1.5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nicheng",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2007,
+      303,
+      50,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      21
+    ],
+    "rotated": 1
+  }
+}

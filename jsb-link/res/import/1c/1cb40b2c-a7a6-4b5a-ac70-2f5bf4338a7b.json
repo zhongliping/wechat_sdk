@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_anzhushuohua",
+    "texture": "3diVQMCfNHiK1VxWupjm5c",
+    "rect": [
+      0,
+      0,
+      37,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      37
+    ],
+    "capInsets": [
+      11,
+      11,
+      10,
+      11
+    ]
+  }
+}

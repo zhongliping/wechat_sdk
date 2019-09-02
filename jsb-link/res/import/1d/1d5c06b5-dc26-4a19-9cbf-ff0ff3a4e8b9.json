@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "枪-枪4",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      1286,
+      769,
+      229,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      229,
+      100
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pkbg",
+    "texture": "afr4TmHcpEjr4eSr8KSGxV",
+    "rect": [
+      0,
+      0,
+      89,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      135
+    ]
+  }
+}

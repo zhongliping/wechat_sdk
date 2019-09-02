@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_jiabei",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      429,
+      255,
+      129,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      30
+    ]
+  }
+}

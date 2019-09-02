@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "选中箭头标示",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      999,
+      2,
+      167,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      19
+    ],
+    "rotated": 1
+  }
+}

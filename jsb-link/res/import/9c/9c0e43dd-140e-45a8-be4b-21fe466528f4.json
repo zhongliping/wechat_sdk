@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aircraft-y2",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      351,
+      1164,
+      46,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "rotated": 1
+  }
+}

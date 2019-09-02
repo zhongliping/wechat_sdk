@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dice-5",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      368,
+      970,
+      97,
+      95
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      97,
+      97
+    ]
+  }
+}

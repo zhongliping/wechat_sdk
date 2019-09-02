@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jilu01",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      611,
+      892,
+      59,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      54
+    ],
+    "rotated": 1
+  }
+}

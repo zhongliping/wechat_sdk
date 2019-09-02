@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "task",
+    "texture": "3blNQc/fdB87fdljpyNNop",
+    "rect": [
+      2,
+      2,
+      99,
+      495
+    ],
+    "offset": [
+      -12.5,
+      6.5
+    ],
+    "originalSize": [
+      128,
+      512
+    ]
+  }
+}

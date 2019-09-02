@@ -1,0 +1,15 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "common.plist",
+  "_spriteFrames": {
+    "ICONS": {
+      "__uuid__": "d2uIjpFhtM27KI5xptKJDp"
+    },
+    "guangdian": {
+      "__uuid__": "faJp+MsXdNC66zsYMqOSPq"
+    },
+    "quan": {
+      "__uuid__": "12CQPZsSBOqpGwAUYkAn+R"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaizhao",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      2,
+      427,
+      193,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      108
+    ]
+  }
+}

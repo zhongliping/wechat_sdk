@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cai_xia",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      152,
+      127,
+      70,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      54
+    ]
+  }
+}

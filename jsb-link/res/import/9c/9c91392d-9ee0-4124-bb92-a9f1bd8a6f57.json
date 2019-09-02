@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_paizu",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      843,
+      279,
+      177,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      51
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "red_bai_37",
+  "spriteFrame": {
+    "__uuid__": "5acmV577lOHZyv28zIXDby"
+  },
+  "fontSize": 37,
+  "_fntConfig": {
+    "commonHeight": 46,
+    "fontSize": 37,
+    "atlasName": "red_bai_37.png",
+    "fontDefDictionary": {
+      "32": {
+        "rect": {
+          "x": 133,
+          "y": 46,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 34,
+        "xAdvance": 10
+      },
+      "19981": {
+        "rect": {
+          "x": 90,
+          "y": 46,
+          "width": 41,
+          "height": 40
+        },
+        "xOffset": 2,
+        "yOffset": -3,
+        "xAdvance": 37
+      },
+      "24196": {
+        "rect": {
+          "x": 2,
+          "y": 2,
+          "width": 42,
+          "height": 42
+        },
+        "xOffset": 2,
+        "yOffset": -4,
+        "xAdvance": 37
+      },
+      "24320": {
+        "rect": {
+          "x": 46,
+          "y": 46,
+          "width": 42,
+          "height": 41
+        },
+        "xOffset": 2,
+        "yOffset": -3,
+        "xAdvance": 37
+      },
+      "25250": {
+        "rect": {
+          "x": 46,
+          "y": 2,
+          "width": 42,
+          "height": 42
+        },
+        "xOffset": 2,
+        "yOffset": -5,
+        "xAdvance": 37
+      },
+      "25619": {
+        "rect": {
+          "x": 90,
+          "y": 2,
+          "width": 42,
+          "height": 42
+        },
+        "xOffset": 1,
+        "yOffset": -4,
+        "xAdvance": 37
+      },
+      "29260": {
+        "rect": {
+          "x": 2,
+          "y": 46,
+          "width": 42,
+          "height": 42
+        },
+        "xOffset": 2,
+        "yOffset": -4,
+        "xAdvance": 37
+      }
+    },
+    "kerningDict": {}
+  }
+}

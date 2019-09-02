@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_btn_a4",
+    "texture": "3eBHpAlatHx7ucG+nnYraG",
+    "rect": [
+      6,
+      7,
+      31,
+      26
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      44,
+      41
+    ]
+  }
+}

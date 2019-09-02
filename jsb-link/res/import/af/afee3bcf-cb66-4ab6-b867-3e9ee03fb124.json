@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zongjuesai_2",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      538,
+      1382,
+      127,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      132
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qizhi",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      355,
+      1382,
+      181,
+      533
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      533
+    ]
+  }
+}

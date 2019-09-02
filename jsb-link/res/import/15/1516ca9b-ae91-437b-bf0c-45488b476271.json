@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianshu_jiadian",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      824,
+      196,
+      172,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      66
+    ]
+  }
+}

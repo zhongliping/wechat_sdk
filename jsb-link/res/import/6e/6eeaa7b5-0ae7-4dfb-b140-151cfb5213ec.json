@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guangdian",
+    "texture": "492TdYfnlHia3oKRiNTzLD",
+    "rect": [
+      2,
+      401,
+      61,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      61
+    ]
+  }
+}

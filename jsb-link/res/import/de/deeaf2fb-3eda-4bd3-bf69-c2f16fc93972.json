@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FZMJ",
+    "texture": "f98EwD+pJJepb9OlrnUM/J",
+    "rect": [
+      21,
+      12,
+      271,
+      379
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

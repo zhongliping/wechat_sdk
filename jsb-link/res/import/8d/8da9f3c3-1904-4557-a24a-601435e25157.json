@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fly-touzi2",
+  "_duration": 0.8,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "80JJwgYBhLTrMUjiukG71r"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "09ca+JL/NBYJoSxb1FEFCc"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "dec68MLJdC4pqaNvTdDe9g"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "00GprprrNNu4r5culpmEQ/"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "80JJwgYBhLTrMUjiukG71r"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "09ca+JL/NBYJoSxb1FEFCc"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "dec68MLJdC4pqaNvTdDe9g"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "00GprprrNNu4r5culpmEQ/"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.7,
+          "value": 255
+        },
+        {
+          "frame": 0.8,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.5
+        }
+      ]
+    }
+  }
+}

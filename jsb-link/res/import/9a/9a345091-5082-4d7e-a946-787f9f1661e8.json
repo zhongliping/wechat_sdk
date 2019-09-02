@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shijiangkuang",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      471,
+      427,
+      248,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      90
+    ]
+  }
+}

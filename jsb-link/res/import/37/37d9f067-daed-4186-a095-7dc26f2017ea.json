@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zuo_2",
+    "texture": "3emVK0Lh5OXobGF7cR2WU5",
+    "rect": [
+      2,
+      0,
+      994,
+      202
+    ],
+    "offset": [
+      1,
+      3
+    ],
+    "originalSize": [
+      996,
+      208
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3g",
+    "texture": "43DJkZ2yRJVY87v2c37ufU",
+    "rect": [
+      2,
+      2,
+      1011,
+      1003
+    ],
+    "offset": [
+      -4.5,
+      8.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

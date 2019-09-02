@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_papers",
+    "texture": "33u4zZIf9BaZzEr8oUeTJ0",
+    "rect": [
+      0,
+      0,
+      61,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      41
+    ]
+  }
+}

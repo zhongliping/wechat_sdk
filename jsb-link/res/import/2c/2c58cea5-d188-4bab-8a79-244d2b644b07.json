@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zhadan.plist",
+  "_spriteFrames": {
+    "炸弹 (1)": {
+      "__uuid__": "e8/CobQBNMGrH22F3eSby3"
+    },
+    "炸弹 (10)": {
+      "__uuid__": "51Wy7uYpVDP4uQFuq5tL34"
+    },
+    "炸弹 (11)": {
+      "__uuid__": "2dAhHfbeJH87ClW/dUTvL/"
+    },
+    "炸弹 (12)": {
+      "__uuid__": "ectqKGnJ1G+oNigHpy/ANc"
+    },
+    "炸弹 (13)": {
+      "__uuid__": "a1pj/snDZEwLUr9QeQOE8g"
+    },
+    "炸弹 (14)": {
+      "__uuid__": "045047R9xAqLSstdPaUzTa"
+    },
+    "炸弹 (15)": {
+      "__uuid__": "e98DyKmwpLBZ3J3TjNy7f9"
+    },
+    "炸弹 (16)": {
+      "__uuid__": "36OpLMEwND8Joir7Ull9DR"
+    },
+    "炸弹 (17)": {
+      "__uuid__": "d9C/N0YiNGzqBAI4+99ixM"
+    },
+    "炸弹 (19)": {
+      "__uuid__": "d6U9x97aRK5o6CNNO0Tay2"
+    },
+    "炸弹 (2)": {
+      "__uuid__": "75j/UrpaZHpZaRkYWO1jFW"
+    },
+    "炸弹 (20)": {
+      "__uuid__": "2eD2Omf/ZJhIzFPDLoM9o9"
+    },
+    "炸弹 (21)": {
+      "__uuid__": "b9MPbGuu9EPrKgDzHuw6fF"
+    },
+    "炸弹 (22)": {
+      "__uuid__": "74nRYvx9RIwpwN61H0M4c1"
+    },
+    "炸弹 (23)": {
+      "__uuid__": "b9jk6rdn9OYKqH7NnlUuVJ"
+    },
+    "炸弹 (3)": {
+      "__uuid__": "63TGFzr3VGQIHTAO1PThyi"
+    },
+    "炸弹 (4)": {
+      "__uuid__": "b0BLKCpT1JNrjQVXly/tyY"
+    },
+    "炸弹 (5)": {
+      "__uuid__": "239ImsxdlHLrL6nBqPhnGt"
+    },
+    "炸弹 (6)": {
+      "__uuid__": "b3z8xoOItGQJkZDiMbF85/"
+    },
+    "炸弹 (8)": {
+      "__uuid__": "96DzQ50l1NaqKM0/ueUDhJ"
+    },
+    "炸弹 (9)": {
+      "__uuid__": "a5TkJGvdZEAJWn9mmCRqHI"
+    }
+  }
+}

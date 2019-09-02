@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaisyoui",
+    "texture": "1eDeKCnlpPPaxh53qciVdr",
+    "rect": [
+      2,
+      217,
+      129,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      34
+    ]
+  }
+}

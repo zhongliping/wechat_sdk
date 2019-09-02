@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quanquan",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      355,
+      380,
+      1203,
+      1000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1203,
+      1000
+    ]
+  }
+}

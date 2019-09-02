@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yuesai",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1983,
+      831,
+      85,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      41
+    ],
+    "rotated": 1
+  }
+}

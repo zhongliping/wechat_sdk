@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zimo",
+    "texture": "19FS5VLPpJK6P4g5dwfJHS",
+    "rect": [
+      0,
+      0,
+      153,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      87
+    ]
+  }
+}

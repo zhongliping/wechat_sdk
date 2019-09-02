@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gang",
+    "texture": "193xUX+8lOWoubs+vhIb7P",
+    "rect": [
+      175,
+      74,
+      70,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      73
+    ],
+    "rotated": 1
+  }
+}

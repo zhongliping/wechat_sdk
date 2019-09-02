@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "needle",
+    "texture": "9bjzUXtfBJg5E9cGu5GtVm",
+    "rect": [
+      0,
+      0,
+      59,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      123
+    ]
+  }
+}

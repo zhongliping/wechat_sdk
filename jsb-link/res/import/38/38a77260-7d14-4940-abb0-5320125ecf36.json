@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DNN",
+    "texture": "97UwJ5x25MtboZSD1+NGZm",
+    "rect": [
+      0,
+      0,
+      313,
+      404
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

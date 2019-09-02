@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daguang",
+    "texture": "e1aHltVe1Cvqm+R+6zQBGk",
+    "rect": [
+      2,
+      2,
+      490,
+      976
+    ],
+    "offset": [
+      -9,
+      22
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

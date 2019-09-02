@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btnInvite",
+    "texture": "10Z9JsFIBFMaIZr6E4dRy7",
+    "rect": [
+      0,
+      0,
+      102,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      76
+    ]
+  }
+}

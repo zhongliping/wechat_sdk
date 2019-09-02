@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_Course",
+    "texture": "2c6OuIoZRCbIq+QUHUdV2o",
+    "rect": [
+      1,
+      0,
+      74,
+      74
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      75
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "顺子12",
+    "texture": "b8XUBQaRtAXKzEal853Axw",
+    "rect": [
+      312,
+      879,
+      220,
+      183
+    ],
+    "offset": [
+      -23,
+      -35
+    ],
+    "originalSize": [
+      1024,
+      257
+    ],
+    "rotated": 1
+  }
+}

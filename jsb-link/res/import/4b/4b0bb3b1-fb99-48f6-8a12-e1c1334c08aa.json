@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gonggao",
+    "texture": "3bwbkBt/RGrZHAEpYri05k",
+    "rect": [
+      0,
+      0,
+      995,
+      42
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      996,
+      42
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "texiao_sdb",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "texiao_sdb",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "3ah0oqM9RH5Jb7Mn40ax2h"
+          },
+          {
+            "__uuid__": "5eatilRARGFrhXVbu9lpuC"
+          },
+          {
+            "__uuid__": "3c022PpAlGqLsq62DDCUHn"
+          },
+          {
+            "__uuid__": "90uBTjFflDU7xLgjqd+2cn"
+          },
+          {
+            "__uuid__": "0ew1FKR4NLTrwIvXr7bUyO"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "c26caSN799M25d7Dv3d5ZBt"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

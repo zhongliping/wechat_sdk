@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_zipai",
+    "texture": "c3F1YZXDJDS7UyAhRvqNkg",
+    "rect": [
+      0,
+      0,
+      1440,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      720
+    ]
+  }
+}

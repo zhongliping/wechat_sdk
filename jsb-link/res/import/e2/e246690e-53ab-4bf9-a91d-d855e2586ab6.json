@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GLZP",
+    "texture": "cfCshEeINDqKgekVZvDHNu",
+    "rect": [
+      13,
+      12,
+      280,
+      379
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

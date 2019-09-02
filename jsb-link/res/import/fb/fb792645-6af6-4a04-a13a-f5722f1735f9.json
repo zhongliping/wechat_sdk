@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "seat_Atlas.plist",
+  "_spriteFrames": {
+    "MJRoom-Z_nobody": {
+      "__uuid__": "5fswtjCQFJ15cSSTzU479+"
+    },
+    "MJRoom-Z_offline": {
+      "__uuid__": "e19S8dryZDP7jVAhVCr/px"
+    },
+    "bao": {
+      "__uuid__": "c3ErLcx2FCnK3DfqTZCaTn"
+    },
+    "chat-chatbg_lt": {
+      "__uuid__": "3cEnX/2g9GEr3aYcxXHR7n"
+    },
+    "chat-chatbg_rd": {
+      "__uuid__": "bb3fa+0CFFYYIhU+knMIHK"
+    },
+    "common-seat_bg": {
+      "__uuid__": "bdigLzanhHIaTm9iPxO02p"
+    },
+    "icon_gang": {
+      "__uuid__": "19eiTKgZtP6YaSe4fs7c6F"
+    },
+    "mj_zhuang": {
+      "__uuid__": "bajUA41mFMioN3R/oEjkLG"
+    },
+    "voice-adj": {
+      "__uuid__": "bc3260l7dDOo8TXQEm/nC1"
+    },
+    "voice-yyDialog": {
+      "__uuid__": "18hQDxA65CcLJAdItI50Vm"
+    }
+  }
+}

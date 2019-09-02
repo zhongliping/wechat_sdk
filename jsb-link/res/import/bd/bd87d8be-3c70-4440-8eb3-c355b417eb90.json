@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "myself_d_Atlas.plist",
+  "_spriteFrames": {
+    "hand_bg": {
+      "__uuid__": "d7a9Ieu1JIJIWEIxpQxf02"
+    },
+    "img_bao": {
+      "__uuid__": "4fNWZoyUVOrqeAHtXg66Ne"
+    },
+    "img_cai": {
+      "__uuid__": "c56y5HWHhBW4F7/NkcJR+6"
+    },
+    "img_gang": {
+      "__uuid__": "b04bIiLJVGCJ5XqEsEYG7Q"
+    },
+    "img_green": {
+      "__uuid__": "edtB++r5tBA46pNt/4+G7L"
+    },
+    "img_jin": {
+      "__uuid__": "3fodnplo1HQqBs2LWquWoS"
+    },
+    "img_mask": {
+      "__uuid__": "420M1kYgVM5boenzpxFJD1"
+    },
+    "out_bg_1_15": {
+      "__uuid__": "b38PDwFThJdYvpWeRgcrGM"
+    },
+    "out_bg_3_3": {
+      "__uuid__": "95vxh0wMdDnawLlzENZ2gn"
+    }
+  }
+}

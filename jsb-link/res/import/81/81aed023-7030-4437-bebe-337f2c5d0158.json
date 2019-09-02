@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洞-洞 (13)",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      1286,
+      680,
+      87,
+      112
+    ],
+    "offset": [
+      22,
+      -3
+    ],
+    "originalSize": [
+      131,
+      118
+    ],
+    "rotated": 1
+  }
+}

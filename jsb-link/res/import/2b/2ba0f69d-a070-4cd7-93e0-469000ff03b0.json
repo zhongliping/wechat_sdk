@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "赢了-4",
+    "texture": "7a4hsQE4JCS58+QQzZNSRn",
+    "rect": [
+      583,
+      568,
+      259,
+      212
+    ],
+    "offset": [
+      2,
+      20
+    ],
+    "originalSize": [
+      603,
+      286
+    ],
+    "rotated": 1
+  }
+}

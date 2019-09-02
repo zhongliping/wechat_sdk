@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jifen",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2007,
+      355,
+      49,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      21
+    ],
+    "rotated": 1
+  }
+}

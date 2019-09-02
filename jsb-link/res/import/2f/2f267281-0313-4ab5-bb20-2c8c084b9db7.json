@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "han",
+  "_duration": 0.3333333333333333,
+  "sample": 6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d2M8TgCgtMS7q7F9/0Gggn"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "359+nBJqJIcaVW5J37dJ8S"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

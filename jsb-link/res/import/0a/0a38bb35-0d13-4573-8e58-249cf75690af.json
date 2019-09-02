@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "quanguan.plist",
+  "_spriteFrames": {
+    "全关1": {
+      "__uuid__": "afDpo32dZJPZRscXMGgy36"
+    },
+    "全关11": {
+      "__uuid__": "f1+jBXfdVD+Ju3DCuHduiF"
+    },
+    "全关12": {
+      "__uuid__": "a3JtA3Rn5NMqto0v4Mzy+B"
+    },
+    "全关3": {
+      "__uuid__": "2dO6T+5dNBE4aA4e4X569V"
+    },
+    "全关5": {
+      "__uuid__": "e3z+jk1ARDpokZInyyXqLz"
+    },
+    "全关7": {
+      "__uuid__": "c72e2usTVOb48NNOCD+mFg"
+    },
+    "全关8": {
+      "__uuid__": "9enST8wWdC347mEAsO4Bad"
+    },
+    "全关9": {
+      "__uuid__": "0703bKjCNDUYg//yDTEtDe"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "泼水",
+    "texture": "44IudelvNFxaBNllASuj3D",
+    "rect": [
+      64,
+      68,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      64
+    ]
+  }
+}

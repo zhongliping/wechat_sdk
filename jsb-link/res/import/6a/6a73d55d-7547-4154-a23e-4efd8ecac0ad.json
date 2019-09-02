@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "01至尊九-Sg_0008_zzj",
+    "texture": "43DJkZ2yRJVY87v2c37ufU",
+    "rect": [
+      412,
+      404,
+      242,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      136
+    ]
+  }
+}

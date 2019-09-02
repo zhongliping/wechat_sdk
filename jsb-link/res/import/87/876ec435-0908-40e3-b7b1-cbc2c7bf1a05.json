@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "连对 (5)",
+    "texture": "26oFec9yBEroZL8+hin++I",
+    "rect": [
+      56,
+      216,
+      232,
+      54
+    ],
+    "offset": [
+      -6,
+      -8
+    ],
+    "originalSize": [
+      512,
+      82
+    ],
+    "rotated": 1
+  }
+}

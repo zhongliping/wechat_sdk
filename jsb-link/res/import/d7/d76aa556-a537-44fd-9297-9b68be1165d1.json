@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zongjuesai",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1983,
+      572,
+      128,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      41
+    ],
+    "rotated": 1
+  }
+}

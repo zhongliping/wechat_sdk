@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zjh-vs",
+  "_duration": 0.3,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b5HwTjRGlPtq5Bdk5nxLZv"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7blQ7g7ipDN6R5eGevzm4+"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        }
+      ]
+    }
+  }
+}

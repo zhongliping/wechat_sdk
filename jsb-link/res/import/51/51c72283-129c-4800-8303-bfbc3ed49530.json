@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_tex",
+    "texture": "d3rLfPUf5KJobc9n3sjFJR",
+    "rect": [
+      1,
+      1,
+      237,
+      176
+    ],
+    "offset": [
+      -8.5,
+      39
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

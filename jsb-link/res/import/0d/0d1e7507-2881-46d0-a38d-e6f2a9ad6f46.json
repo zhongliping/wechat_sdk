@@ -1,0 +1,51 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "daqiang",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "daqiang",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "82PCZIyiZHdpxSELya5wJ2"
+          },
+          {
+            "__uuid__": "3e1aOMq+JKFYBr7I9AhhEg"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "92fb2xE16JB2owT+pJ2H+jQ"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

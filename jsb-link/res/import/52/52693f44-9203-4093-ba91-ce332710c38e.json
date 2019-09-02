@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bdan",
+    "texture": "057STk1zlM06WIyXbAK8Ii",
+    "rect": [
+      0,
+      0,
+      115,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      116
+    ]
+  }
+}

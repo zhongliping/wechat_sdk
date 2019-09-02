@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_level_tag",
+    "texture": "09lRu4rfVOdo4N0XVOvTmV",
+    "rect": [
+      0,
+      0,
+      51,
+      39
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      52,
+      40
+    ]
+  }
+}

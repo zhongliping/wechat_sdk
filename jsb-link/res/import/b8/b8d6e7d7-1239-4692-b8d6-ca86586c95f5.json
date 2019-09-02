@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhege",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      287,
+      495,
+      241,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      33
+    ],
+    "rotated": 1
+  }
+}

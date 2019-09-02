@@ -1,0 +1,85 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "texiao_dnn",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "texiao_dnn",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "5aksLLxw1DsaEh0x2DgwPc"
+          },
+          {
+            "__uuid__": "acdrXChgRAD7Utkh7iyDoC"
+          },
+          {
+            "__uuid__": "dcESCY4TVMTIK1IGnifhnt"
+          },
+          {
+            "__uuid__": "dd82rNqbhMj7D3D1r918Fy"
+          },
+          {
+            "__uuid__": "190k/i9zJPH76ZHVGf1ypq"
+          },
+          {
+            "__uuid__": "014k2RsvtPoJ+/pbSWcDXF"
+          },
+          {
+            "__uuid__": "344W0rBxJAFIOsKAZjVeUS"
+          },
+          {
+            "__uuid__": "2cfYW4pLdDeYKsVajuc6Nu"
+          },
+          {
+            "__uuid__": "5ffYP02UlETYyJmwN094e2"
+          },
+          {
+            "__uuid__": "eb5E7p1dBOOZNHw12ZRcRp"
+          },
+          {
+            "__uuid__": "66kHJSDh9HF4kur029Qnpi"
+          },
+          {
+            "__uuid__": "fd2UnxRFZLhK95LEtGP0kL"
+          },
+          {
+            "__uuid__": "55OYhc9VxFLrjP4EKhNjp9"
+          }
+        ],
+        "playOnLoad": true
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "7b3d7FpX+5C+4X8wYOvNdHT"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 173,
+      "height": 63
+    }
+  }
+]

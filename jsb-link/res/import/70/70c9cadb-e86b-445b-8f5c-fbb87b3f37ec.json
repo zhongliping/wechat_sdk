@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "微信图片_20180209182242",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      359,
+      903,
+      76,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      73
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yidong_kuang",
+    "texture": "f5HnrIOlRK17cy4O/5ChX1",
+    "rect": [
+      416,
+      366,
+      112,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      144
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paguo-dg",
+  "_duration": 1.7,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "85UlFpJs9I9KRCCliVXZ5X"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "01UcyVuFtKOI3NNXhs8O+e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5bSPU23m5PN4Sru8EH2zKH"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f1OvfRBG5PQ76kHvu8+ISL"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "072V2eYMFNc4xg0buX666/"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "83HsNFAKFOHZJdsK5tn/Hq"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "96nep71VJNkaQIDz/84xrB"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "f4d5BeUGFP+Ji3A00vPpQU"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "a4Id3ltKhDGbbs0cJKwh0K"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "f4qRXysVBLy5kjq3V0z+4P"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "67N4/GLrxOZYLEbVB6Sgd0"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "91sfFIKIZM+J/0QYawAAxN"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "c5MkXNkgxN8aBlbLQvj7gQ"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1.1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1.2,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.5,
+          "value": 255
+        },
+        {
+          "frame": 1.7,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

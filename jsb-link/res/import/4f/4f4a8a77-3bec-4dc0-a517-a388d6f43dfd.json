@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "effects_Atlas.plist",
+  "_spriteFrames": {
+    "BBG": {
+      "__uuid__": "5ehiXEIVlMQ4Y33ZZYobAB"
+    },
+    "BBH": {
+      "__uuid__": "f5HDDIlq9ERKghnSdyVkW5"
+    },
+    "DSX": {
+      "__uuid__": "ca0xw62uhEKonJVevVimQH"
+    },
+    "JTYN": {
+      "__uuid__": "4buu9SBnxPJ4LVExPTVzYZ"
+    },
+    "LLS": {
+      "__uuid__": "85TqVo+u9OuJCkzxhnMNMs"
+    },
+    "P1F": {
+      "__uuid__": "acKyDUc25IsYQkVlBdS1ob"
+    },
+    "P2F": {
+      "__uuid__": "eehA3aPhJAH6jOetCD/717"
+    },
+    "P3F": {
+      "__uuid__": "a395lfIj5FPb7mBofblBmA"
+    },
+    "QYS": {
+      "__uuid__": "44UAp0xoxK8pm3w4diEF3I"
+    },
+    "ST": {
+      "__uuid__": "6eIk69puVL3I/gvHTrsfCQ"
+    },
+    "YZH": {
+      "__uuid__": "81jSTWuGhK7b3xrw1L1b41"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_sc_menu",
+    "texture": "4e2i96cRRBrLmeo5/3qe2z",
+    "rect": [
+      0,
+      0,
+      281,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      720
+    ]
+  }
+}

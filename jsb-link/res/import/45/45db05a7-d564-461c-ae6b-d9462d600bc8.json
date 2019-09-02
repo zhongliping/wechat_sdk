@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chi_chipai",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      926,
+      95,
+      44,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      90
+    ],
+    "rotated": 1
+  }
+}

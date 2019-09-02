@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "left_bg",
+    "texture": "e0UX/9XMBEOLTXMzOpMWik",
+    "rect": [
+      0,
+      0,
+      168,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      43
+    ]
+  }
+}

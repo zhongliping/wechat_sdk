@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_mask",
+    "texture": "193xUX+8lOWoubs+vhIb7P",
+    "rect": [
+      2,
+      129,
+      89,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      118
+    ],
+    "rotated": 1
+  }
+}

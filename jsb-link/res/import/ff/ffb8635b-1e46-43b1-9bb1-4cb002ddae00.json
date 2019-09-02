@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taimian",
+    "texture": "adqzj2aIRNL6MHDIMYiZ/r",
+    "rect": [
+      0,
+      0,
+      998,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      998,
+      123
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_9_big",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      539,
+      389,
+      28,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      48
+    ],
+    "rotated": 1
+  }
+}

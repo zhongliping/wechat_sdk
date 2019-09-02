@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_btnlan",
+    "texture": "47LnqmCmJHhIBVNd9YqTWx",
+    "rect": [
+      2,
+      2,
+      308,
+      230
+    ],
+    "offset": [
+      -0.5,
+      19.5
+    ],
+    "originalSize": [
+      313,
+      273
+    ]
+  }
+}

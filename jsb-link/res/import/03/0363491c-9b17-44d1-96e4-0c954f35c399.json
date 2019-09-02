@@ -1,0 +1,303 @@
+[
+  {
+    "__type__": "cc.SceneAsset",
+    "_name": "update",
+    "scene": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Scene",
+    "_name": "New Node",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_anchorPoint": {
+      "__type__": "cc.Vec2"
+    },
+    "autoReleaseAssets": true
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Canvas",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 7
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Canvas",
+        "node": {
+          "__id__": 2
+        },
+        "_designResolution": {
+          "__type__": "cc.Size",
+          "width": 1440,
+          "height": 720
+        }
+      },
+      {
+        "__type__": "be0a82AB2NEcotEbBPY3I8L",
+        "node": {
+          "__id__": 2
+        },
+        "manifestUrl": {
+          "__uuid__": "53WKn/635HYJaLgSGu4e9D"
+        },
+        "percent": {
+          "__id__": 11
+        },
+        "lblErr": {
+          "__id__": 6
+        },
+        "bar": {
+          "__id__": 12
+        },
+        "config": {
+          "__uuid__": "71pRNhUPhADL6u9k9Cj7Ht"
+        },
+        "games": {
+          "__uuid__": "93tcBO3YBMMYutNmnC412n"
+        },
+        "updateGame": {
+          "__uuid__": "03j1NOQjFDs5eSnMgZecDJ"
+        },
+        "version_manifest": {
+          "__uuid__": "efmwIKYz5KL4NabERu127L"
+        }
+      }
+    ],
+    "_id": "f6c08nTHhlLQJeedivWWHwP",
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1440,
+      "height": 720
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 720,
+      "y": 360
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "z_loading",
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 3
+        },
+        "_spriteFrame": {
+          "__uuid__": "64nTM0qnlPQJ476/BEYRqT"
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1560,
+      "height": 1000
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Sprite",
+    "_parent": {
+      "__id__": 3
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 4
+        },
+        "_spriteFrame": {
+          "__uuid__": "32KstwAAlLbJupGPFYDp4/"
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 678,
+      "height": 262
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 23,
+      "y": 63
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lb",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 164,
+      "height": 35
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -278
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 5
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 24,
+    "_fontSize": 24,
+    "_lineHeight": 35,
+    "_N$string": "正在连接网络...",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "loading",
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 10
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 7
+        },
+        "_spriteFrame": {
+          "__uuid__": "c66PK61vFCVJICyZPdWIC2"
+        },
+        "_sizeMode": 0
+      },
+      {
+        "__id__": 12
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1100,
+      "height": 9
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -247
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bar",
+    "_parent": {
+      "__id__": 7
+    },
+    "_components": [
+      {
+        "__id__": 9
+      }
+    ],
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "height": 9
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -550
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 8
+    },
+    "_spriteFrame": {
+      "__uuid__": "7cXYkFWWJJYaG/8z7gAckN"
+    },
+    "_type": 1,
+    "_sizeMode": 0
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_parent": {
+      "__id__": 7
+    },
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 29,
+      "height": 40
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 18
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 10
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
+    "_N$string": "0%",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.ProgressBar",
+    "node": {
+      "__id__": 7
+    },
+    "_N$totalLength": 1100,
+    "_N$barSprite": {
+      "__id__": 9
+    },
+    "_N$progress": 0
+  }
+]

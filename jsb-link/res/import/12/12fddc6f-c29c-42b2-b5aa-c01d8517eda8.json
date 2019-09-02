@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_paizi",
+    "texture": "a8lZvcbAJDo4DzyMIxZIyq",
+    "rect": [
+      1,
+      2,
+      750,
+      1021
+    ],
+    "offset": [
+      -136,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

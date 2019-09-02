@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnOK",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      916,
+      85,
+      272,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      73
+    ],
+    "rotated": 1
+  }
+}

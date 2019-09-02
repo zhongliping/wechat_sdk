@@ -1,0 +1,192 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "10db.plist",
+  "_spriteFrames": {
+    "01天王-SDB_0000_tw": {
+      "__uuid__": "4dGf6ToCZI/aa/OnSWOU08"
+    },
+    "01天王-SDB_0001_tw": {
+      "__uuid__": "73vMcPtHVET77+5+FuwPHp"
+    },
+    "01天王-SDB_0002_tw": {
+      "__uuid__": "ac4kc2i8lGXoVLyBb1S0vb"
+    },
+    "01天王-SDB_0003_tw": {
+      "__uuid__": "07OPb/881IWbrmexYqNKTG"
+    },
+    "01天王-SDB_0004_tw": {
+      "__uuid__": "71aliy8YNG5IT/vw+hs6A/"
+    },
+    "01天王-SDB_0005_tw": {
+      "__uuid__": "112kn2pQdOIodwCYmbk61K"
+    },
+    "01天王-SDB_0006_tw": {
+      "__uuid__": "91RA5qr6ZOKoFFXRlMBvc2"
+    },
+    "01天王-SDB_0007_tw": {
+      "__uuid__": "1cBAu8k4VE4oUvcN4mIPER"
+    },
+    "01天王-SDB_0008_tw": {
+      "__uuid__": "01W/TzIehLjJ3epA+3CVTM"
+    },
+    "01天王-SDB_0009_tw": {
+      "__uuid__": "ecHxvad+1EAKX/fJkJuei0"
+    },
+    "01天王-SDB_0010_tw": {
+      "__uuid__": "a1jhNupi1IB6J7tuDCKmSr"
+    },
+    "01天王-SDB_0011_tw": {
+      "__uuid__": "502fOeA9dPaLci5LfsCgFR"
+    },
+    "01天王-SDB_0012_tw": {
+      "__uuid__": "8aTulOwbVEVqcazGcWRoMV"
+    },
+    "02人五-SDB_0000_12_0000_renwu": {
+      "__uuid__": "51mK4W7zBNIZGxViWEeKzw"
+    },
+    "02人五-SDB_0000_12_0001_renwu": {
+      "__uuid__": "3asN4dendNKqkfe9/nVt0y"
+    },
+    "02人五-SDB_0000_12_0002_renwu": {
+      "__uuid__": "4f/7NBtwJA0ZqQINphKr33"
+    },
+    "02人五-SDB_0000_12_0003_renwu": {
+      "__uuid__": "658EX5+AlDYrUdIjSmhHXS"
+    },
+    "02人五-SDB_0000_12_0004_renwu": {
+      "__uuid__": "107EC2b9xIIK2Mh9KJLZyL"
+    },
+    "02人五-SDB_0000_12_0005_renwu": {
+      "__uuid__": "c24WBxZn1Le6/d6nKPqcKM"
+    },
+    "02人五-SDB_0000_12_0006_renwu": {
+      "__uuid__": "2bihdznRZFIrtEHSbIFweJ"
+    },
+    "02人五-SDB_0000_12_0007_renwu": {
+      "__uuid__": "aeV3Q6+QpJ8awyiOHp7fCF"
+    },
+    "02人五-SDB_0000_12_0008_renwu": {
+      "__uuid__": "68owqB08dHNLDKSeVXO360"
+    },
+    "02人五-SDB_0000_12_0009_renwu": {
+      "__uuid__": "4aeBbUw6BFep2WogF8zyrL"
+    },
+    "02人五-SDB_0000_12_0010_renwu": {
+      "__uuid__": "83sZw6KS9ALLXNC61aM15Y"
+    },
+    "02人五-SDB_0000_12_0011_renwu": {
+      "__uuid__": "a7B4eltkxIoae1dzBTK76o"
+    },
+    "02人五-SDB_0000_12_0012_renwu": {
+      "__uuid__": "b308Yg9QxMGpnzUwCJzJuF"
+    },
+    "03五小-SDB_0000_renwu": {
+      "__uuid__": "6dAoBaDhFG5q+yi87R6Pz4"
+    },
+    "03五小-SDB_0001_renwu": {
+      "__uuid__": "e5TGP5j7RM2IDcovcloz1n"
+    },
+    "03五小-SDB_0002_renwu": {
+      "__uuid__": "6cdyBiC9BPaYJnpUrR5TLX"
+    },
+    "03五小-SDB_0003_renwu": {
+      "__uuid__": "1cQNsByj1OhIBYsripULhx"
+    },
+    "03五小-SDB_0004_renwu": {
+      "__uuid__": "b7m22EIuFMiLeyxhsL/wRg"
+    },
+    "03五小-SDB_0005_renwu": {
+      "__uuid__": "e3IeSSL+hG+bU5eGzhYiXh"
+    },
+    "03五小-SDB_0006_renwu": {
+      "__uuid__": "9b0w8eucNOGqKK+zQlgKlH"
+    },
+    "03五小-SDB_0007_renwu": {
+      "__uuid__": "97+xqUMLNO2ZW8ZGX6+zFM"
+    },
+    "03五小-SDB_0008_renwu": {
+      "__uuid__": "99zrkO6a5LHaj4QNs5aQLP"
+    },
+    "03五小-SDB_0009_renwu": {
+      "__uuid__": "98ohhx91ZMI4oEL16Wd/zX"
+    },
+    "03五小-SDB_0010_renwu": {
+      "__uuid__": "a0yqdOU5xF8Yt3HSuSZ/Wp"
+    },
+    "03五小-SDB_0011_renwu": {
+      "__uuid__": "a7BFFqLJJO3p933SZgDrBM"
+    },
+    "03五小-SDB_0012_renwu": {
+      "__uuid__": "c95NPP8uxMG6lYVYwJwu6+"
+    },
+    "04十点半-SDB_0000_sdb": {
+      "__uuid__": "62Ngj91O5Na67Flv1705r0"
+    },
+    "04十点半-SDB_0001_sdb": {
+      "__uuid__": "a70GCDcNZPWqczXUSzSDTf"
+    },
+    "04十点半-SDB_0002_sdb": {
+      "__uuid__": "5d1fwkJTlGjZ83OgcRtx6+"
+    },
+    "04十点半-SDB_0003_sdb": {
+      "__uuid__": "ddbsz/LfVGjZxOY+UaAY2H"
+    },
+    "04十点半-SDB_0004_sdb": {
+      "__uuid__": "750XxWc3NNA7pN7R32lPhR"
+    },
+    "04十点半-SDB_0005_sdb": {
+      "__uuid__": "10xQY+MqhFL6Y5gvd0ZZmF"
+    },
+    "04十点半-SDB_0006_sdb": {
+      "__uuid__": "62iDEhRkxJ4KLJ5G5OMurg"
+    },
+    "04十点半-SDB_0007_sdb": {
+      "__uuid__": "cbTnKHEMJGo7OIxw2Ksbht"
+    },
+    "04十点半-SDB_0008_sdb": {
+      "__uuid__": "3b8cqMPpxEZ5StA5z6KFUW"
+    },
+    "04十点半-SDB_0009_sdb": {
+      "__uuid__": "6cknAqQapOv5Vkb5NTb/u5"
+    },
+    "04十点半-SDB_0010_sdb": {
+      "__uuid__": "5a7dwpWkxJ5JeERgdpRwjQ"
+    },
+    "04十点半-SDB_0011_sdb": {
+      "__uuid__": "e4SjUJjZBJ5Lim4cGCjXh9"
+    },
+    "04十点半-SDB_0012_sdb": {
+      "__uuid__": "e4C42SL2dGsY3Rt4TEvIw/"
+    },
+    "21点与十点半-爆点-1": {
+      "__uuid__": "67JMvg5xZKNaq8Z1C8PlzQ"
+    },
+    "21点与十点半-爆点-10": {
+      "__uuid__": "b6tEfoAqBOM4FkhSEqDbe6"
+    },
+    "21点与十点半-爆点-2": {
+      "__uuid__": "d9AfucLClDFoNrGVNx2HX/"
+    },
+    "21点与十点半-爆点-3": {
+      "__uuid__": "f7scPkzqpCEK5IFrCiK5A5"
+    },
+    "21点与十点半-爆点-4": {
+      "__uuid__": "61MeLJ7FVJCbN9BjW5EGld"
+    },
+    "21点与十点半-爆点-5": {
+      "__uuid__": "24HE3IHQpHKJZiKfaicwRu"
+    },
+    "21点与十点半-爆点-6": {
+      "__uuid__": "e2g1h7i2BH74C/5qGjWJZ4"
+    },
+    "21点与十点半-爆点-7": {
+      "__uuid__": "47xzbyAV9EpZfaj0LSab6C"
+    },
+    "21点与十点半-爆点-8": {
+      "__uuid__": "feEVv3D2tDoL/iKUO9A3Yv"
+    },
+    "21点与十点半-爆点-9": {
+      "__uuid__": "75aLMbTqVNa5EKqQtVpMi2"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "04十点半-SDB_0003_sdb",
+    "texture": "7ambZt/b1OO5RDT8/beEr+",
+    "rect": [
+      501,
+      602,
+      159,
+      87
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      183,
+      105
+    ]
+  }
+}

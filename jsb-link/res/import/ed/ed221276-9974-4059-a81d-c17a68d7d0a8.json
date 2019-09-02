@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_x",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      302,
+      692,
+      105,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      106
+    ],
+    "rotated": 1
+  }
+}

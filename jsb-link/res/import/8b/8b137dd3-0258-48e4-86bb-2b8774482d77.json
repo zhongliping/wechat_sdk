@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_more.plist",
+  "_spriteFrames": {
+    "huanfu": {
+      "__uuid__": "28drn/KDFLnKU56TT3K9KL"
+    },
+    "jiesan": {
+      "__uuid__": "23ydlxxDtNGKNzLfKxX8Gq"
+    },
+    "kuangkuang": {
+      "__uuid__": "d7dj+ILzpM9bB+VfWEK20V"
+    },
+    "leida": {
+      "__uuid__": "5br1XyijtFsK68ggi+qi5C"
+    },
+    "line01_4": {
+      "__uuid__": "b9vzND7oZFBbETJvV3BFUB"
+    },
+    "shezhi": {
+      "__uuid__": "c6bTYqDVlALqWIJ37n08W+"
+    },
+    "tuichu": {
+      "__uuid__": "1c2H3qsClM55r4bNMKmzHa"
+    },
+    "wanfa": {
+      "__uuid__": "62G1LStBZEGYLvCXdgCoJz"
+    }
+  }
+}

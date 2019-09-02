@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biaoji",
+    "texture": "7evRNxxQtLXawnFrMuR0Fe",
+    "rect": [
+      0,
+      0,
+      32,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      39
+    ]
+  }
+}

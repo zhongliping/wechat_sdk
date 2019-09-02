@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_menu03",
+    "texture": "11m7uWJfJHKYwR3yj4I41I",
+    "rect": [
+      0,
+      0,
+      134,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      57
+    ]
+  }
+}

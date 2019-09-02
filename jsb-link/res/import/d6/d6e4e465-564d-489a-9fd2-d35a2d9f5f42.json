@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poke_card",
+    "texture": "06+IR1585D7otAwZV8jFD2",
+    "rect": [
+      2,
+      2,
+      1014,
+      1014
+    ],
+    "offset": [
+      -3,
+      3
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_img_bg1",
+    "texture": "e9esjdq+xFVYNM4KRD+OxN",
+    "rect": [
+      0,
+      0,
+      160,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      46
+    ]
+  }
+}

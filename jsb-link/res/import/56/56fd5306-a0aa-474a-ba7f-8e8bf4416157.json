@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "03金花-金花 (8)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      810,
+      1160,
+      433,
+      131
+    ],
+    "offset": [
+      0,
+      15
+    ],
+    "originalSize": [
+      433,
+      179
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aircraft-b1",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      2,
+      949,
+      62,
+      50
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

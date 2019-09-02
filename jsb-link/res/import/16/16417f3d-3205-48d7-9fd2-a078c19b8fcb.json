@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "输了 (1)",
+    "texture": "3e7/5NFHdC4qBlkIv7RaO6",
+    "rect": [
+      141,
+      2,
+      137,
+      70
+    ],
+    "offset": [
+      -222,
+      71
+    ],
+    "originalSize": [
+      603,
+      286
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "13SBuild",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "13SBuild",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Toggle",
+        "node": {
+          "__id__": 1
+        },
+        "transition": 3,
+        "zoomScale": 1,
+        "_N$target": {
+          "__id__": 2
+        },
+        "checkMark": {
+          "__id__": 4
+        },
+        "_N$isChecked": false
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "9a830AZt7pIMogVgeRlfMj7"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 203,
+      "height": 371
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 101.5,
+      "y": 4
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Background",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "6dlV8DTmBD94DuYD6Mt8Zk"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "87d90wKfjVP8YQq5+430or+"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 193,
+      "height": 361
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "checkmark",
+    "_parent": {
+      "__id__": 2
+    },
+    "_active": false,
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "58ecd2iMNdJ5aHgDAy7KsP3"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 203,
+      "height": 371
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 3
+    },
+    "_spriteFrame": {
+      "__uuid__": "87YvGWdrxMapYdyyxL6ZRq"
+    },
+    "_sizeMode": 2,
+    "_isTrimmedMode": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lb1",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 5
+        },
+        "_useOriginalSize": false,
+        "_N$file": {
+          "__uuid__": "d9j/XGUMxIELi500mjOhU7"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "顺子",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "c6906fCaUxMPJV6ESrQL+LM"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 84.44,
+      "height": 44.44
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 30.5
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lb2",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 6
+        },
+        "_useOriginalSize": false,
+        "_N$file": {
+          "__uuid__": "d9j/XGUMxIELi500mjOhU7"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "对子",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "9d805VhnHtB3ZZzNk/RtBig"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 84.44,
+      "height": 44.44
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -45.3
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lb3",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 7
+        },
+        "_useOriginalSize": false,
+        "_N$file": {
+          "__uuid__": "d9j/XGUMxIELi500mjOhU7"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "同花顺",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "f7b31MuYFlGsp+/AlQsLIxy"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 125.56,
+      "height": 44.44
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -121
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "num",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 8
+        },
+        "_useOriginalSize": false,
+        "_N$file": {
+          "__uuid__": "4bjYxWJilKRoeYPVr02V5p"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "1",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "163hNEmNJNNqk5Rb8eVdYx"
+      },
+      "fileId": "0c1c5b6fGtD3YwCl4FPkzid"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 20.83,
+      "height": 33.33
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 3.1,
+      "y": 132.7
+    }
+  }
+]

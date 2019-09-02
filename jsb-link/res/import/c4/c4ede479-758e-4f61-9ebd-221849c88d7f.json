@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huanfu",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      471,
+      612,
+      150,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      50
+    ]
+  }
+}

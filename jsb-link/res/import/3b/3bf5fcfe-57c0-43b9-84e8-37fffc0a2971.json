@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "21点与十点半-爆点-4",
+    "texture": "baYhfdu85HWIKNRxY7hRDX",
+    "rect": [
+      770,
+      482,
+      82,
+      89
+    ],
+    "offset": [
+      -10,
+      -10
+    ],
+    "originalSize": [
+      118,
+      111
+    ],
+    "rotated": 1
+  }
+}

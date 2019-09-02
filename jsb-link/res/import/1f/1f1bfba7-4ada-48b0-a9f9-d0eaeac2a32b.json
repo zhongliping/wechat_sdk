@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "jiaruyouxi_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":214,\"y\":1,\"height\":238,\"name\":\"btn_jiaru\",\"x\":1},{\"width\":78,\"y\":1,\"height\":54,\"name\":\"加入房间电光\",\"x\":217},{\"width\":31,\"y\":1,\"height\":30,\"name\":\"加入房间星光\",\"x\":297}],\"width\":512,\"height\":256,\"name\":\"jiaruyouxi\",\"imagePath\":\"jiaruyouxi_tex.png\"}",
+  "texture": {
+    "__uuid__": "42aybHuKNMqbe8/VteQuTL"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "feiji",
+    "texture": "0eAJ0arQ1BBZA4zBf1m1Yv",
+    "rect": [
+      2,
+      2,
+      878,
+      983
+    ],
+    "offset": [
+      -71,
+      18.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

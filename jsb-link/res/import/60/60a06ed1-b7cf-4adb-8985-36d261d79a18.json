@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_meinv",
+    "texture": "84EiQ6W+tCY4x34jADLwXo",
+    "rect": [
+      0,
+      0,
+      315,
+      495
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      316,
+      496
+    ]
+  }
+}

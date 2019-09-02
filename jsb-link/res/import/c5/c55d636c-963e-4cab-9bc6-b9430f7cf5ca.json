@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "anjian_tex",
+  "_atlasJson": "{\"imagePath\":\"anjian_tex.png\",\"width\":512,\"SubTexture\":[{\"width\":310,\"y\":1,\"height\":150,\"name\":\"未标题-222\",\"x\":1},{\"width\":224,\"y\":153,\"height\":75,\"name\":\"未标题-1\",\"x\":1}],\"height\":256,\"name\":\"anjian\"}",
+  "texture": {
+    "__uuid__": "abHKpGI1BE36emjE0Wq1IH"
+  }
+}

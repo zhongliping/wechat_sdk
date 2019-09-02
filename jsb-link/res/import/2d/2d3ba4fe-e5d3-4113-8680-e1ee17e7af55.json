@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "全关3",
+    "texture": "cbNIjuUUxDKLyJdMRp+P9m",
+    "rect": [
+      647,
+      2,
+      320,
+      321
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      320,
+      345
+    ],
+    "rotated": 1
+  }
+}

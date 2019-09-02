@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiaruyouxi_tex",
+    "texture": "42aybHuKNMqbe8/VteQuTL",
+    "rect": [
+      1,
+      1,
+      327,
+      238
+    ],
+    "offset": [
+      -91.5,
+      8
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_frame10",
+    "texture": "94oQHQxFJHbbNTiDOGhze3",
+    "rect": [
+      0,
+      0,
+      297,
+      561
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      297,
+      561
+    ]
+  }
+}

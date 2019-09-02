@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "21D_21-21D_005_21",
+    "texture": "baYhfdu85HWIKNRxY7hRDX",
+    "rect": [
+      498,
+      310,
+      184,
+      134
+    ],
+    "offset": [
+      -2,
+      -7
+    ],
+    "originalSize": [
+      746,
+      158
+    ]
+  }
+}

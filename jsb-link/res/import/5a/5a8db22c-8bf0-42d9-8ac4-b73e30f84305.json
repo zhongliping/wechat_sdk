@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baomingleixing",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1983,
+      398,
+      172,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      41
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "顺子15",
+    "texture": "b8XUBQaRtAXKzEal853Axw",
+    "rect": [
+      880,
+      492,
+      96,
+      181
+    ],
+    "offset": [
+      -464,
+      -34
+    ],
+    "originalSize": [
+      1024,
+      257
+    ]
+  }
+}

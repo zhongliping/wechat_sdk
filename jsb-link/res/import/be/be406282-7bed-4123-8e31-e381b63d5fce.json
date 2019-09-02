@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heitaosan",
+  "_duration": 0.8,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9a8UFR97hDJoDv5Z9sbld5"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "12i1v8jxpOqYLnvGnriFFe"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "12eobGwXVGwo9GRwpShgb9"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "e9/EAPUnBPKbVRU+wSIYGP"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e2F0z4sQhFLZ28qG04XSo2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "baEE/zCHBPpb+kvoFBL/84"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "c3g6S9ZaNL5rOsWRF4oTJI"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "22e4QUEqxAYKFgPPQkk3UH"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            38
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            39
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0,
+            47
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            48
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            0,
+            52
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yingle",
+    "texture": "e38aSzLEJP/7gRMWtHy20I",
+    "rect": [
+      0,
+      0,
+      603,
+      191
+    ],
+    "offset": [
+      0,
+      47.5
+    ],
+    "originalSize": [
+      603,
+      286
+    ]
+  }
+}

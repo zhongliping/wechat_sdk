@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuangjianyouxi_tex",
+    "texture": "0dgQNHpfBHIoX9tedp9bKx",
+    "rect": [
+      1,
+      1,
+      263,
+      380
+    ],
+    "offset": [
+      -123.5,
+      65
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

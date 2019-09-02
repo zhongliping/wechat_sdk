@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dutiao_01",
+    "texture": "75pWU50WFN46HmMZeLb5uG",
+    "rect": [
+      0,
+      0,
+      1341,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1341,
+      13
+    ]
+  }
+}

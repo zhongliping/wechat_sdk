@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianpaoxuanze",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      981,
+      493,
+      124,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      34
+    ],
+    "rotated": 1
+  }
+}

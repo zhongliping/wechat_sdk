@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "坐下",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      721,
+      497,
+      65,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      32
+    ],
+    "rotated": 1
+  }
+}

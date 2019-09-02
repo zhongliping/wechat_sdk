@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "文字-垮庄",
+    "texture": "0drKKRRjhM4L6gCLpxcS6h",
+    "rect": [
+      244,
+      747,
+      116,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      61
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuang_faguang",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      434,
+      893,
+      109,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      67
+    ]
+  }
+}

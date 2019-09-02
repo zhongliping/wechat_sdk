@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SDH_0011_Tlj",
+    "texture": "b0R5BlmuhDQ4wUXt4IhZBw",
+    "rect": [
+      391,
+      479,
+      256,
+      113
+    ],
+    "offset": [
+      24,
+      0
+    ],
+    "originalSize": [
+      310,
+      113
+    ],
+    "rotated": 1
+  }
+}

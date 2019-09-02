@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_arrow_l",
+    "texture": "da/5n4VGhGG7X6XHTIEnlM",
+    "rect": [
+      0,
+      0,
+      49,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      54
+    ]
+  }
+}

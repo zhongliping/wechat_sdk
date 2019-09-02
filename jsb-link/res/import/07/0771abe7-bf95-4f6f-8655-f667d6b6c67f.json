@@ -1,0 +1,63 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "interactive_anim",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "interactive_anim",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "4eVGGXWt5DZLSqx8sg7+zL"
+          },
+          {
+            "__uuid__": "58jmKP8+1DOapziQZbHrIr"
+          },
+          {
+            "__uuid__": "432mtgO1BKprz2QT0xMgBg"
+          },
+          {
+            "__uuid__": "e6SQnVqEFNrYzH5VJuE9S4"
+          },
+          {
+            "__uuid__": "4e4ywdNLVNbLQy4o+w4l6Z"
+          },
+          {
+            "__uuid__": "89AIiBMkhDvahtBjsY+sgt"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "07cavnv5VPb4ZV9mfWtsZ/"
+      },
+      "fileId": "da57b2zoMdImaiSTa9fmQ8Y"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

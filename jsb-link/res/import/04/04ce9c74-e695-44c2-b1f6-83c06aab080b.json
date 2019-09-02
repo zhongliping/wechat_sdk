@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "xiaoguang.plist",
+  "_spriteFrames": {
+    "SDH_0000_Xg": {
+      "__uuid__": "cbcRP2zvlAm6IiHQBtYxcm"
+    },
+    "SDH_0001_Xg": {
+      "__uuid__": "83g+VR7OpCnKsUF4Gx2ICx"
+    },
+    "SDH_0002_Xg": {
+      "__uuid__": "96LRg0e0BK8IZHHn38p1Ak"
+    },
+    "SDH_0003_Xg": {
+      "__uuid__": "40Lptt9phBAZWFV064iuMN"
+    },
+    "SDH_0004_Xg": {
+      "__uuid__": "3cOVRFInVMXLAs8bIR8rlw"
+    },
+    "SDH_0005_Xg": {
+      "__uuid__": "08Rq1whbZHS5OV8j+agYe1"
+    },
+    "SDH_0006_Xg": {
+      "__uuid__": "5bbKa0f7RMVpaiTjprPT+l"
+    },
+    "SDH_0007_Xg": {
+      "__uuid__": "52VRhhnb5KY4MNjUA3ZVEa"
+    },
+    "SDH_0008_Xg": {
+      "__uuid__": "690fho3cpOpa8eFzHgD57c"
+    },
+    "SDH_0009_Xg": {
+      "__uuid__": "33qXGLk91Oj6VCM4vSys7M"
+    },
+    "SDH_0010_Xg": {
+      "__uuid__": "d8E3QDs61K5796cC/S4EIm"
+    },
+    "SDH_0011_Xg": {
+      "__uuid__": "20ncnSBchAhI4zPBnPVa19"
+    },
+    "SDH_0012_Xg": {
+      "__uuid__": "4ayDrAaJZCbZvOo5c52jYc"
+    }
+  }
+}

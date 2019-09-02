@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chi_02",
+    "texture": "15K5Bmo2ZI9KOAmzVxC8C+",
+    "rect": [
+      891,
+      575,
+      90,
+      86
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      130,
+      124
+    ]
+  }
+}

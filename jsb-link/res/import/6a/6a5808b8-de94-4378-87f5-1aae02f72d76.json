@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NIUniu_Jinhua-NIUniu_jinhua09",
+    "texture": "6avNi1/t1K+YQm0Xqul9Vq",
+    "rect": [
+      224,
+      186,
+      182,
+      81
+    ],
+    "offset": [
+      2,
+      -1
+    ],
+    "originalSize": [
+      236,
+      99
+    ]
+  }
+}

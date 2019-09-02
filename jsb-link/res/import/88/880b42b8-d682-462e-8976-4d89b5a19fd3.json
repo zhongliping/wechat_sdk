@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fenxiang",
+    "texture": "48eJIRN1VBz7fCCjYjzX6A",
+    "rect": [
+      7,
+      5,
+      101,
+      43
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

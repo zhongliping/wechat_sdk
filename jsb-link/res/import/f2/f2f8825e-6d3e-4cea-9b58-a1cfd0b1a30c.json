@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ZPBG3",
+    "texture": "3aoqMZZWlFdY+r9xXs/ImY",
+    "rect": [
+      75,
+      75,
+      670,
+      670
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      820,
+      820
+    ]
+  }
+}

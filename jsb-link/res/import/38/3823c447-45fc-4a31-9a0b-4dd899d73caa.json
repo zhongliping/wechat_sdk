@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_wait_bg",
+    "texture": "e8K3hjvfhFN5Qf7uIVGKvP",
+    "rect": [
+      0,
+      0,
+      913,
+      339
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      914,
+      340
+    ]
+  }
+}

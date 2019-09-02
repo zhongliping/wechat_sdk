@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "图标-主",
+    "texture": "0drKKRRjhM4L6gCLpxcS6h",
+    "rect": [
+      775,
+      744,
+      47,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      48
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "21d-21d",
+  "_duration": 1.2,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bbW6TsJHpOpLYIiW0amefu"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "dfRiO3sx5CJqF8sFtl0nBo"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "69tztPlHpPq7DMRS+rWEOo"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "22TGkZIK5MIb8mxcietfwC"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "4aTz+avopEg4MZ+97ZL1Tz"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "37G2KhIX5NYa0G5OLmTUM8"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            80
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            80
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            80
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            79.94
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            -1,
+            80
+          ],
+          "curve": "constant",
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -1,
+            81
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 1.2,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

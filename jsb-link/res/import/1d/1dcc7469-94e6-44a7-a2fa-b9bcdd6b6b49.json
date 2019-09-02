@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heisekuangkuang",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      641,
+      1280,
+      517
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      517
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reject",
+    "texture": "11Ogt948hO2qlLZ7qV7fcT",
+    "rect": [
+      0,
+      0,
+      69,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      38
+    ]
+  }
+}

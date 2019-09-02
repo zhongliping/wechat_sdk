@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dh_arrow",
+    "texture": "063wpUPStPlKIZQXaAc6n5",
+    "rect": [
+      0,
+      0,
+      162,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      155
+    ]
+  }
+}

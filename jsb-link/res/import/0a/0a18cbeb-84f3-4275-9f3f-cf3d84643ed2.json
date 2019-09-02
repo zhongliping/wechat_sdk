@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "飞机5",
+    "texture": "b8+akSlDZArooUNxGwu0EA",
+    "rect": [
+      258,
+      892,
+      610,
+      126
+    ],
+    "offset": [
+      207,
+      -8
+    ],
+    "originalSize": [
+      1024,
+      260
+    ]
+  }
+}

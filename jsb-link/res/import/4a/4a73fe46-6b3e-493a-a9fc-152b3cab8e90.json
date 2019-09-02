@@ -1,0 +1,184 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zjh-win",
+  "_duration": 1.5,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "deWHs5pD9ES5QnJVBILvKS"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "29uPeUJFZPnraCAZUpyPZX"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6bj3nCjdhNj7VzoonzsvU1"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "37T7a21HRHcY3merCfpRBR"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ffHb/s/UxNaJcVKrLpMopg"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "90o2ogk3lEH5G8sZIqoe3s"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "da9Np3GeZA/pds6E2iH6K8"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "5c3G2KQ9hDSbMTLj06fL7a"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "f2J+fX/+tBhocOMqcMqfol"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "dbjdiRAiFJA4AujukfrJmC"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "8dbRrYHIBB85qFvzbprTLR"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "69vFnUaVFMH4Qq8z53GW7j"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            142
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            65
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            1
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0,
+            1
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            1
+          ]
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            0,
+            1
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            -6
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.3,
+          "value": 255
+        },
+        {
+          "frame": 1.5,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

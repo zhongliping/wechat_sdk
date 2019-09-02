@@ -1,0 +1,52 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "paguotexiao",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "paguotexiao",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "ddhRrSAAJDQYkzPBOn0Qip"
+          },
+          {
+            "__uuid__": "12XFsU5eJHYrBufpIbkxD0"
+          },
+          {
+            "__uuid__": "661fNnPSJDlIw8xmipzn9L"
+          },
+          {
+            "__uuid__": "cfgcNdayBHTKTJOHY2vRzh"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "aawjwpBMxLTLipaNKtiV89"
+    }
+  }
+]

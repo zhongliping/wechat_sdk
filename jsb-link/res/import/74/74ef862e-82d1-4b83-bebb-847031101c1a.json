@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "del_line01",
+    "texture": "c8nQOvBw1GHKPmARuM99q2",
+    "rect": [
+      0,
+      0,
+      52,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      1
+    ]
+  }
+}

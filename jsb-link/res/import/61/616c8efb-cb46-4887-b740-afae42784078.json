@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "fnt_3dh_gameover",
+  "spriteFrame": {
+    "__uuid__": "52Aa7PWrBPp4zX1ID7jOP8"
+  },
+  "fontSize": 50,
+  "_fntConfig": {
+    "commonHeight": 71,
+    "fontSize": 50,
+    "atlasName": "fnt_3dh_gameover.png",
+    "fontDefDictionary": {
+      "19979": {
+        "rect": {
+          "x": 66,
+          "y": 128,
+          "width": 59,
+          "height": 59
+        },
+        "xOffset": 2,
+        "yOffset": 7,
+        "xAdvance": 50
+      },
+      "20498": {
+        "rect": {
+          "x": 65,
+          "y": 65,
+          "width": 60,
+          "height": 61
+        },
+        "xOffset": 0,
+        "yOffset": 5,
+        "xAdvance": 50
+      },
+      "20809": {
+        "rect": {
+          "x": 2,
+          "y": 2,
+          "width": 61,
+          "height": 61
+        },
+        "xOffset": 1,
+        "yOffset": 5,
+        "xAdvance": 50
+      },
+      "22446": {
+        "rect": {
+          "x": 65,
+          "y": 2,
+          "width": 61,
+          "height": 61
+        },
+        "xOffset": 1,
+        "yOffset": 5,
+        "xAdvance": 50
+      },
+      "22823": {
+        "rect": {
+          "x": 128,
+          "y": 2,
+          "width": 61,
+          "height": 61
+        },
+        "xOffset": 1,
+        "yOffset": 6,
+        "xAdvance": 50
+      },
+      "23567": {
+        "rect": {
+          "x": 2,
+          "y": 128,
+          "width": 62,
+          "height": 60
+        },
+        "xOffset": 0,
+        "yOffset": 6,
+        "xAdvance": 50
+      },
+      "24196": {
+        "rect": {
+          "x": 127,
+          "y": 65,
+          "width": 60,
+          "height": 61
+        },
+        "xOffset": 1,
+        "yOffset": 5,
+        "xAdvance": 50
+      },
+      "36807": {
+        "rect": {
+          "x": 2,
+          "y": 65,
+          "width": 61,
+          "height": 61
+        },
+        "xOffset": 1,
+        "yOffset": 6,
+        "xAdvance": 50
+      }
+    },
+    "kerningDict": {}
+  }
+}

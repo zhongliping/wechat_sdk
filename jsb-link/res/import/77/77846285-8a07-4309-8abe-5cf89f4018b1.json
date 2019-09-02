@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianchi_3",
+    "texture": "2cITmgnbZDdoPO2dygkj4S",
+    "rect": [
+      0,
+      0,
+      51,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      23
+    ]
+  }
+}

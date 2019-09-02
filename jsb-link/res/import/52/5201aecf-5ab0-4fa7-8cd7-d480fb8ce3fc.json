@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_3dh_gameover",
+    "texture": "6baB/t8NdORaXYodQuM4zv",
+    "rect": [
+      2,
+      3,
+      186,
+      184
+    ],
+    "offset": [
+      -31,
+      31
+    ],
+    "originalSize": [
+      252,
+      252
+    ]
+  }
+}

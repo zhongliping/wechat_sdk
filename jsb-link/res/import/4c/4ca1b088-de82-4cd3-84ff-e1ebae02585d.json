@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diuzhadan_009",
+    "texture": "36xvdPN2tGta+ZMeOSJtT1",
+    "rect": [
+      172,
+      690,
+      59,
+      66
+    ],
+    "offset": [
+      0,
+      -25
+    ],
+    "originalSize": [
+      155,
+      140
+    ],
+    "rotated": 1
+  }
+}

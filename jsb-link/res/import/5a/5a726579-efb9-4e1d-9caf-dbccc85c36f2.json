@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red_bai_37",
+    "texture": "d0kbHNfI1F86++DXJPKvV2",
+    "rect": [
+      3,
+      2,
+      129,
+      85
+    ],
+    "offset": [
+      -21,
+      22
+    ],
+    "originalSize": [
+      177,
+      133
+    ]
+  }
+}

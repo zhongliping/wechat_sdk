@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_shifou02",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      824,
+      2,
+      190,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      95
+    ]
+  }
+}

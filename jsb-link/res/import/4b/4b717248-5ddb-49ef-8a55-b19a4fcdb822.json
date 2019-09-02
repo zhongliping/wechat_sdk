@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choujiang",
+    "texture": "bdoODYgUlHoIt+Zt2Blb+Q",
+    "rect": [
+      0,
+      0,
+      113,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      40
+    ]
+  }
+}

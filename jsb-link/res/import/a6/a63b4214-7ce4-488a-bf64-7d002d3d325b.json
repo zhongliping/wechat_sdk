@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sleep8",
+    "texture": "4fkHrcTY9OCZtqT4+9lXmQ",
+    "rect": [
+      268,
+      548,
+      133,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      137
+    ]
+  }
+}

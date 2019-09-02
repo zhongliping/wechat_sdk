@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanzhong",
+    "texture": "earSbQ3mNBxpD2zh49tR8R",
+    "rect": [
+      0,
+      0,
+      232,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      232,
+      53
+    ]
+  }
+}

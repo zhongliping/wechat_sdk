@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "outcard17",
+    "texture": "6akpyDSQdMx51+ixwX81jq",
+    "rect": [
+      92,
+      182,
+      88,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      242
+    ],
+    "rotated": 1
+  }
+}

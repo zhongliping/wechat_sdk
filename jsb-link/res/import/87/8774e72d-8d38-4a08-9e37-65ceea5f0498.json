@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "prompt_bg",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      2,
+      561,
+      600,
+      291
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      291
+    ]
+  }
+}

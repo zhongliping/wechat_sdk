@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "fnt_lanse",
+  "spriteFrame": {
+    "__uuid__": "9dyNofpMtJdqLI70PlnwMb"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 39,
+    "fontSize": 32,
+    "atlasName": "fnt_lanse.png",
+    "fontDefDictionary": {
+      "20869": {
+        "rect": {
+          "x": 2,
+          "y": 67,
+          "width": 28,
+          "height": 30
+        },
+        "xOffset": 3,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "21453": {
+        "rect": {
+          "x": 35,
+          "y": 35,
+          "width": 30,
+          "height": 30
+        },
+        "xOffset": 2,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "23481": {
+        "rect": {
+          "x": 67,
+          "y": 35,
+          "width": 30,
+          "height": 30
+        },
+        "xOffset": 2,
+        "yOffset": 1,
+        "xAdvance": 32
+      },
+      "25103": {
+        "rect": {
+          "x": 35,
+          "y": 2,
+          "width": 31,
+          "height": 30
+        },
+        "xOffset": 2,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "25321": {
+        "rect": {
+          "x": 99,
+          "y": 35,
+          "width": 30,
+          "height": 30
+        },
+        "xOffset": 2,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "28216": {
+        "rect": {
+          "x": 68,
+          "y": 2,
+          "width": 31,
+          "height": 30
+        },
+        "xOffset": 1,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "36873": {
+        "rect": {
+          "x": 2,
+          "y": 35,
+          "width": 31,
+          "height": 30
+        },
+        "xOffset": 2,
+        "yOffset": 2,
+        "xAdvance": 32
+      },
+      "39304": {
+        "rect": {
+          "x": 2,
+          "y": 2,
+          "width": 31,
+          "height": 31
+        },
+        "xOffset": 1,
+        "yOffset": 1,
+        "xAdvance": 32
+      }
+    },
+    "kerningDict": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bipai_01",
+    "texture": "43z1rIRTdAJr4/SYlKLLha",
+    "rect": [
+      0,
+      0,
+      1600,
+      261
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1600,
+      261
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "21D_21-21D_002_21",
+    "texture": "baYhfdu85HWIKNRxY7hRDX",
+    "rect": [
+      110,
+      350,
+      420,
+      130
+    ],
+    "offset": [
+      -35,
+      -7
+    ],
+    "originalSize": [
+      746,
+      158
+    ],
+    "rotated": 1
+  }
+}

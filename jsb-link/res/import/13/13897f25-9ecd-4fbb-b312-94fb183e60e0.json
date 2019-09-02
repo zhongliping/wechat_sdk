@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_404",
+    "texture": "53qerXow5Flq+GBZsiYzct",
+    "rect": [
+      226,
+      55,
+      19,
+      205
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      205
+    ],
+    "rotated": 1
+  }
+}

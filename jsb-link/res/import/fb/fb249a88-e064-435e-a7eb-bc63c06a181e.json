@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chi_xiahuo",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      925,
+      141,
+      42,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      89
+    ],
+    "rotated": 1
+  }
+}

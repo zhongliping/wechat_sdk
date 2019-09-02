@@ -1,0 +1,176 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pdk-feiji",
+  "_duration": 1.3333333333333333,
+  "sample": 15,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "30gXoOORVPCqBeyxj0Jxyi"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "d6KlyMcPdNQLYdKkiqRwI0"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "bdRltsiH1OHZAtSsK7RxUx"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "27OtRwj41EVro319KVsriS"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "0aGMvrhPNCdZ8/zz2EZD7S"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "17SMi24DdIXbCv1R8BIf0t"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "13FqE2139Ktr7ROqVuwjtp"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "f5nlq+0rJNXpTUxGArocgV"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "61xUitKcxJLbukSFAKqWaF"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a2trTU8VBI2ofKrEj+6U0d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2dGkxFxDRF3IDWoVW4kJri"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            528,
+            85.3
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": [
+            537,
+            99
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": [
+            506,
+            96
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            451,
+            91
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": [
+            403,
+            91
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5333333333333333,
+          "value": [
+            342,
+            91
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            147,
+            91
+          ]
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            -375,
+            91
+          ]
+        },
+        {
+          "frame": 0.7333333333333333,
+          "value": [
+            -631,
+            91
+          ]
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            -948,
+            91
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": [
+            -948,
+            91
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.8,
+          "value": 255
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "连对 (2)",
+    "texture": "93utdKEQdPorxXdphmyqRB",
+    "rect": [
+      2,
+      80,
+      332,
+      70
+    ],
+    "offset": [
+      -47,
+      0
+    ],
+    "originalSize": [
+      512,
+      82
+    ]
+  }
+}

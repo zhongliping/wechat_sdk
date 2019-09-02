@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_mall_lb",
+    "texture": "59XSqwogVIfK458etkLMlw",
+    "rect": [
+      2,
+      2,
+      94,
+      97
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      100,
+      103
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "outcard14",
+    "texture": "6akpyDSQdMx51+ixwX81jq",
+    "rect": [
+      824,
+      246,
+      88,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      242
+    ]
+  }
+}

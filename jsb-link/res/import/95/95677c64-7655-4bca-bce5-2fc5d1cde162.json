@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "balance-04",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      164,
+      1296,
+      87,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      81
+    ],
+    "rotated": 1
+  }
+}

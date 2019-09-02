@@ -1,0 +1,564 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "matchItemPre",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "matchItemPre",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 11
+      },
+      {
+        "__id__": 13
+      },
+      {
+        "__id__": 15
+      },
+      {
+        "__id__": 16
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "6cIBWEYndIXpU8G8X8T0PP"
+        }
+      },
+      {
+        "__type__": "082bbRAdNJAlpvWSY8st+YG",
+        "node": {
+          "__id__": 1
+        },
+        "titleLab": {
+          "__id__": 4
+        },
+        "littleTitleLab": {
+          "__id__": 6
+        },
+        "matchTimeLab": {
+          "__id__": 18
+        },
+        "peopleNumLab": {
+          "__id__": 10
+        },
+        "costLab": {
+          "__id__": 14
+        },
+        "detailBtn": {
+          "__id__": 8
+        },
+        "signUpSprite": {
+          "__id__": 12
+        },
+        "match_Atlas": {
+          "__uuid__": "6bB6Ha6TtGkZTAeqxky6hm"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "3bf6bxE8+FOU5oR+k6+dPud"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 958,
+      "height": 108
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "img",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "0a3llOoRNGZ6KTnWheKdVj"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "3901dBYF/RDCY17PAug8Ea9"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 109,
+      "height": 82
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -411,
+      "y": 2
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "matchTitle",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "6f647z5Vs1PeLL7D8gSk/2s"
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 140,
+      "height": 28
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -330,
+      "y": 25
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 3
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 28,
+    "_fontSize": 28,
+    "_lineHeight": 28,
+    "_N$string": "红包大回馈",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "awardLab",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "6434dxAF9pPrJMNX3gUpx9w"
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 146.71,
+      "height": 22
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -330,
+      "y": -20
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 5
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 22,
+    "_fontSize": 22,
+    "_lineHeight": 22,
+    "_N$string": "888元现金回馈",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "detailBtn",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 7
+        },
+        "_spriteFrame": {
+          "__uuid__": "c9DeTouddC6K+eAeD9BUEP"
+        }
+      },
+      {
+        "__id__": 8
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "f0281wS+1tNjqdM2TglNk+S"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 83,
+      "height": 38
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -40,
+      "y": 29
+    }
+  },
+  {
+    "__type__": "cc.Button",
+    "node": {
+      "__id__": 7
+    },
+    "clickEvents": [
+      {
+        "__type__": "cc.ClickEvent",
+        "target": {
+          "__id__": 1
+        },
+        "component": "matchPre",
+        "handler": "onBtnDetailClick"
+      }
+    ],
+    "_N$target": {
+      "__id__": 7
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "number",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "50ea9WcYQpMspZxBIHl/wNh"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 165.05,
+      "height": 22
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -50,
+      "y": -20
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 9
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 22,
+    "_fontSize": 22,
+    "_lineHeight": 22,
+    "_N$string": "报名人数:3000人",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "sureBtn",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 12
+      },
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 11
+        },
+        "clickEvents": [
+          {
+            "__type__": "cc.ClickEvent",
+            "target": {
+              "__id__": 1
+            },
+            "component": "matchPre",
+            "handler": "onBtnJoinClick"
+          }
+        ],
+        "_N$target": {
+          "__id__": 11
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "a2a693Q7yFJFYDweoZIyZ2f"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 193,
+      "height": 80
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 350,
+      "y": -12
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 11
+    },
+    "_spriteFrame": {
+      "__uuid__": "39R6/sLzBGX4wWA9Qa1vvp"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "costLab",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 14
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "0b490o/MidNVJdpgAOcFxU5"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 173.57,
+      "height": 22
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 350,
+      "y": 38
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 13
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 22,
+    "_fontSize": 22,
+    "_lineHeight": 22,
+    "_N$string": "报名费用: 房卡 x1",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Sprite",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 15
+        },
+        "_spriteFrame": {
+          "__uuid__": "16yhnTiKhMApg2NQkr8Azp"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "c3bbeMsJDxN959eAdkI34P0"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 360,
+      "height": 7
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -145
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Sprite",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 17
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 16
+        },
+        "_spriteFrame": {
+          "__uuid__": "90HqRQqRFGtqC8p0TQ7rur"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "ef9f4kwN8hOF4Ywf/0pJ9VU"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 140,
+      "height": 69
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 141,
+      "y": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "time",
+    "_parent": {
+      "__id__": 16
+    },
+    "_components": [
+      {
+        "__id__": 18
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "b6T2TqoQxNv6JBU5J8fIFW"
+      },
+      "fileId": "7b259L2g5xHsoNdXWkci4QA"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "height": 22
+    }
+  },
+  {
+    "__type__": "cc.Label",
+    "node": {
+      "__id__": 17
+    },
+    "_useOriginalSize": false,
+    "_actualFontSize": 22,
+    "_fontSize": 22,
+    "_lineHeight": 22,
+    "_N$string": "",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1
+  }
+]

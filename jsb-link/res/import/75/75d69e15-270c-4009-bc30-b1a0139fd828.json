@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_90fen_red",
+    "texture": "8dPFkk+MZLVJTejlibAR06",
+    "rect": [
+      3,
+      3,
+      142,
+      177
+    ],
+    "offset": [
+      -9,
+      0
+    ],
+    "originalSize": [
+      166,
+      183
+    ]
+  }
+}

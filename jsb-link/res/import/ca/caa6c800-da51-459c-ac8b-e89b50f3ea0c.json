@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhupai_heitao",
+    "texture": "1arpNb1TlFIabznLlVHlWt",
+    "rect": [
+      2,
+      0,
+      115,
+      120
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

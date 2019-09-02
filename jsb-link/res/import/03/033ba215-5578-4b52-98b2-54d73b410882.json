@@ -1,0 +1,180 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "common.plist",
+  "_spriteFrames": {
+    "biao_dianpao": {
+      "__uuid__": "deAUIQlaND7LbgWRsIFL8g"
+    },
+    "biao_zimo": {
+      "__uuid__": "b3ojzatwxMbK4EUTikagGl"
+    },
+    "bird": {
+      "__uuid__": "9aGstR8plNIZu7y/cn++0S"
+    },
+    "bt_01": {
+      "__uuid__": "a7CnLbo2ZECYd1SLFGxaAK"
+    },
+    "bt_chi01": {
+      "__uuid__": "74x+s46jhOP4fBiBrxJKUE"
+    },
+    "bt_chi02": {
+      "__uuid__": "d2GJHiUFVO+bGevwhOOvkT"
+    },
+    "bt_hu01": {
+      "__uuid__": "edZCJMzgJPhY5v6vkCsA9d"
+    },
+    "bt_hu02": {
+      "__uuid__": "b2owQvKNdAaL8p4/MIo8ki"
+    },
+    "bt_peng01": {
+      "__uuid__": "b8drD9LvRJzbHQ2mXr7agA"
+    },
+    "bt_peng02": {
+      "__uuid__": "f3I3obnyxFsbmZW/Vw91OB"
+    },
+    "bt_x": {
+      "__uuid__": "edIhJ2mXRAWagdwXpo19Co"
+    },
+    "btn_liu01": {
+      "__uuid__": "c4gNmy59NGwYHYwsouvUsF"
+    },
+    "btn_liu02": {
+      "__uuid__": "13tqqfxYNKBI1mm7RPtWFP"
+    },
+    "chi": {
+      "__uuid__": "2ewX9DjrpG5bc0jYZ7LyYk"
+    },
+    "chi_chipai": {
+      "__uuid__": "452wWn1WRGHK5r2UYtYAvI"
+    },
+    "chi_xiahuo": {
+      "__uuid__": "fbJJqI4GRDXqfrvGPAahge"
+    },
+    "chi_xian": {
+      "__uuid__": "fagTzsIeFCBr9nC1w4O2kY"
+    },
+    "chongdao": {
+      "__uuid__": "15ra52/q5C/Yks44QUIb5n"
+    },
+    "chongpao": {
+      "__uuid__": "c5PiCQfitCs5ZTakhO9cQE"
+    },
+    "chongzhao": {
+      "__uuid__": "f0srv1iQlOb4c5QF0QZdaF"
+    },
+    "chupai_paidi": {
+      "__uuid__": "11yOZIT9xBCbPf7S2x9WSg"
+    },
+    "dangdi": {
+      "__uuid__": "c07IXAmq1Kj6m/CzC0enUg"
+    },
+    "di_lose": {
+      "__uuid__": "1ekKhUMnxH6JLFExQVQ06H"
+    },
+    "di_win": {
+      "__uuid__": "7dQhxG4PJF562v2SlNEl9q"
+    },
+    "dianpaoxuanze": {
+      "__uuid__": "3fpchfe0NHJrIPNEeeG8qd"
+    },
+    "fangpao": {
+      "__uuid__": "20gTGtRKNHvZRNmdWNPNxH"
+    },
+    "fanxing": {
+      "__uuid__": "1fycRnnjBBZ6ebIiuV6UUx"
+    },
+    "fanxingxuanze": {
+      "__uuid__": "264FYEhVRIoIEiYUh81x2I"
+    },
+    "hu": {
+      "__uuid__": "73YRy1S2ZDzKqetNqsaYpG"
+    },
+    "huCardFrame": {
+      "__uuid__": "6fJCiLXVJI04GDOFKWXix5"
+    },
+    "hupaidonghua": {
+      "__uuid__": "51VTp2v5FLFq1M0vwVnNJY"
+    },
+    "icon_paizu": {
+      "__uuid__": "9ckTktnuBBJLuSqfG9im9X"
+    },
+    "jiantou": {
+      "__uuid__": "b9hROnGcpMUIi2VBIA2TXH"
+    },
+    "kaizhao": {
+      "__uuid__": "519jPpG7dApJQbCNAYgiC9"
+    },
+    "lianjiezhongduan": {
+      "__uuid__": "414qBi+5ZGC60OTGsQhCrs"
+    },
+    "liu": {
+      "__uuid__": "19Mv7rfeNDebv4WA6n5BJk"
+    },
+    "lose": {
+      "__uuid__": "b8wKELjW5Pi7WNIDXaNeIQ"
+    },
+    "pai_di": {
+      "__uuid__": "0dE7BqRchKULjFtMxPYQi7"
+    },
+    "pai_di01": {
+      "__uuid__": "e4gCNdlfxGuoh0GexfwYjL"
+    },
+    "pao": {
+      "__uuid__": "ffxd9Ef2xKzrGFxKs9UMi1"
+    },
+    "peace": {
+      "__uuid__": "7dCGB8NKJEW7s0H56/TU1Z"
+    },
+    "peng": {
+      "__uuid__": "12xYiIjKJI0JOwoTpVWhpB"
+    },
+    "replayFrame": {
+      "__uuid__": "30n8OTMClBUIiiI3C6Msgw"
+    },
+    "run": {
+      "__uuid__": "20+xOz09lEGJ5z/XkXbp+s"
+    },
+    "sao": {
+      "__uuid__": "47i1hqf4dHsJgO10+tZYRe"
+    },
+    "saochuan": {
+      "__uuid__": "e5/1U6X8ZNvKwAcTYcMj5X"
+    },
+    "seletedFrame": {
+      "__uuid__": "14DXdOZ6BAOrDiYr7TANdT"
+    },
+    "ti": {
+      "__uuid__": "f3Jh52BfdMW4ZUQoE5H9hz"
+    },
+    "wai": {
+      "__uuid__": "caAbwLON9MhISNPiExRxMB"
+    },
+    "wei": {
+      "__uuid__": "9aae98VWJPuJcs/wQxw6lB"
+    },
+    "win": {
+      "__uuid__": "6fLYfKd19JcaARe9upTmcQ"
+    },
+    "xian_hand": {
+      "__uuid__": "ce7KW/f5BEQ5/KHQxE8rjj"
+    },
+    "xian_xian": {
+      "__uuid__": "60LxMA5lRG/4f9xvsGxFf0"
+    },
+    "xian_zi": {
+      "__uuid__": "00M4RjNHhDOZwfBm03R62z"
+    },
+    "xing": {
+      "__uuid__": "1dvwtcNjlP35Cu3VnEdxt/"
+    },
+    "xing_number": {
+      "__uuid__": "daXr30fkBLnprXfZpgOTrl"
+    },
+    "xiu": {
+      "__uuid__": "6fghdF2chMq7GLy+CFa4qe"
+    },
+    "zimo": {
+      "__uuid__": "2fPClDB41Jy7BUaDlSEz/V"
+    }
+  }
+}

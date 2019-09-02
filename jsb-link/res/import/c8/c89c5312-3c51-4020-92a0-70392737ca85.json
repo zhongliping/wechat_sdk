@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huo_06",
+    "texture": "f7fPXlsvZFnL16cDYkt/nq",
+    "rect": [
+      610,
+      724,
+      594,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      594,
+      74
+    ]
+  }
+}

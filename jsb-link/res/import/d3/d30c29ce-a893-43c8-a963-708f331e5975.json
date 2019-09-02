@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paiqu",
+    "texture": "ecOrpCvmNOgolUbkkSxpn+",
+    "rect": [
+      0,
+      0,
+      787,
+      433
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      787,
+      433
+    ]
+  }
+}

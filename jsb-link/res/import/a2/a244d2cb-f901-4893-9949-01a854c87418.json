@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gang_you",
+    "texture": "fejIWENP9JgZGLRej3aIWF",
+    "rect": [
+      0,
+      0,
+      61,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      67
+    ]
+  }
+}

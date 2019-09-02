@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_fen",
+    "texture": "0e2yA/24VKDJl23I5qBUT4",
+    "rect": [
+      0,
+      1,
+      29,
+      29
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      29,
+      30
+    ]
+  }
+}

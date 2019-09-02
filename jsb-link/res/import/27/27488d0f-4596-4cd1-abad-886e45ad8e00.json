@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiong0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      2,
+      367,
+      107,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      135
+    ]
+  }
+}

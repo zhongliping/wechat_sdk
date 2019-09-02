@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "calandar",
+    "texture": "b0QMj6l6hEzoLCzYdfGlAY",
+    "rect": [
+      0,
+      0,
+      153,
+      327
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      327
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhunbei",
+    "texture": "1eDeKCnlpPPaxh53qciVdr",
+    "rect": [
+      197,
+      318,
+      68,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      33
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "P3F",
+    "texture": "bdR5kJHhFPCKpHZoUzJIQw",
+    "rect": [
+      2,
+      404,
+      412,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      412,
+      141
+    ]
+  }
+}

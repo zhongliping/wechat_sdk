@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_pic_dizhumao",
+    "texture": "1bljYd8TxBZpZtgyY6FEzi",
+    "rect": [
+      0,
+      0,
+      74,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      48
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lose.plist",
+  "_spriteFrames": {
+    "输了 (1)": {
+      "__uuid__": "16QX89MgVI15/SoHjBm4/L"
+    },
+    "输了 (2)": {
+      "__uuid__": "4f6qm4TV1DE54APjaO6+GG"
+    },
+    "输了 (3)": {
+      "__uuid__": "6a9t7HfeBG9rhYn2ypjLYQ"
+    },
+    "输了 (4)": {
+      "__uuid__": "57yn/Ta91EGrR3hKHCwqC/"
+    },
+    "输了 (5)": {
+      "__uuid__": "0fIN6t0xRGmrMoPrK+pQPZ"
+    },
+    "输了 (6)": {
+      "__uuid__": "90cwypFYtCKZ9jgB/shypl"
+    },
+    "输了 (7)": {
+      "__uuid__": "93LU1/CHhIJ6Ri4hp9c0g4"
+    },
+    "输了 (8)": {
+      "__uuid__": "03URg8AOpHQKnOoW4gx5tB"
+    }
+  }
+}

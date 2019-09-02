@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_icon",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      2,
+      2,
+      252,
+      424
+    ],
+    "offset": [
+      0,
+      42
+    ],
+    "originalSize": [
+      256,
+      512
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ZiMo_03",
+    "texture": "15K5Bmo2ZI9KOAmzVxC8C+",
+    "rect": [
+      852,
+      2,
+      230,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      158
+    ],
+    "rotated": 1
+  }
+}

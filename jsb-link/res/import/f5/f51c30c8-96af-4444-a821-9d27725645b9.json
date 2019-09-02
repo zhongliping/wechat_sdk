@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BBH",
+    "texture": "bdR5kJHhFPCKpHZoUzJIQw",
+    "rect": [
+      251,
+      2,
+      319,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      319,
+      127
+    ]
+  }
+}

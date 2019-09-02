@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_hong",
+    "texture": "713Ex2NYRNU5/wXLSb2Dc3",
+    "rect": [
+      0,
+      0,
+      80,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      49
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "win",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      952,
+      185,
+      48,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      50
+    ],
+    "rotated": 1
+  }
+}

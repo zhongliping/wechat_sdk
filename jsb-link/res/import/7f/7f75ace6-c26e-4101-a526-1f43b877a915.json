@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_rank",
+    "texture": "9dvlckWaJGRZKPNROQDsdR",
+    "rect": [
+      0,
+      0,
+      176,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      48
+    ]
+  }
+}

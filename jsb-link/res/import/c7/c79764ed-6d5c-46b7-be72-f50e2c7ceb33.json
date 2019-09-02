@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward_btn_jixv",
+    "texture": "29yTgqg91BUIvHF+p4cm93",
+    "rect": [
+      0,
+      0,
+      194,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      82
+    ]
+  }
+}

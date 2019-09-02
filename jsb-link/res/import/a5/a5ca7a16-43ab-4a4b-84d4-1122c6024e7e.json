@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btnQuickStart",
+    "texture": "f2HTBceI1G4pMCO/jivHv+",
+    "rect": [
+      0,
+      0,
+      277,
+      89
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      278,
+      90
+    ]
+  }
+}

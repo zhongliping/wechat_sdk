@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_purple",
+    "texture": "172kknrZ5Jrr5uN1Oys9FK",
+    "rect": [
+      0,
+      0,
+      167,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      74
+    ]
+  }
+}

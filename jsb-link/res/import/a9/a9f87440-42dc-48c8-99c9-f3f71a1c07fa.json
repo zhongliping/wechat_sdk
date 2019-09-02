@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "turnCards.plist",
+  "_spriteFrames": {
+    "poker_001": {
+      "__uuid__": "f4q8hgzY9Ne4GxmLk4EvTO"
+    },
+    "poker_002": {
+      "__uuid__": "1f4DwzohRC3Y0w7tqIRU8h"
+    },
+    "poker_003": {
+      "__uuid__": "c4VX9D/JFHZZ2eWT0YGPGY"
+    },
+    "poker_004": {
+      "__uuid__": "838H0PHPlLn70Wgwj3Nznn"
+    },
+    "poker_005": {
+      "__uuid__": "9dApDR7uNM3ZUwL27LMn5X"
+    },
+    "poker_006": {
+      "__uuid__": "d8V+O1i2VP2ZGkFF6EW6d6"
+    },
+    "poker_101": {
+      "__uuid__": "0251fTaqxHKJQ/MT9CtGpP"
+    },
+    "poker_102": {
+      "__uuid__": "d0CTk/dPVHK6A079oW6L7m"
+    },
+    "poker_103": {
+      "__uuid__": "20aIrcL5tOsr8HHGE6mGeS"
+    },
+    "poker_104": {
+      "__uuid__": "18Hd5WwapELIBogkop6WNc"
+    },
+    "poker_105": {
+      "__uuid__": "60jR2alQNFWIRKgBWXqeEH"
+    },
+    "poker_106": {
+      "__uuid__": "49DoaW/j9C8arWqgUm5fqR"
+    },
+    "poker_201": {
+      "__uuid__": "0djoM5ztZLpLUv/BXzzT4P"
+    },
+    "poker_202": {
+      "__uuid__": "0aJJ7h0k1LUZIH8FQw3xic"
+    },
+    "poker_203": {
+      "__uuid__": "80auwNILpKmKFiMIDfF2Ei"
+    },
+    "poker_204": {
+      "__uuid__": "f5mDvTzVpGJ4QaEFcQby8Q"
+    },
+    "poker_205": {
+      "__uuid__": "67u0LoLKVI76SGLrijmoXP"
+    },
+    "poker_206": {
+      "__uuid__": "55nnvEkXpICZ0eZ/QlZKvh"
+    },
+    "poker_301": {
+      "__uuid__": "9eY4AWgilO7LNYUbjJO/Wq"
+    },
+    "poker_302": {
+      "__uuid__": "17vYz1R5hPfpkcyQAS9Hfg"
+    },
+    "poker_303": {
+      "__uuid__": "fboki0AnJH3rJusaXztHpX"
+    },
+    "poker_304": {
+      "__uuid__": "50K4Ub2JlIzomwU+qjXQxt"
+    },
+    "poker_305": {
+      "__uuid__": "f9Qh9TtLxA25yM4Nw59xQU"
+    },
+    "poker_306": {
+      "__uuid__": "0bBqGKpKtBxYSry2iRa7qM"
+    },
+    "poker_401": {
+      "__uuid__": "86S2xKQ0xPiomWXRQjL4uC"
+    },
+    "poker_402": {
+      "__uuid__": "f0SCwRYVpAwKQLClwJhZ9p"
+    },
+    "poker_403": {
+      "__uuid__": "d2d44yPrhABp9EDmqz9CG9"
+    },
+    "poker_404": {
+      "__uuid__": "13iX8lns1Pu7MSlPsYPmDg"
+    },
+    "poker_405": {
+      "__uuid__": "21bkqhChBCeJa31IuD8PA/"
+    },
+    "poker_406": {
+      "__uuid__": "1flIbmSz9HNJWwtqiOCx2v"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wofang_kuang",
+    "texture": "f5HnrIOlRK17cy4O/5ChX1",
+    "rect": [
+      670,
+      156,
+      87,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      117
+    ]
+  }
+}

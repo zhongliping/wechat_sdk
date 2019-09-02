@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "julebu",
+    "texture": "b6PcBkmS1IJp4fkDdsvzHl",
+    "rect": [
+      0,
+      0,
+      76,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      24
+    ]
+  }
+}

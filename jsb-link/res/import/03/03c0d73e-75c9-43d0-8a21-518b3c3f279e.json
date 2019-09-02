@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SheZhi-bg_yy02",
+    "texture": "29vcDDGxJJXK63alrcYRFs",
+    "rect": [
+      38,
+      2,
+      466,
+      30
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      470,
+      34
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "di_lose",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      2,
+      195,
+      388,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      388,
+      118
+    ]
+  }
+}

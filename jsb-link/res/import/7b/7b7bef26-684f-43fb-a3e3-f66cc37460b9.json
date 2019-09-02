@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaoguang",
+    "texture": "b1MWXeH2NPq4LbG+z6rVt8",
+    "rect": [
+      2,
+      2,
+      490,
+      976
+    ],
+    "offset": [
+      -9,
+      22
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

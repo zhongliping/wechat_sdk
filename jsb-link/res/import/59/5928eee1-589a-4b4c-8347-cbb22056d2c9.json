@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_tingpai01",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      145,
+      416,
+      150,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      95
+    ],
+    "rotated": 1
+  }
+}

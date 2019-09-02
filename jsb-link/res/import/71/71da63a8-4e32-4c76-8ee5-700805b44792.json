@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_overlight01",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      350,
+      159,
+      105,
+      129
+    ],
+    "offset": [
+      0,
+      -5
+    ],
+    "originalSize": [
+      115,
+      139
+    ],
+    "rotated": 1
+  }
+}

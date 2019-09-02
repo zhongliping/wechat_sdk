@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "03三公-Sg_0006_sg",
+    "texture": "43DJkZ2yRJVY87v2c37ufU",
+    "rect": [
+      2,
+      628,
+      242,
+      134
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      242,
+      136
+    ],
+    "rotated": 1
+  }
+}

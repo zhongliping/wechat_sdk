@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sc_ShelfBoard",
+    "texture": "2fCEdB2v1Ntb1uuGy+KH/K",
+    "rect": [
+      0,
+      0,
+      1440,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      123
+    ]
+  }
+}

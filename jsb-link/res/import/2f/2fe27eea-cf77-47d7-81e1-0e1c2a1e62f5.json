@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_call02",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      108,
+      361,
+      101,
+      101
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      115,
+      115
+    ]
+  }
+}

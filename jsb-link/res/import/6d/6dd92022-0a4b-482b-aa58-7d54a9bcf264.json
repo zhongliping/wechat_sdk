@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cai_zuo",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      142,
+      246,
+      65,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      53
+    ]
+  }
+}

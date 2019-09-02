@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bomb",
+    "texture": "02ykFWYY1EpKV2UdoqrZ9f",
+    "rect": [
+      0,
+      0,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      64
+    ]
+  }
+}

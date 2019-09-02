@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "match_top.plist",
+  "_spriteFrames": {
+    "ID": {
+      "__uuid__": "9faKU1FiBMhL0kVXVjwZwD"
+    },
+    "beijing": {
+      "__uuid__": "47ckYgZJJDT5Gs05bsmNTM"
+    },
+    "beijingheise": {
+      "__uuid__": "5e6IstcGhN17QhHfhYyxoj"
+    },
+    "benjujifen": {
+      "__uuid__": "bf9Rp7WnxEV7xTk3UMjvW/"
+    },
+    "fanhui": {
+      "__uuid__": "0bxtfPRnlAX481i/oHIh4D"
+    },
+    "fengexian": {
+      "__uuid__": "56pbBMGe9E4qLebybTn/Bs"
+    },
+    "fenxiang": {
+      "__uuid__": "657ddYHtRHXp1ysDHGdxJn"
+    },
+    "heisekuangkuang": {
+      "__uuid__": "1dzHRplOZEp6L6ubzda2tJ"
+    },
+    "jifen": {
+      "__uuid__": "f9dFrOnmVJ8JdiBzPcy+oC"
+    },
+    "kuangkuang": {
+      "__uuid__": "a4mR7gbfFPRZOWo1Wzl9c0"
+    },
+    "mingci": {
+      "__uuid__": "ffqFV6wtFHQZf2vgvIvtVg"
+    },
+    "nicheng": {
+      "__uuid__": "6eqynuSIdDOaCmWdpznRYt"
+    },
+    "paihangbang": {
+      "__uuid__": "45pUbkjoBNK4NSz2uMJss1"
+    },
+    "taitou": {
+      "__uuid__": "cdGVd6Hf9GTqkli1XMF56k"
+    },
+    "xingbie": {
+      "__uuid__": "91Ti+13KZKfJf8htV+v5Gy"
+    },
+    "zongjiesuan": {
+      "__uuid__": "afgyB3f1tBR5P4FeFPHY32"
+    }
+  }
+}

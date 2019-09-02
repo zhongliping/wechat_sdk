@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "angry",
+  "_duration": 1.33,
+  "sample": 6,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "48Mo69/NBC+4c5X8dLSSyx"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "eajJLmJIRNMbhj8hcKgQPK"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "56g8qBG4lOCbFsr88ivOH+"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e6x280PlpFQ7GPKSkzGKV2"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "1aM+6jrg1NX7zWh7uiYDaA"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "8dAFWbSh9JPJUMyOhath7C"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0flrP9Z4tIKa4FmYXmgaXB"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "79Rn/Q/OdMBLex50flUTnE"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

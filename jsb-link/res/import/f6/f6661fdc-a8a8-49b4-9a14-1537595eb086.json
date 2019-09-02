@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baoming_2",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      736,
+      1643,
+      233,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      196
+    ],
+    "rotated": 1
+  }
+}

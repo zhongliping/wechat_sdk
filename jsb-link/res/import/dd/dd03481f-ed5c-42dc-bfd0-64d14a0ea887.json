@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon2_kefu",
+    "texture": "7aIJe0Ml1MP63IL3bavMqB",
+    "rect": [
+      3,
+      1,
+      44,
+      47
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ]
+  }
+}

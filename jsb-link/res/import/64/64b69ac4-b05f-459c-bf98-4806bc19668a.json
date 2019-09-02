@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dui_2_14",
+    "texture": "3d4lJ27HRNvriJSS5Fxde4",
+    "rect": [
+      61,
+      44,
+      57,
+      41
+    ],
+    "offset": [
+      -2,
+      3
+    ],
+    "originalSize": [
+      65,
+      47
+    ]
+  }
+}

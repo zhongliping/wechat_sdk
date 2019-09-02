@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red_p13_big",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      343,
+      161,
+      106,
+      158
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      126,
+      176
+    ]
+  }
+}

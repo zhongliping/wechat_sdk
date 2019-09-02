@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hand_4_1",
+    "texture": "8fE64vWM1EvIuGA1UE+VX9",
+    "rect": [
+      373,
+      723,
+      50,
+      71
+    ],
+    "offset": [
+      -7,
+      5
+    ],
+    "originalSize": [
+      64,
+      81
+    ],
+    "rotated": 1
+  }
+}

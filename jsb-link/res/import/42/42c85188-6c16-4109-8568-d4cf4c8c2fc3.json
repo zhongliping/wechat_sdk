@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mj_paibei_holds.plist",
+  "_spriteFrames": {
+    "hand_2_1": {
+      "__uuid__": "bfnUF9kAJPrJdpg/W3cFb9"
+    },
+    "hand_2_10": {
+      "__uuid__": "97yy1Yv3VPGZf9+saXiCho"
+    },
+    "hand_2_11": {
+      "__uuid__": "9c6aUU/6FBnpO/H7IsBwJ+"
+    },
+    "hand_2_12": {
+      "__uuid__": "b00yIizjBEyqzUYBPR8TFg"
+    },
+    "hand_2_13": {
+      "__uuid__": "a2dTPIUgBOuIifEhHrObq2"
+    },
+    "hand_2_14": {
+      "__uuid__": "3aUMy3fHNJ3JIJrngwdqji"
+    },
+    "hand_2_15": {
+      "__uuid__": "bd9lNFEc9McaYZq1UdPEgs"
+    },
+    "hand_2_16": {
+      "__uuid__": "bfqyhWq5xCaoJ6BnA2IJ76"
+    },
+    "hand_2_17": {
+      "__uuid__": "95YNU6TpVK2J5ybQ+ceRsM"
+    },
+    "hand_2_18": {
+      "__uuid__": "14uydEFzpLlJiN99qkywmi"
+    },
+    "hand_2_2": {
+      "__uuid__": "3dDgdm+j1I+aVwy6St5q0E"
+    },
+    "hand_2_3": {
+      "__uuid__": "15xVbzZDFNZqus0qG1bKs9"
+    },
+    "hand_2_4": {
+      "__uuid__": "d4oTOYQmZIfr5Mt/91PEPX"
+    },
+    "hand_2_5": {
+      "__uuid__": "cbo6+gNMRKFqMmQF7so+24"
+    },
+    "hand_2_6": {
+      "__uuid__": "74rfgvgJ1OwK6sPjOFBbyM"
+    },
+    "hand_2_7": {
+      "__uuid__": "ffSPQHhq5ElKCnnI3eukcY"
+    },
+    "hand_2_8": {
+      "__uuid__": "954x3yc81PIrcrplOiVlVd"
+    },
+    "hand_2_9": {
+      "__uuid__": "a6RgDiMU5NDJ31B/eakkVX"
+    },
+    "hand_3_1": {
+      "__uuid__": "8boNZdZsVItaIB33O6Zv3J"
+    }
+  }
+}

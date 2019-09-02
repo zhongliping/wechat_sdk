@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shihua0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      401,
+      146,
+      109,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      116
+    ]
+  }
+}

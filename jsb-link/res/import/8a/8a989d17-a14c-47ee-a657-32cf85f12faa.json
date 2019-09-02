@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gongxihuode",
+    "texture": "b8RntgpN5Oq70Ygd9B3WXo",
+    "rect": [
+      0,
+      0,
+      156,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      37
+    ]
+  }
+}

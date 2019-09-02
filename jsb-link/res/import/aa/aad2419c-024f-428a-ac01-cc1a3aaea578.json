@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NIUniu_zhadan-NIUniu_zhadan12",
+    "texture": "6avNi1/t1K+YQm0Xqul9Vq",
+    "rect": [
+      184,
+      269,
+      176,
+      69
+    ],
+    "offset": [
+      5,
+      0
+    ],
+    "originalSize": [
+      236,
+      99
+    ]
+  }
+}

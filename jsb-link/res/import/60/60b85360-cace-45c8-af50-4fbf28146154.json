@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_youjian",
+    "texture": "4cIT6SFJZKSYjfIG5Q6aSv",
+    "rect": [
+      0,
+      0,
+      120,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      86
+    ]
+  }
+}

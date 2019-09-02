@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhupai_fangkuai",
+    "texture": "22u5l91mJCmaoXy8xubmY2",
+    "rect": [
+      17,
+      0,
+      87,
+      120
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

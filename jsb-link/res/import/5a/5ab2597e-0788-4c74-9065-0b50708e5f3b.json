@@ -1,0 +1,144 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gameCommon.plist",
+  "_spriteFrames": {
+    "bg_biaotikuang02": {
+      "__uuid__": "68V/6GnuRGRrZcqCDxelUw"
+    },
+    "bg_wupin": {
+      "__uuid__": "f7ScwF8GNLvZdtCqltNXJG"
+    },
+    "btn01": {
+      "__uuid__": "3dwgKuWXpDTqiGD0GufBH4"
+    },
+    "btn_big": {
+      "__uuid__": "a3MsUl1DdLI4AgiZ+Js1Sa"
+    },
+    "dianchi": {
+      "__uuid__": "12SvUvwCZLN6P+s0V332bn"
+    },
+    "dianchi_1": {
+      "__uuid__": "6e2/43RF1PCqYN9XHD6jYg"
+    },
+    "dianchi_2": {
+      "__uuid__": "76AuDsO3RHMb0UNsmysNhY"
+    },
+    "dianchi_3": {
+      "__uuid__": "9e5gig1YdJVavmSMz6yI2P"
+    },
+    "dianchi_4": {
+      "__uuid__": "9eUWqxWWBJMpDnLTvGytpP"
+    },
+    "dianchi_5": {
+      "__uuid__": "2702Xc0RlMArI1SJMRI99O"
+    },
+    "dkfj_sn_": {
+      "__uuid__": "61rDTOv3lDS4lgUxJQh9xE"
+    },
+    "fasong": {
+      "__uuid__": "a2cyynAYtKDLp5+BJDNq2B"
+    },
+    "gengduo": {
+      "__uuid__": "83kUDKYKVPw5lm9AafvTfp"
+    },
+    "huanfu": {
+      "__uuid__": "c47eR5dY5PYZ69IhhJyI1/"
+    },
+    "huanfu_hong": {
+      "__uuid__": "cfV3HQNDRG4InEumYLT6AQ"
+    },
+    "huanfu_lan": {
+      "__uuid__": "e0HyNxknRMKIOAI2aYCUpw"
+    },
+    "huanfu_lv": {
+      "__uuid__": "dccdMgwilLCbPm4NcpcA8+"
+    },
+    "huanfu_zi": {
+      "__uuid__": "b64RCysExCwIfZWu7T1g0S"
+    },
+    "icon_biaoqing01": {
+      "__uuid__": "07kVqV2gRPbbKmtUqK6TA2"
+    },
+    "icon_biaoqing02": {
+      "__uuid__": "cbOoQtdBhIa5TEOJMIjJP8"
+    },
+    "icon_dazi01": {
+      "__uuid__": "8bWEVnNWhDSYH23fzjeTie"
+    },
+    "icon_dazi02": {
+      "__uuid__": "8bFqhdTDhBX7eoMx4keJeS"
+    },
+    "icon_jilu01": {
+      "__uuid__": "91ULylTOlBQJJGctxlpIf9"
+    },
+    "icon_jilu02": {
+      "__uuid__": "deTS4N74pEKoGPlDoZEl+W"
+    },
+    "jiesan": {
+      "__uuid__": "58EfiZkXtOpb1gaAgA7Mpv"
+    },
+    "kuang_faguang": {
+      "__uuid__": "a9vaxWkotOoJ43mJYVqsri"
+    },
+    "kuangkuang": {
+      "__uuid__": "37+xhfltFCEb5VxIAbIaCE"
+    },
+    "liaotian": {
+      "__uuid__": "a9NttWWx5LIINefAm2IqtZ"
+    },
+    "line01_4": {
+      "__uuid__": "8eRCupCc5Jk67ScdTlHzyr"
+    },
+    "popup_close": {
+      "__uuid__": "b3ELrwo4RI4Y/jXQB/VHIA"
+    },
+    "shezhi": {
+      "__uuid__": "cdnZtD0ThK2a4chUzltQAS"
+    },
+    "shijiangkuang": {
+      "__uuid__": "9aNFCRUIJNfqlGeH+fFmHo"
+    },
+    "touxiangkuang": {
+      "__uuid__": "14zhJWq/pIpb6ukg5GFB4Q"
+    },
+    "tuichu": {
+      "__uuid__": "f3CSIO5EBD07PJTSm30diH"
+    },
+    "wanfa": {
+      "__uuid__": "78EpVF8uNFW6wHVOBH03cy"
+    },
+    "yaoqinghaoyou": {
+      "__uuid__": "3bBkPUClZPR6m0Lc50dWbK"
+    },
+    "yuyin": {
+      "__uuid__": "23yEehiy1G+rY1PzUfIZR5"
+    },
+    "zhunbei": {
+      "__uuid__": "cdEGT6u/dMsJ7W8oLGW0JO"
+    },
+    "坐下": {
+      "__uuid__": "cc5bA5iEhCxbjZMRdxXYNZ"
+    },
+    "大金牛": {
+      "__uuid__": "56XCMLyJdD6JxfMhyPF5W9"
+    },
+    "开始游戏": {
+      "__uuid__": "f1Fd4RVrxFmr6s5Jl3Qeeh"
+    },
+    "当前玩法": {
+      "__uuid__": "18VluIVsNL2qFV8zOoNKp6"
+    },
+    "微信图片_20180209182242": {
+      "__uuid__": "70ycrb6GtEW49c+7h7Pzfs"
+    },
+    "确定": {
+      "__uuid__": "d4qsDqwKRPq7tdTLo/x9l3"
+    },
+    "退出": {
+      "__uuid__": "9e6P8O5KJE4J1Kkf9zCU75"
+    },
+    "雷达": {
+      "__uuid__": "81UN6tV7NOjYfYue+HaFAi"
+    }
+  }
+}

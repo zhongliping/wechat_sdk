@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "01豹子-豹子 (5)",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      1417,
+      1420,
+      156,
+      153
+    ],
+    "offset": [
+      -1,
+      7
+    ],
+    "originalSize": [
+      570,
+      179
+    ]
+  }
+}

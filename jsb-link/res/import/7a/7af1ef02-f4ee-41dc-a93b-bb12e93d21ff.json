@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "双顺4",
+    "texture": "10n/NOSMhPBocWPif/gWGF",
+    "rect": [
+      644,
+      701,
+      303,
+      162
+    ],
+    "offset": [
+      -10,
+      28
+    ],
+    "originalSize": [
+      449,
+      324
+    ],
+    "rotated": 1
+  }
+}

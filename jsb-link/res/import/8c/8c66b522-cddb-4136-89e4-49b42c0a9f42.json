@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "赢了-23",
+    "texture": "7a4hsQE4JCS58+QQzZNSRn",
+    "rect": [
+      921,
+      544,
+      91,
+      88
+    ],
+    "offset": [
+      38,
+      53
+    ],
+    "originalSize": [
+      603,
+      286
+    ]
+  }
+}

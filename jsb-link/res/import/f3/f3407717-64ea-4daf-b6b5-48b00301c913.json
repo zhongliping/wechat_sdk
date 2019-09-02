@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_p12",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      131,
+      325,
+      55,
+      80
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      63,
+      88
+    ]
+  }
+}

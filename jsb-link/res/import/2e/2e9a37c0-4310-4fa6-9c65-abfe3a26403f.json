@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tag_zhekou",
+    "texture": "7eKv2Hj9lFJ7wIR4LzCcOx",
+    "rect": [
+      0,
+      0,
+      60,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      53
+    ]
+  }
+}

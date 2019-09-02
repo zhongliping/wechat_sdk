@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "飞吻",
+    "texture": "44IudelvNFxaBNllASuj3D",
+    "rect": [
+      2,
+      68,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      64
+    ]
+  }
+}

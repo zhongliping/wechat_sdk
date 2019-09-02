@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lose",
+    "texture": "3e7/5NFHdC4qBlkIv7RaO6",
+    "rect": [
+      3,
+      3,
+      207,
+      136
+    ],
+    "offset": [
+      -21.5,
+      57
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

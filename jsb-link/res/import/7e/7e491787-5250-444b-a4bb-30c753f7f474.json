@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ying2",
+    "texture": "a8S+PZNuRFR4VS4xH7QHvg",
+    "rect": [
+      0,
+      0,
+      167,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      57
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow_left",
+    "texture": "46f+v3VjlL/7S7+htQt+9W",
+    "rect": [
+      0,
+      0,
+      716,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      716,
+      75
+    ]
+  }
+}

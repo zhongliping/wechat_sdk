@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameover_winnum",
+    "texture": "52JuNB9B1C/ZBp96KtqKxN",
+    "rect": [
+      3,
+      2,
+      123,
+      120
+    ],
+    "offset": [
+      -0.5,
+      20.5
+    ],
+    "originalSize": [
+      130,
+      165
+    ]
+  }
+}

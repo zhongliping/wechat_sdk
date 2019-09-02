@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanchuntian",
+    "texture": "fec8fjT7xHypKNhixgq9D2",
+    "rect": [
+      0,
+      0,
+      105,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      36
+    ]
+  }
+}

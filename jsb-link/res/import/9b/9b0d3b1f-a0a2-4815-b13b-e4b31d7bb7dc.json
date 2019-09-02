@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bisaijilu_2",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      699,
+      1878,
+      151,
+      148
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      148
+    ],
+    "rotated": 1
+  }
+}

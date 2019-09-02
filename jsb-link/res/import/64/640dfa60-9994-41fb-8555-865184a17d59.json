@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sc_zuanshi03",
+    "texture": "8eIcEVh/9FcoifkR+0PG+N",
+    "rect": [
+      7,
+      15,
+      144,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      137
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_jack",
+    "texture": "ea4JBHh1dD4LyiuPwrnC8k",
+    "rect": [
+      460,
+      358,
+      84,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      38
+    ],
+    "rotated": 1
+  }
+}

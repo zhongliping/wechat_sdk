@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dh_luopai05",
+    "texture": "f5HnrIOlRK17cy4O/5ChX1",
+    "rect": [
+      152,
+      370,
+      158,
+      136
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      162,
+      136
+    ]
+  }
+}

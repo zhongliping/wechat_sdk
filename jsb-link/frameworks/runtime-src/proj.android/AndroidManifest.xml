@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.blgj.hall"
+      android:versionCode="230"
+      android:versionName="3.0.0"
+      android:installLocation="auto">
+
+    <uses-sdk android:minSdkVersion="11"/>
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <!--判断程序是否在前台运行,必须 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application android:label="@string/app_name"
+                 android:icon="@drawable/icon">
+
+        <!-- Tell NativeActivity the name of our .so -->
+        <meta-data android:name="android.app.lib_name" android:value="cocos2djs" />
+
+        <activity
+        android:name="com.blgj.hall.wxapi.WXEntryActivity"
+        android:exported="true"/>
+
+        <activity
+        android:name=".wxapi.WXPayEntryActivity"
+        android:exported="true"/>
+
+        <meta-data
+	    android:name="com.openinstall.APP_KEY"
+	    android:value="mdu6ry"/>
+        
+        <!--总的activity，必须注册！！！ -->
+        <activity android:name="com.zxinsight.common.base.MWActivity" android:exported="true"
+        android:configChanges="orientation"/>
+        <!--MW sdk ID 此处跟activity同级，需要放在Application内，MW_APPID（也就是后台的” 魔窗AppKey”）不能更改 -->
+        <meta-data android:name="MW_APPID" android:value="1CPHAGS6VOTSZKKW001F11BQWNYZQW2W" />
+        <!--渠道名称MW_CHANNEL不能更改 -->
+        <meta-data android:name="MW_CHANNEL" android:value="微信" />
+
+        <activity android:name="org.cocos2dx.javascript.AppActivity"
+                  android:label="@string/app_name"
+                  android:screenOrientation="sensorLandscape"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+                  android:configChanges="orientation">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+            <!-- 跳转入口 -->
+            <intent-filter>
+                <data android:scheme="yueyueqipaiyouyou"/>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+    <supports-screens android:anyDensity="true"
+                      android:smallScreens="true"
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"/>
+					  
+</manifest> 

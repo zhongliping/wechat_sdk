@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QingYiSe_04",
+    "texture": "15K5Bmo2ZI9KOAmzVxC8C+",
+    "rect": [
+      320,
+      134,
+      248,
+      116
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      316,
+      154
+    ]
+  }
+}

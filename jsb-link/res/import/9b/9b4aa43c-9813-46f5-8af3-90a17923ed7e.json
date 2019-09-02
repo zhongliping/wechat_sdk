@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameover_losenum",
+    "texture": "4eiZlMnWlF5KsBkURPNfBV",
+    "rect": [
+      3,
+      3,
+      164,
+      160
+    ],
+    "offset": [
+      -0.5,
+      27.5
+    ],
+    "originalSize": [
+      171,
+      221
+    ]
+  }
+}

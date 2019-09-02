@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "王炸 (12)",
+    "texture": "14NgPT27RGH4T9VU1mqyWA",
+    "rect": [
+      2,
+      2,
+      278,
+      700
+    ],
+    "offset": [
+      0,
+      10
+    ],
+    "originalSize": [
+      344,
+      720
+    ],
+    "rotated": 1
+  }
+}

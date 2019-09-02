@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SDH_0002_Zjtx",
+    "texture": "70QrKex21M062eE/WXuuj0",
+    "rect": [
+      2,
+      89,
+      372,
+      79
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      402,
+      85
+    ]
+  }
+}

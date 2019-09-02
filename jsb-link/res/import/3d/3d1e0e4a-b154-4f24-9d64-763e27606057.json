@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "跑得快-炸弹2",
+    "texture": "5euag/cKpB36rFU3Xwe6CY",
+    "rect": [
+      804,
+      544,
+      137,
+      185
+    ],
+    "offset": [
+      91,
+      42
+    ],
+    "originalSize": [
+      447,
+      509
+    ],
+    "rotated": 1
+  }
+}

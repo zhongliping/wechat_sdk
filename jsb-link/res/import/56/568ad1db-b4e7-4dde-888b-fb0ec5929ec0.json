@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fly",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      2,
+      2,
+      2044,
+      2029
+    ],
+    "offset": [
+      0,
+      7.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

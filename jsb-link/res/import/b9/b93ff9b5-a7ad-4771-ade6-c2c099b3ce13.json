@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhuanpan_tex",
+    "texture": "65EGnnOldGCKmjAZEO6BKR",
+    "rect": [
+      1,
+      1,
+      978,
+      472
+    ],
+    "offset": [
+      -22,
+      19
+    ],
+    "originalSize": [
+      1024,
+      512
+    ]
+  }
+}

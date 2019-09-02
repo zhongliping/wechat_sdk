@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "大金牛",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      384,
+      597,
+      84,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      27
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fennu0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      291,
+      125,
+      108,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      140
+    ]
+  }
+}

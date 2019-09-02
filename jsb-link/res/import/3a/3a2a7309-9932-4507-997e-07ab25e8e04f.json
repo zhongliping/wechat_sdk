@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_creatroom",
+    "texture": "baKQXJwnpLS4sb20TiwU4X",
+    "rect": [
+      2,
+      3,
+      588,
+      544
+    ],
+    "offset": [
+      -1,
+      10.5
+    ],
+    "originalSize": [
+      594,
+      571
+    ]
+  }
+}

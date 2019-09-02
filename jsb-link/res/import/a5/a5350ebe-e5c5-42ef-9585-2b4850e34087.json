@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QMT",
+    "texture": "bc2TNtqAtFpo1liCwU3rr7",
+    "rect": [
+      21,
+      12,
+      271,
+      379
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

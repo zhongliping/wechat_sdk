@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "21dian_ts",
+    "texture": "3aPkV+WDRNibmexgWn0DGA",
+    "rect": [
+      2,
+      264,
+      481,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      481,
+      44
+    ],
+    "rotated": 1
+  }
+}

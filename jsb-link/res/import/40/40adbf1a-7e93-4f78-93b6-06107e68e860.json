@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_settings.plist",
+  "_spriteFrames": {
+    "JiaRuFangJian-popup_close": {
+      "__uuid__": "e3rxJVcXFPKKCtqLlQaL1a"
+    },
+    "SheZhi-bg_yy01": {
+      "__uuid__": "47lXb0MatDhLPrEDGoK9zc"
+    },
+    "SheZhi-bg_yy02": {
+      "__uuid__": "03wNc+dclD0IohUYs8Pyee"
+    },
+    "SheZhi-btn_yingxiao": {
+      "__uuid__": "38YUWw6WVHJYSKmRPn1RVP"
+    },
+    "SheZhi-btn_yingyue": {
+      "__uuid__": "c17dmFzTRKwIZWstekaqwr"
+    },
+    "SheZhi-popup_shezhi": {
+      "__uuid__": "2aemylivFB8pFCbgZX1VTx"
+    }
+  }
+}

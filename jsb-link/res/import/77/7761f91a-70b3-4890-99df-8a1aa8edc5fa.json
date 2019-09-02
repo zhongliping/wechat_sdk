@@ -1,0 +1,305 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "recordItem",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "recordItem",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "9akuyp2JtEE6NlV1+MkqYy"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 450,
+      "height": 45
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -22.5
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "userID",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 2
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_lineHeight": 20,
+        "_N$file": {
+          "__uuid__": "feGF1AtQRO0IW4EfLOXmIL"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "000001",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "19SvuBc0lCLpHBqAv4Y4ye"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 252,
+      "g": 239,
+      "b": 209
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 60,
+      "height": 20
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -178.9
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "money",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 3
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_lineHeight": 20,
+        "_N$file": {
+          "__uuid__": "feGF1AtQRO0IW4EfLOXmIL"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "钻石",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "95n+IuUsFF8bk7VkqVVnVN"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 252,
+      "g": 239,
+      "b": 209
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 20
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -111.3
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "num",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 4
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_lineHeight": 20,
+        "_N$file": {
+          "__uuid__": "feGF1AtQRO0IW4EfLOXmIL"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "333",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "afwxo8BktLJIQ8ZGp9rTlR"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 252,
+      "g": 239,
+      "b": 209
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 30,
+      "height": 20
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -60.1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "record",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 5
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_lineHeight": 20,
+        "_N$file": {
+          "__uuid__": "feGF1AtQRO0IW4EfLOXmIL"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "赠送",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "058HKDyoZPn4Z+/osZzWaG"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 252,
+      "g": 239,
+      "b": 209
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 20
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -9.9
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "times",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 6
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 20,
+        "_fontSize": 20,
+        "_lineHeight": 20,
+        "_N$file": {
+          "__uuid__": "feGF1AtQRO0IW4EfLOXmIL"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "2018-01-22  13:55",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "77YfkacLNIkJnfihqo7cX6"
+      },
+      "fileId": "a2tgbFoi5IAYLFkPpaYL/g"
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 252,
+      "g": 239,
+      "b": 209
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 148.88,
+      "height": 20
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 115.3
+    }
+  }
+]

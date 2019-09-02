@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameOverFrame",
+    "texture": "e7YT8fx0tC46+Nvr6T3hAS",
+    "rect": [
+      0,
+      0,
+      932,
+      631
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      932,
+      631
+    ]
+  }
+}

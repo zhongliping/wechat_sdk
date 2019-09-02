@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "13s.plist",
+  "_spriteFrames": {
+    "13bg": {
+      "__uuid__": "25Gco+xPVHapsvJHi7EP+n"
+    },
+    "btnCacel": {
+      "__uuid__": "4deJGu7fFGy6j8qoGgp7Q8"
+    },
+    "btnOK": {
+      "__uuid__": "348wph65BF56UshBRBAjcv"
+    },
+    "btn_dzpk_red": {
+      "__uuid__": "918O2IbnNGkpeYeHhXwAZS"
+    },
+    "btn_zdpk_green": {
+      "__uuid__": "9dxPUBboBOrIRIBday87tQ"
+    },
+    "da": {
+      "__uuid__": "d7Cq0yyddCB7kiz86wMHyj"
+    },
+    "my": {
+      "__uuid__": "4fxytjQJdBwp/RZpnar+Pr"
+    },
+    "tip": {
+      "__uuid__": "43HmiFr+xA67BI3U1+11Wc"
+    },
+    "xiao": {
+      "__uuid__": "9eN6g46rVHWIel8JWQHwBF"
+    },
+    "xuanze": {
+      "__uuid__": "9fdN4QQipDdqmMauhHa+7L"
+    },
+    "zhuang": {
+      "__uuid__": "fcoxcIacJJA7Kyv7z8PBUM"
+    },
+    "选中箭头标示": {
+      "__uuid__": "44fqSghaJBH7HPceTpy+nM"
+    },
+    "选中背景框": {
+      "__uuid__": "87YvGWdrxMapYdyyxL6ZRq"
+    },
+    "选择背景框": {
+      "__uuid__": "6dlV8DTmBD94DuYD6Mt8Zk"
+    }
+  }
+}

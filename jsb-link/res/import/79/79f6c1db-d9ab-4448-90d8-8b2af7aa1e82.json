@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "meishaonv5_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":35,\"y\":864,\"height\":59,\"name\":\"头发下\",\"x\":143},{\"width\":209,\"y\":581,\"height\":281,\"name\":\"头发\",\"x\":1},{\"width\":127,\"y\":581,\"height\":162,\"name\":\"头发左\",\"x\":212},{\"width\":140,\"y\":864,\"height\":156,\"name\":\"右手\",\"x\":1},{\"width\":362,\"y\":1,\"height\":578,\"name\":\"身子\",\"x\":1},{\"width\":81,\"y\":799,\"height\":106,\"name\":\"头部\",\"x\":318},{\"width\":65,\"y\":581,\"height\":216,\"name\":\"大手左\",\"x\":341},{\"width\":104,\"y\":745,\"height\":110,\"name\":\"小手左\",\"x\":212},{\"width\":69,\"y\":857,\"height\":84,\"name\":\"手掌左\",\"x\":212},{\"width\":24,\"y\":864,\"height\":66,\"name\":\"几根头发下\",\"x\":180},{\"width\":21,\"y\":745,\"height\":40,\"name\":\"几根头发上\",\"x\":318},{\"width\":70,\"y\":799,\"height\":19,\"name\":\"眨眼\",\"x\":401}],\"width\":512,\"height\":1024,\"name\":\"meishaonv5\",\"imagePath\":\"meishaonv5_tex.png\"}",
+  "texture": {
+    "__uuid__": "12QShpSLtJ6Le7F0mtApy7"
+  }
+}

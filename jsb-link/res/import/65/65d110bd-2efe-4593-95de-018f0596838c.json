@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jin",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      77,
+      74,
+      70,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      73
+    ],
+    "rotated": 1
+  }
+}

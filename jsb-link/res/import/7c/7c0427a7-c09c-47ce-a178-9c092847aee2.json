@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ppl_texture.plist",
+  "_spriteFrames": {
+    "dh_luopai00": {
+      "__uuid__": "8azn5hP5NN27NbfQJ2vQEo"
+    },
+    "dh_luopai01": {
+      "__uuid__": "92bXtXV2BGp6ttCREJDECD"
+    },
+    "dh_luopai02": {
+      "__uuid__": "0brDdNxYhLVJ53NAQFKlMN"
+    },
+    "dh_luopai03": {
+      "__uuid__": "3b0iOszAhHiZA1dSxKTm0w"
+    },
+    "dh_luopai04": {
+      "__uuid__": "23knSSZZRGT6B1xXMda+px"
+    },
+    "dh_luopai05": {
+      "__uuid__": "63zScaNjZHYab/L4Ir3Ab0"
+    },
+    "dh_luopai06": {
+      "__uuid__": "705DvX9kJM6aBNhvRJE6KH"
+    },
+    "dh_luopai07": {
+      "__uuid__": "52W1B6HXJHaboZzMwuQ90j"
+    },
+    "dh_luopai08": {
+      "__uuid__": "45o9QdIaZMuooqVo8V4wG5"
+    },
+    "dh_luopai09": {
+      "__uuid__": "b6ysGP7plLW683lZj6PrZq"
+    },
+    "light": {
+      "__uuid__": "35SI9+aBxBq439SjP1KjdV"
+    },
+    "light_kuang": {
+      "__uuid__": "1dMKok6IFOh58J+0Iswe8K"
+    },
+    "paixindefen": {
+      "__uuid__": "b8Tn2iRkRLyo8b0xD9Rllq"
+    },
+    "shoupaiqu": {
+      "__uuid__": "29ZQe4OjxE7ZBqUG8irxvL"
+    },
+    "wofang_kuang": {
+      "__uuid__": "b6g4mOuCVIDKGVLVvsTop3"
+    },
+    "yidong_kuang": {
+      "__uuid__": "40CNyab3VHhbINrmg+M0DT"
+    },
+    "yiwancheng": {
+      "__uuid__": "79HcMtxehAH6qtYDWbr+yA"
+    }
+  }
+}

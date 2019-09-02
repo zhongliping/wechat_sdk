@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "match_hall_item2",
+    "texture": "16VPatlIpDTrW1r+ZQ0+y8",
+    "rect": [
+      0,
+      0,
+      277,
+      380
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      278,
+      380
+    ]
+  }
+}

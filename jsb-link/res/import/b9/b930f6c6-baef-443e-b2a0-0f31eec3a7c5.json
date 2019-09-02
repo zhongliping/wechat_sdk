@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "炸弹 (21)",
+    "texture": "ea/x/6owtFhZ5a5UMoQUm9",
+    "rect": [
+      618,
+      356,
+      281,
+      83
+    ],
+    "offset": [
+      4,
+      -2
+    ],
+    "originalSize": [
+      373,
+      323
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洞-洞 (5)",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      644,
+      258,
+      49,
+      48
+    ],
+    "offset": [
+      3,
+      28
+    ],
+    "originalSize": [
+      131,
+      118
+    ]
+  }
+}

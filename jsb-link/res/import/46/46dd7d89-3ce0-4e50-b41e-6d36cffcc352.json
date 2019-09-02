@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hong10_hei3",
+    "texture": "e3iKrCe49NHrQOWYdRUXNu",
+    "rect": [
+      2,
+      2,
+      463,
+      494
+    ],
+    "offset": [
+      -22.5,
+      7
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

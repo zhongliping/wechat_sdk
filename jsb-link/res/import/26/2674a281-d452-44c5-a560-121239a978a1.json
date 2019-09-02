@@ -1,0 +1,87 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "matchAwardPre",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "matchAwardPre",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "45SahqS9ZBh4NwT0gTunsH"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "26dKKB1FJExaVgEhI5qXih"
+      },
+      "fileId": "f2e3fL8J7tO7Z0ws5s666m4"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 331,
+      "height": 50
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -168.5,
+      "y": -31
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "lab",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 2
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 28,
+        "_fontSize": 28,
+        "_lineHeight": 28,
+        "_N$string": "第一名",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "26dKKB1FJExaVgEhI5qXih"
+      },
+      "fileId": "70d1dEQGJBMm5wXjKNWrxFn"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 84,
+      "height": 28
+    }
+  }
+]

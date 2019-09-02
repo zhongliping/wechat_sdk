@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MiaoZhun-MiaoZhun_2",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      1980,
+      745,
+      63,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      70
+    ],
+    "rotated": 1
+  }
+}

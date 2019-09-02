@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "color_3",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      1,
+      447,
+      24,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      34
+    ],
+    "rotated": 1
+  }
+}

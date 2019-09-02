@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dyj",
+    "texture": "5f2HJQaexDE76fIsG+c3e/",
+    "rect": [
+      43,
+      97,
+      114,
+      42
+    ],
+    "offset": [
+      0,
+      -18
+    ],
+    "originalSize": [
+      200,
+      200
+    ]
+  }
+}

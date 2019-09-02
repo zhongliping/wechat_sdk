@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangqianwanfa",
+    "texture": "e3Sz3c1M5BZ6ZaXRPM7Bn/",
+    "rect": [
+      0,
+      0,
+      152,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      33
+    ]
+  }
+}

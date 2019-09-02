@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anshijiansousuo",
+    "texture": "69HNesS8pGZ5VaOX7r58lu",
+    "rect": [
+      0,
+      0,
+      216,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      35
+    ]
+  }
+}

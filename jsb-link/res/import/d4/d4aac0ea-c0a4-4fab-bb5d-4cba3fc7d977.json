@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "确定",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      434,
+      626,
+      60,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      27
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haidilaozi",
+    "texture": "07zKb7aE9KrrhZQXVgUUro",
+    "rect": [
+      68,
+      57,
+      243,
+      114
+    ],
+    "offset": [
+      12,
+      6
+    ],
+    "originalSize": [
+      355,
+      240
+    ]
+  }
+}

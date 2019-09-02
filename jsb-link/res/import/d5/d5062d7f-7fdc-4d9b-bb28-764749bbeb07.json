@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "勾选",
+    "texture": "0drKKRRjhM4L6gCLpxcS6h",
+    "rect": [
+      362,
+      763,
+      45,
+      88
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      45,
+      90
+    ],
+    "rotated": 1
+  }
+}

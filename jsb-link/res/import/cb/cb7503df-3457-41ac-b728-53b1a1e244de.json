@@ -1,0 +1,174 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feiji",
+  "_duration": 1.4,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "74jkbpGaVAuq8nFMLHdSez"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c26qsnjqZG/6iAfjYvOTal"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "13Wn0940BE/ZdJJ28XIEcl"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "98RgMAiNhN2ZFVy7ZGZpm/"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f3wVt+GLBJxaSe048K8/dA"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f5QlInu8lKwKW1AiaGmHZP"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "bbmzSheWxDSqQf0Xok49XW"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "c6B6OjH9dIEZL1j8RAX8G0"
+            }
+          },
+          {
+            "frame": 0.9
+          },
+          {
+            "frame": 1
+          },
+          {
+            "frame": 1.1
+          },
+          {
+            "frame": 1.2
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            976,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            653,
+            0
+          ]
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            407,
+            0
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            161.66666666666669,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            164,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            138,
+            0
+          ]
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            14,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            -180,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            -303,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -787,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.2,
+          "value": 255
+        },
+        {
+          "frame": 1.4,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

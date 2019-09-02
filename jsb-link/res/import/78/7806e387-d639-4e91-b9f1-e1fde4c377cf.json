@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zidongkaifang",
+    "texture": "d67ZIQhxlDjo+CfvEy3kqE",
+    "rect": [
+      0,
+      0,
+      169,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      37
+    ]
+  }
+}

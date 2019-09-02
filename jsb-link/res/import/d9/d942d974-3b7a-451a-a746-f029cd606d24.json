@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "shopguang_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":25,\"y\":1,\"height\":25,\"name\":\"高光\",\"x\":1}],\"width\":32,\"height\":32,\"name\":\"shopguang\",\"imagePath\":\"shopguang_tex.png\"}",
+  "texture": {
+    "__uuid__": "67gQAv/6pMjYeHxoB9xVp4"
+  }
+}

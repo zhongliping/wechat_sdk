@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lianjiezhongduan",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      925,
+      185,
+      85,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      25
+    ],
+    "rotated": 1
+  }
+}

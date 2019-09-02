@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_baise",
+    "texture": "e2bsHXn4FBCLNE8zpMGBtO",
+    "rect": [
+      2,
+      3,
+      407,
+      373
+    ],
+    "offset": [
+      -2,
+      3.5
+    ],
+    "originalSize": [
+      415,
+      386
+    ]
+  }
+}

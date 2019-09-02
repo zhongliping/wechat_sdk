@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "选择背景框",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      680,
+      479,
+      193,
+      361
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      371
+    ]
+  }
+}

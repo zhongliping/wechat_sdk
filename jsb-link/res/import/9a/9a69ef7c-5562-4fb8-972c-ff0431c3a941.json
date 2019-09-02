@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wei",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      430,
+      798,
+      102,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      108
+    ]
+  }
+}

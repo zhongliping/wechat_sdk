@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xing",
+    "texture": "2b5MyBXEFA5r87JJAAf/oa",
+    "rect": [
+      2,
+      2,
+      224,
+      111
+    ],
+    "offset": [
+      -14,
+      70.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

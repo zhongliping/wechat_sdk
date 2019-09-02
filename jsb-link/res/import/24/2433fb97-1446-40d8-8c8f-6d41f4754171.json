@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "daqiang.plist",
+  "_spriteFrames": {
+    "4": {
+      "__uuid__": "acrm+EZKtOAZaRHYYiilmR"
+    },
+    "5": {
+      "__uuid__": "4cfZffoVVEqKkPCtnv6Dlx"
+    },
+    "6": {
+      "__uuid__": "1bOligOhNCgY5RahRSN0tO"
+    },
+    "7": {
+      "__uuid__": "e0jN3DzVhBv6gwy/hm0ogV"
+    },
+    "8": {
+      "__uuid__": "f9mAlzpAVFipGJR5n0eIgh"
+    },
+    "9": {
+      "__uuid__": "51j98eg+xCKpzkqBYeiM5b"
+    },
+    "10": {
+      "__uuid__": "bdjAJv9LxP0pu9t/IlH7sC"
+    },
+    "11": {
+      "__uuid__": "06uAw4rWNH7KEJEIze+r+3"
+    },
+    "12": {
+      "__uuid__": "fbxmnYa4tM/7OmrT25za+Q"
+    },
+    "13": {
+      "__uuid__": "6fTDjKDRhGF6mapFS91ytk"
+    },
+    "14": {
+      "__uuid__": "3cCyEjuPdM5Z6s7XXssfZs"
+    },
+    "15": {
+      "__uuid__": "8adfICWdlM2YuCMrqHPqO0"
+    },
+    "16": {
+      "__uuid__": "f4Dg2ISOhEUK16PjjLH8wO"
+    },
+    "17": {
+      "__uuid__": "4afCUx+7BNDa6j9pcAYrHM"
+    },
+    "18": {
+      "__uuid__": "faN8QXjr9F0pkeyFHSyNqo"
+    },
+    "19": {
+      "__uuid__": "977f5cLWFO56LBToKOybsb"
+    },
+    "20": {
+      "__uuid__": "98ju7z0KVES5j2rPa6sC/4"
+    },
+    "21": {
+      "__uuid__": "0396t6rzNHYa49Eub+yXxn"
+    },
+    "22": {
+      "__uuid__": "8118Qa2nJOLIXo9Kq23HRH"
+    },
+    "23": {
+      "__uuid__": "d7v7vmLOBEKLHOqFsViQ8u"
+    },
+    "全垒打 (1)": {
+      "__uuid__": "4dlRPVd4FDuIVbg2Cr7KDG"
+    },
+    "全垒打 (10)": {
+      "__uuid__": "83IdfkCEBAE57vYuWjeLAY"
+    },
+    "全垒打 (11)": {
+      "__uuid__": "740XY98fRGFJR9i00ucrDn"
+    },
+    "全垒打 (12)": {
+      "__uuid__": "5cYs5wXjJFyInbzVG3b/Q7"
+    },
+    "全垒打 (13)": {
+      "__uuid__": "4dEYnTGt9Loo85vxAMiEQ9"
+    },
+    "全垒打 (2)": {
+      "__uuid__": "da09IGRP9LKog3J1v+iezP"
+    },
+    "全垒打 (3)": {
+      "__uuid__": "2cYM4SgaFEDJenCqaKtZUF"
+    },
+    "全垒打 (4)": {
+      "__uuid__": "f86685AN9JwJYP+hSSrFaw"
+    },
+    "全垒打 (5)": {
+      "__uuid__": "7eioiye6tAX5RDsc1UkGAO"
+    },
+    "全垒打 (6)": {
+      "__uuid__": "50xQXm+eFBvaRGIp7EqmOb"
+    },
+    "全垒打 (7)": {
+      "__uuid__": "fbJRSRpaZK24G95D2hv7t/"
+    },
+    "全垒打 (8)": {
+      "__uuid__": "1dXUJDqFdEpKOHsb1IX1Bi"
+    },
+    "全垒打 (9)": {
+      "__uuid__": "a55bqe5ehMrrqRdVdfDv4+"
+    },
+    "枪-枪2": {
+      "__uuid__": "b9g6jw4xpCGIqWyK5sbiDF"
+    },
+    "枪-枪3": {
+      "__uuid__": "5fFyf6jypERopxypERBE+l"
+    },
+    "枪-枪4": {
+      "__uuid__": "1dXAa13CZKGZy//w/zpOi5"
+    },
+    "洞-洞 (13)": {
+      "__uuid__": "81rtAjcDBEN76+M38sXQFY"
+    },
+    "洞-洞 (5)": {
+      "__uuid__": "26EajrP7VMcJNT3OxxHAL0"
+    },
+    "洞-洞 (9)": {
+      "__uuid__": "ad4quHXX9JuKanEZHYfh/v"
+    }
+  }
+}

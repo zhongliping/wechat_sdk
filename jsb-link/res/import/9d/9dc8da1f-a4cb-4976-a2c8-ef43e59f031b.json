@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_lanse",
+    "texture": "59MVX5z4NFTqFLmHJfPncD",
+    "rect": [
+      2,
+      2,
+      127,
+      94
+    ],
+    "offset": [
+      -0.5,
+      16.5
+    ],
+    "originalSize": [
+      132,
+      131
+    ]
+  }
+}

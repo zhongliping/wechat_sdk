@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zdpk_green",
+    "texture": "ea4JBHh1dD4LyiuPwrnC8k",
+    "rect": [
+      171,
+      64,
+      190,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      60
+    ]
+  }
+}

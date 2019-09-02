@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gang_shang",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      202,
+      301,
+      57,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      52
+    ],
+    "rotated": 1
+  }
+}

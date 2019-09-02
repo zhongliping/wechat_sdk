@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zjh-bp",
+  "_duration": 1,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "44cfpGeadA5pFgZBzKco6c"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "61pn0owrxEyavSFtryo1ze"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "22oJ3UcT9CeJ2M7AMiLQL5"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            10
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            10
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ]
+    }
+  }
+}

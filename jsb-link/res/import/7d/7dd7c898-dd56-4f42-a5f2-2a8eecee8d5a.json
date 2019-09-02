@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raise_chipnumber",
+    "texture": "cb50Lq2AVJoor3AHUA7fdf",
+    "rect": [
+      365,
+      2,
+      138,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      48
+    ]
+  }
+}

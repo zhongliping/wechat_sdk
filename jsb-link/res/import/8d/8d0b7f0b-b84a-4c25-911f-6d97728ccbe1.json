@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sleep0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      156,
+      2,
+      129,
+      133
+    ],
+    "offset": [
+      -2,
+      -2
+    ],
+    "originalSize": [
+      133,
+      137
+    ],
+    "rotated": 1
+  }
+}

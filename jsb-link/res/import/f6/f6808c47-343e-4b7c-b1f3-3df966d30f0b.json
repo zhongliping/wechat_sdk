@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "couma_1000",
+    "texture": "9ccyLD5PxCJbx3ufecvPb+",
+    "rect": [
+      332,
+      278,
+      93,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      95
+    ]
+  }
+}

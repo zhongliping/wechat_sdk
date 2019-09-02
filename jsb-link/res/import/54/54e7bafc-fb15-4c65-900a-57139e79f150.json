@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "match_hall_tabBg",
+    "texture": "8e8Ckdj4BBoKGVOBa6ZxpC",
+    "rect": [
+      0,
+      0,
+      266,
+      484
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      266,
+      484
+    ]
+  }
+}

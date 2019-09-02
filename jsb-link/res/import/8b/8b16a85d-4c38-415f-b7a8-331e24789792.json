@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_dazi02",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      384,
+      626,
+      54,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      48
+    ],
+    "rotated": 1
+  }
+}

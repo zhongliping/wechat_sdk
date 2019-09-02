@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "global_pic_toast_bg",
+    "texture": "70M5I+J3pDW5XX2S+JIZKQ",
+    "rect": [
+      0,
+      0,
+      720,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      61
+    ]
+  }
+}

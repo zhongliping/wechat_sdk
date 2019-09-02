@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zp_logo",
+    "texture": "7dw0PcHVlNsorhZsuoHD6s",
+    "rect": [
+      0,
+      0,
+      432,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      432,
+      110
+    ]
+  }
+}

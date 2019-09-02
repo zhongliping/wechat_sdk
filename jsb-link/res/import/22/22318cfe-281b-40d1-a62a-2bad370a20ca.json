@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poshui_010",
+    "texture": "36xvdPN2tGta+ZMeOSJtT1",
+    "rect": [
+      516,
+      521,
+      181,
+      135
+    ],
+    "offset": [
+      28,
+      -26
+    ],
+    "originalSize": [
+      237,
+      187
+    ]
+  }
+}

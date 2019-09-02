@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SheZhi-btn_yingxiao",
+    "texture": "29vcDDGxJJXK63alrcYRFs",
+    "rect": [
+      118,
+      155,
+      74,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      74
+    ]
+  }
+}

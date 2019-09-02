@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_paoshou",
+    "texture": "2baljw61lJWacvpcmz8KXW",
+    "rect": [
+      0,
+      0,
+      77,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      53
+    ]
+  }
+}

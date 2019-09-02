@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yaoqing",
+    "texture": "a6l4SJcYVHR5d+EbZa/8c2",
+    "rect": [
+      0,
+      0,
+      45,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      55
+    ]
+  }
+}

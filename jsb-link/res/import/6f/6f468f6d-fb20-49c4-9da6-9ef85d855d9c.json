@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_zffs",
+    "texture": "bbobub32FKZovVjEnYeqjd",
+    "rect": [
+      0,
+      0,
+      166,
+      37
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      166,
+      38
+    ]
+  }
+}

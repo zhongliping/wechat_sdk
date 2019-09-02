@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "05比牌-vs下的闪电-vs下的闪电-6",
+    "texture": "f8P9YVN3lOm5nuUDIpTf53",
+    "rect": [
+      280,
+      864,
+      276,
+      291
+    ],
+    "offset": [
+      15,
+      -5
+    ],
+    "originalSize": [
+      306,
+      301
+    ]
+  }
+}

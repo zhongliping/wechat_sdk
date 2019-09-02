@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuopai",
+    "texture": "fdQroTlaBProdIB0mZlX/k",
+    "rect": [
+      2,
+      2,
+      1982,
+      1982
+    ],
+    "offset": [
+      -31,
+      31
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

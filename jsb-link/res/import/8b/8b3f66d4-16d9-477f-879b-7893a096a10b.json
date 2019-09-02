@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bao_xia",
+    "texture": "3c53FpwoJLLJTIDZsKC/dM",
+    "rect": [
+      1,
+      0,
+      68,
+      50
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      69,
+      51
+    ]
+  }
+}

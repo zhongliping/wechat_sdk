@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zhuangjiatouxiang.plist",
+  "_spriteFrames": {
+    "SDH_0000_Zjtx": {
+      "__uuid__": "85X9+I6JpKD6RPlDOzRCv9"
+    },
+    "SDH_0001_Zjtx": {
+      "__uuid__": "8eoHDn4alOw7fqUVwPh3tN"
+    },
+    "SDH_0002_Zjtx": {
+      "__uuid__": "936Dlo8V5Ehb3W4nXxobMo"
+    },
+    "SDH_0003_Zjtx": {
+      "__uuid__": "5ef+dPNqJM1ZcbjBkN66Nv"
+    },
+    "SDH_0004_Zjtx": {
+      "__uuid__": "7aOtbf931J2qXT8kCxWPQd"
+    },
+    "SDH_0005_Zjtx": {
+      "__uuid__": "d8mqxes5FP9bOovD+B6AjL"
+    },
+    "SDH_0006_Zjtx": {
+      "__uuid__": "7fPdxdeQdJr7lJy5U+1JE3"
+    },
+    "SDH_0007_Zjtx": {
+      "__uuid__": "c7nvWEYiFLraM7kSj481Em"
+    },
+    "SDH_0008_Zjtx": {
+      "__uuid__": "96LEmoL7RCaonZYuO8eotz"
+    }
+  }
+}

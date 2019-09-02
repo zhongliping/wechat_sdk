@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_chat",
+    "texture": "0fpUfNJZ5EOrQCuGO1mZCt",
+    "rect": [
+      0,
+      0,
+      124,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      48
+    ]
+  }
+}

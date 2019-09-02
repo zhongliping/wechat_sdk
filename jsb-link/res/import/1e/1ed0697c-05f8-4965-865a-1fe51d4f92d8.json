@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "反春8",
+    "texture": "71y7kfelZNc6oivzFGYjHJ",
+    "rect": [
+      2,
+      286,
+      189,
+      146
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      375,
+      250
+    ]
+  }
+}

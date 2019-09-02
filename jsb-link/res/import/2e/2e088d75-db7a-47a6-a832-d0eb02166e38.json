@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pay_zhifubao",
+    "texture": "7dIQnrVUhPb4p0dpzn8RGo",
+    "rect": [
+      0,
+      0,
+      114,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      140
+    ]
+  }
+}

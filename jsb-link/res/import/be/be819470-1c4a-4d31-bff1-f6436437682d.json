@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xian",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      2032,
+      2,
+      271,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      4
+    ],
+    "rotated": 1
+  }
+}

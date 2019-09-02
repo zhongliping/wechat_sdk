@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "activity.plist",
+  "_spriteFrames": {
+    "reward_1": {
+      "__uuid__": "a6CO37kXpIoYA0z6JJqwHg"
+    },
+    "reward_10": {
+      "__uuid__": "2bjnGf89NDTazpWLrIjuOu"
+    },
+    "reward_11": {
+      "__uuid__": "31Ne171+RNyZe7TXyZUi6g"
+    },
+    "reward_12": {
+      "__uuid__": "dekHEzejdLqaVz4E8DdHnA"
+    },
+    "reward_13": {
+      "__uuid__": "c9I05XXP5H1IlOVv/ybfVL"
+    },
+    "reward_14": {
+      "__uuid__": "dcZIEJowdDY49f3GCUooFr"
+    },
+    "reward_15": {
+      "__uuid__": "646SW6kQRFuprdXU+tmVf2"
+    },
+    "reward_2": {
+      "__uuid__": "6f35VF9jFAA5kS5MtRCukb"
+    },
+    "reward_3": {
+      "__uuid__": "09vHLgle1LjpyWkksGfRye"
+    },
+    "reward_4": {
+      "__uuid__": "5fyt7mVRpMa5bAMNI4h4r1"
+    },
+    "reward_5": {
+      "__uuid__": "1egm9Kc6pLBIFoN445e0mK"
+    },
+    "reward_6": {
+      "__uuid__": "95lfTfskBFKbVaSTb6yBIG"
+    },
+    "reward_7": {
+      "__uuid__": "6aIR6Yo1RMToUY/5mlYnMD"
+    },
+    "reward_8": {
+      "__uuid__": "27ukSJ9GpLt45AxlvIdEZp"
+    },
+    "reward_9": {
+      "__uuid__": "daXq7icUdBEryKSWFzpVD3"
+    }
+  }
+}

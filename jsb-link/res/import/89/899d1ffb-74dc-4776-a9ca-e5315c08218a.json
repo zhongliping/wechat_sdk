@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_btnzi",
+    "texture": "c3IEYU8hRJ1rcT7sfNDhw0",
+    "rect": [
+      2,
+      2,
+      233,
+      153
+    ],
+    "offset": [
+      0,
+      19.5
+    ],
+    "originalSize": [
+      237,
+      196
+    ]
+  }
+}

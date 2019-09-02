@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_90fenhongse",
+    "texture": "1a/hc1CQpDi7RQke/9JsZx",
+    "rect": [
+      5,
+      4,
+      125,
+      139
+    ],
+    "offset": [
+      -3,
+      13.5
+    ],
+    "originalSize": [
+      141,
+      174
+    ]
+  }
+}

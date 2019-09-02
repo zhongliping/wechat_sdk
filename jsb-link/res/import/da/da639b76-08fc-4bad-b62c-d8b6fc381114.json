@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PDK",
+    "texture": "b2GXQ8ZqlNyoEvTYIoNx22",
+    "rect": [
+      0,
+      0,
+      313,
+      404
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

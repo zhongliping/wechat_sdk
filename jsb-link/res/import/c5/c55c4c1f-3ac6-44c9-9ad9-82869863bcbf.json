@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lihai5",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      240,
+      380,
+      82,
+      132
+    ],
+    "offset": [
+      0,
+      10
+    ],
+    "originalSize": [
+      90,
+      152
+    ],
+    "rotated": 1
+  }
+}

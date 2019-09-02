@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zjhui.plist",
+  "_spriteFrames": {
+    "01豹子-豹子 (1)": {
+      "__uuid__": "b3VpJ04J9KoZ7FTZzQ8Aso"
+    },
+    "01豹子-豹子 (2)": {
+      "__uuid__": "97V+xkQyJApIzhUkEfxq54"
+    },
+    "01豹子-豹子 (3)": {
+      "__uuid__": "c5b3I7nfdBfr98XrqIUNHe"
+    },
+    "01豹子-豹子 (4)": {
+      "__uuid__": "3bgwQp07JKKKSUSiaulE8r"
+    },
+    "01豹子-豹子 (5)": {
+      "__uuid__": "31jWWj7oJIIboRV73c2aH5"
+    },
+    "01豹子-豹子 (6)": {
+      "__uuid__": "26wysC/WlA9YwlwTpxtqYO"
+    },
+    "01豹子-豹子 (7)": {
+      "__uuid__": "d4w/+UF2ZOqZH8u3LU/wQX"
+    },
+    "01豹子-豹子 (8)": {
+      "__uuid__": "e3c3Eg7hpKaIlhLwPy7mF5"
+    },
+    "02同花顺-同花顺 (6)": {
+      "__uuid__": "b5AbUJPY9Mp6u3krCZEDjY"
+    },
+    "02同花顺-同花顺 (7)": {
+      "__uuid__": "dfHxOv3KFOgb6E0Br5KyF5"
+    },
+    "02同花顺-同花顺 (8)": {
+      "__uuid__": "74DvE09mFF1Lr/fnBvf1ql"
+    },
+    "03金花-金花 (6)": {
+      "__uuid__": "44dacLCxxLbqlCIsOhLVJn"
+    },
+    "03金花-金花 (7)": {
+      "__uuid__": "c9bto61QlFz5GB9gwFxSsq"
+    },
+    "03金花-金花 (8)": {
+      "__uuid__": "56/VMGoKpHSrp/jov0QWFX"
+    },
+    "03金花-金花 (9)": {
+      "__uuid__": "57lcIUnnFN87A2xRryHF11"
+    },
+    "04顺子-顺子 (6)": {
+      "__uuid__": "81lSDmg3RGWY6Xw6cxPQKG"
+    },
+    "04顺子-顺子 (7)": {
+      "__uuid__": "52l9CFzYxN9J+68HQoebwb"
+    },
+    "04顺子-顺子 (8)": {
+      "__uuid__": "80RpAZP+ZDIp4bFsKtq8yz"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-1": {
+      "__uuid__": "ba5Fby37hBoqyA1sjSHXxo"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-2": {
+      "__uuid__": "004nInFkxFYopNe1lyKrWl"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-3": {
+      "__uuid__": "eduWWrgulOtYEeeYekSAbD"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-4": {
+      "__uuid__": "7ebn1Ar4NKLZalQyEp0Mri"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-5": {
+      "__uuid__": "0cwibKq6RJRqZ6daXTRdna"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-6": {
+      "__uuid__": "42GaFrvRxMh5tmz9RhL5Xs"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-7": {
+      "__uuid__": "ce1kH7A/pDa4qeG8NJdFaK"
+    },
+    "05比牌-vs下的闪电-vs下的闪电-8": {
+      "__uuid__": "6fLUTVwGhLppIVOAi/BFpk"
+    },
+    "05比牌-头像闪电-头像闪电-1": {
+      "__uuid__": "64wEAtdjJPdrsxcN7LS8e+"
+    },
+    "05比牌-头像闪电-头像闪电-2": {
+      "__uuid__": "c6xEATnshB9ahMSqLcinfu"
+    },
+    "05比牌-头像闪电-头像闪电-3": {
+      "__uuid__": "33Ab0V4UpITqgdPu4oiRfI"
+    },
+    "05比牌-头像闪电-头像闪电-4": {
+      "__uuid__": "16TCyvxDdI7YupZLNY+fBq"
+    },
+    "05比牌-头像闪电-头像闪电-5": {
+      "__uuid__": "7b2iSaMBJIP7MSzAKyizvZ"
+    },
+    "05比牌-头像闪电-头像闪电-6": {
+      "__uuid__": "ecxx6s6htKCbyNkg3UmAMh"
+    },
+    "05比牌-头像闪电-头像闪电-7": {
+      "__uuid__": "46ZUKI3YRCg5C6nqUwswpM"
+    },
+    "05比牌-头像闪电-头像闪电-8": {
+      "__uuid__": "42GlB/4WRIn5ZZhTc+u6df"
+    },
+    "05比牌-赢-赢-1": {
+      "__uuid__": "deWHs5pD9ES5QnJVBILvKS"
+    },
+    "05比牌-赢-赢-10": {
+      "__uuid__": "dbjdiRAiFJA4AujukfrJmC"
+    },
+    "05比牌-赢-赢-11": {
+      "__uuid__": "8dbRrYHIBB85qFvzbprTLR"
+    },
+    "05比牌-赢-赢-12": {
+      "__uuid__": "69vFnUaVFMH4Qq8z53GW7j"
+    },
+    "05比牌-赢-赢-2": {
+      "__uuid__": "29uPeUJFZPnraCAZUpyPZX"
+    },
+    "05比牌-赢-赢-3": {
+      "__uuid__": "6bj3nCjdhNj7VzoonzsvU1"
+    },
+    "05比牌-赢-赢-4": {
+      "__uuid__": "37T7a21HRHcY3merCfpRBR"
+    },
+    "05比牌-赢-赢-5": {
+      "__uuid__": "ffHb/s/UxNaJcVKrLpMopg"
+    },
+    "05比牌-赢-赢-6": {
+      "__uuid__": "90o2ogk3lEH5G8sZIqoe3s"
+    },
+    "05比牌-赢-赢-7": {
+      "__uuid__": "da9Np3GeZA/pds6E2iH6K8"
+    },
+    "05比牌-赢-赢-8": {
+      "__uuid__": "5c3G2KQ9hDSbMTLj06fL7a"
+    },
+    "05比牌-赢-赢-9": {
+      "__uuid__": "f2J+fX/+tBhocOMqcMqfol"
+    },
+    "05比牌-长闪电-长闪电-1": {
+      "__uuid__": "37RfXxDjtCpbwN8CjexC+l"
+    },
+    "05比牌-长闪电-长闪电-2": {
+      "__uuid__": "feJ+Y0pyJMYbAu0PPD+N15"
+    },
+    "05比牌-长闪电-长闪电-3": {
+      "__uuid__": "68gVIHSk5H/KONoqonJZlL"
+    },
+    "05比牌-长闪电-长闪电-4": {
+      "__uuid__": "cd69zJo0pOPZgxMBgKG+Iq"
+    },
+    "05比牌-长闪电-长闪电-5": {
+      "__uuid__": "c44BgK+6pGLrYkt+VW3vUG"
+    },
+    "05比牌-长闪电-长闪电-6": {
+      "__uuid__": "712qgytvtNcaGJmDQDKbT7"
+    },
+    "bipai_01": {
+      "__uuid__": "f8naEl+DtLLp7w2IhibJXp"
+    },
+    "bipai_02": {
+      "__uuid__": "f1hSeWuWRBxa2gWUBtFOqe"
+    },
+    "bipai_03": {
+      "__uuid__": "bcZ/jam0BB1qB8zdgpkb24"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "d21_texture.plist",
+  "_spriteFrames": {
+    "21dian_ts": {
+      "__uuid__": "62rSWRMmpBBp/51yqaJjgy"
+    },
+    "baoxian": {
+      "__uuid__": "e9D3G5N0hCO6+lRnxuBrEK"
+    },
+    "baoxian_di": {
+      "__uuid__": "acOPyk0mZLopsAVFJYEdob"
+    },
+    "bt_fenpai": {
+      "__uuid__": "27hH0JXRtIS7HaBcW64Dfx"
+    },
+    "bt_fenpai00": {
+      "__uuid__": "23Bmh9bBpN67ArnT93B+XW"
+    },
+    "bt_fenpai01": {
+      "__uuid__": "30O33J7e9OZ5uS9l2DYBKu"
+    },
+    "bt_jiabei": {
+      "__uuid__": "edYZDZ3tpG+Zg2x3BV3ueB"
+    },
+    "bt_jiabei00": {
+      "__uuid__": "9csnY3OdZEnbGjD9KWKQ25"
+    },
+    "bt_jiabei01": {
+      "__uuid__": "16u7gDhWtM2bS1Pqfgcyan"
+    },
+    "bt_shifou01": {
+      "__uuid__": "c8uUWrPXlOLpnZ495X7/+6"
+    },
+    "bt_shifou02": {
+      "__uuid__": "0ej17FqIpD6pIoDhwK3xx9"
+    },
+    "bt_tingpai": {
+      "__uuid__": "3367iqj8FJA7ZqEeQNbdi7"
+    },
+    "bt_tingpai00": {
+      "__uuid__": "ff24i1qDBA7pvvVXoolZp8"
+    },
+    "bt_tingpai01": {
+      "__uuid__": "59KO7hWJpLTINHy7IgVtLJ"
+    },
+    "bt_touxiang": {
+      "__uuid__": "9cCIT+G4NNaohyY6CSgKi9"
+    },
+    "bt_touxiang00": {
+      "__uuid__": "47WbiuhyJKMaAZY3VViHzC"
+    },
+    "bt_touxiang01": {
+      "__uuid__": "51DUaRNItKcY/2xnaiHQSy"
+    },
+    "bt_wancheng": {
+      "__uuid__": "51Lf8qyJhKc5wLEJKDuUXE"
+    },
+    "bt_yaopai": {
+      "__uuid__": "01KpgLA9JFMqBJMkp/jB+V"
+    },
+    "bt_yaopai00": {
+      "__uuid__": "62MqWXhotNVpjdKVUrvU7J"
+    },
+    "bt_yaopai01": {
+      "__uuid__": "35ZtPa6u9BDoHGCt5lFrGZ"
+    },
+    "dianshu_baopai": {
+      "__uuid__": "22vmJPRkhPeIrY3jWOreHk"
+    },
+    "dianshu_blackjack": {
+      "__uuid__": "adTLaXRXdNUo2c6IIOWuYz"
+    },
+    "dianshu_jiadian": {
+      "__uuid__": "15FsqbrpFDe78MRUiLR2Jx"
+    },
+    "dianshu_moren": {
+      "__uuid__": "42WDBKaCxMB4Pyv97DByY6"
+    },
+    "dianshu_ping": {
+      "__uuid__": "18B7gelsxGM4Ay4LK2DvAa"
+    },
+    "dianshu_win": {
+      "__uuid__": "faDuKVV/hIhKv1EPYIk8QD"
+    },
+    "sp_jiabei": {
+      "__uuid__": "f9Sf9kqfVJ55HdaU8jmVwy"
+    },
+    "tou": {
+      "__uuid__": "49YFFRgfJEaq8GD60M8CJf"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NIUniu_wuxiao-NIUniu_wuxiao7",
+    "texture": "6avNi1/t1K+YQm0Xqul9Vq",
+    "rect": [
+      716,
+      97,
+      220,
+      93
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      236,
+      99
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turnCards",
+    "texture": "53qerXow5Flq+GBZsiYzct",
+    "rect": [
+      2,
+      2,
+      506,
+      650
+    ],
+    "offset": [
+      -1,
+      185
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

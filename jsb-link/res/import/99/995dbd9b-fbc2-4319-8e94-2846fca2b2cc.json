@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "replayBtn.plist",
+  "_spriteFrames": {
+    "replayExit": {
+      "__uuid__": "b4FVpVm51LDbrZ3iIHrTyX"
+    },
+    "replayFast": {
+      "__uuid__": "1cAvkr4QlGs60t3VsNCvH3"
+    },
+    "replayPause": {
+      "__uuid__": "e7H5ELX55BVrzcd5GyqH7I"
+    },
+    "replayPlay": {
+      "__uuid__": "fdI+xSZC1GgJ+3Vta5dXCC"
+    },
+    "replayRewind": {
+      "__uuid__": "a5U9oRPC1NYIuf8TAF7xbk"
+    }
+  }
+}

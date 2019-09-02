@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3DH",
+    "texture": "428yuzMttHHpnyta6qHobb",
+    "rect": [
+      0,
+      14,
+      310,
+      377
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

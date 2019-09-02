@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "turnCardAni4",
+  "_duration": 0.23333333333333334,
+  "sample": 30,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 0
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 0
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "86S2xKQ0xPiomWXRQjL4uC"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "f0SCwRYVpAwKQLClwJhZ9p"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "d2d44yPrhABp9EDmqz9CG9"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "13iX8lns1Pu7MSlPsYPmDg"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "21bkqhChBCeJa31IuD8PA/"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "1flIbmSz9HNJWwtqiOCx2v"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shuangshun.plist",
+  "_spriteFrames": {
+    "双顺1": {
+      "__uuid__": "ffKu29kAdGIJpARDcZczYa"
+    },
+    "双顺10": {
+      "__uuid__": "39lWZISTxOHIPLw3ut/4SH"
+    },
+    "双顺11": {
+      "__uuid__": "4eT60REXNErK2odITHM5Fd"
+    },
+    "双顺12": {
+      "__uuid__": "e7JXErNP9JyIRZjYmeQrUc"
+    },
+    "双顺13": {
+      "__uuid__": "6bts+6x+tG9YpiSvQq7Urc"
+    },
+    "双顺14": {
+      "__uuid__": "1d/WyJGfhNT5PXK6EvB52u"
+    },
+    "双顺15": {
+      "__uuid__": "3e5HotsLhGQ5NbnneGueDc"
+    },
+    "双顺16": {
+      "__uuid__": "ccOX0pFzBOB6RqUuyeqdUv"
+    },
+    "双顺17": {
+      "__uuid__": "07VbwOS3tBarQs0NHlF8to"
+    },
+    "双顺18": {
+      "__uuid__": "63qldqIF5ICZl4TpVkKgRf"
+    },
+    "双顺2": {
+      "__uuid__": "39PAp00StPiofQlL+RhWDV"
+    },
+    "双顺3": {
+      "__uuid__": "12lYty43xFsrjrAlBRi8e5"
+    },
+    "双顺4": {
+      "__uuid__": "7a8e8C9O5B3Kk7uxLpPSH/"
+    },
+    "双顺5": {
+      "__uuid__": "60rm4DPnVIZ4e2kmpn0sEY"
+    },
+    "双顺6": {
+      "__uuid__": "27cycB8sZCvZFOa9xYM+ST"
+    },
+    "双顺7": {
+      "__uuid__": "fciM0NJD9LSYoJnbttXX8x"
+    },
+    "双顺8": {
+      "__uuid__": "42t7XnIlNAtbPUU2CLP22b"
+    },
+    "双顺9": {
+      "__uuid__": "29ayT6DgBDs436O8oNoqV8"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "win.plist",
+  "_spriteFrames": {
+    "赢了-1": {
+      "__uuid__": "e02m2AlTJEpK/JcWM/Aj7J"
+    },
+    "赢了-10": {
+      "__uuid__": "be2HgJnr1HEbNe0IoOLCR7"
+    },
+    "赢了-11": {
+      "__uuid__": "800ulhjFdNPZhA4vx1XT9X"
+    },
+    "赢了-12": {
+      "__uuid__": "52G8aI0JBHMIZS3Ku8sFLu"
+    },
+    "赢了-13": {
+      "__uuid__": "7d5rT+kC5L2q9vZt2xS0ij"
+    },
+    "赢了-14": {
+      "__uuid__": "54apZA5nhLgL2dBJZ0fsN/"
+    },
+    "赢了-15": {
+      "__uuid__": "92oOn4wwxMUqQOVMuCxe2Y"
+    },
+    "赢了-16": {
+      "__uuid__": "7b8OXBAMZKEIm9OoPEtYeY"
+    },
+    "赢了-17": {
+      "__uuid__": "79YuHUYOVFrIj7OAqU9Orf"
+    },
+    "赢了-18": {
+      "__uuid__": "33DyK7v0NAy7yLH25NIvU/"
+    },
+    "赢了-19": {
+      "__uuid__": "53BWJaEIJDF6LfjktLWA9y"
+    },
+    "赢了-2": {
+      "__uuid__": "c4MmFGIWNAV7oloK3eVs5i"
+    },
+    "赢了-20": {
+      "__uuid__": "75ikX3K/hNpoByjjR0yoVN"
+    },
+    "赢了-21": {
+      "__uuid__": "b0uscYf2dPBpjWfwfwaXMH"
+    },
+    "赢了-22": {
+      "__uuid__": "02yrYrORNCTLi7/UVQnye6"
+    },
+    "赢了-23": {
+      "__uuid__": "8cZrUizdtBNonkSbQsCp9C"
+    },
+    "赢了-24": {
+      "__uuid__": "baAVejOFRHa7rq8Ma4jG2t"
+    },
+    "赢了-25": {
+      "__uuid__": "67FV8KOz1H8bFy0PARLWag"
+    },
+    "赢了-3": {
+      "__uuid__": "40BWFYFSBDVrBlrkN/9Sb3"
+    },
+    "赢了-4": {
+      "__uuid__": "2boPadoHBM15PgRpAA/wOw"
+    },
+    "赢了-5": {
+      "__uuid__": "73Co0dEOlGCpWhujYC5B4U"
+    },
+    "赢了-6": {
+      "__uuid__": "6d10zBxJpLfqxA9N1f3P+w"
+    },
+    "赢了-7": {
+      "__uuid__": "63NeYOUIRHTa38Dd/cB17/"
+    },
+    "赢了-8": {
+      "__uuid__": "25tjAtImBHAZ95k5LXRuep"
+    },
+    "赢了-9": {
+      "__uuid__": "d4tDtUVj1OqYn1bFTEuUjH"
+    }
+  }
+}

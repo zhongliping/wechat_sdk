@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "replayFrame",
+    "texture": "90RwP1ZBxAUb6TFHJ5YYea",
+    "rect": [
+      2,
+      38,
+      122,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      162
+    ],
+    "rotated": 1,
+    "capInsets": [
+      30,
+      30,
+      30,
+      30
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_table",
+    "texture": "6cjdVQKehMU6aryLEFqAkd",
+    "rect": [
+      0,
+      0,
+      458,
+      206
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      458,
+      206
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jiaocheng",
+    "texture": "fbOErO0RNFLJQrI+WZOgP2",
+    "rect": [
+      0,
+      7,
+      115,
+      45
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

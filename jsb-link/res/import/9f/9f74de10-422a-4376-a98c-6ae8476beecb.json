@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanze",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      2,
+      106,
+      676,
+      448
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      676,
+      448
+    ]
+  }
+}

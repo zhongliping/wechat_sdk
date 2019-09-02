@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shunzi",
+    "texture": "b8XUBQaRtAXKzEal853Axw",
+    "rect": [
+      2,
+      3,
+      998,
+      1201
+    ],
+    "offset": [
+      -11,
+      420.5
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

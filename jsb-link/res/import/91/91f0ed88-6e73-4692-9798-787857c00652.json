@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_dzpk_red",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      947,
+      420,
+      190,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      60
+    ],
+    "rotated": 1
+  }
+}

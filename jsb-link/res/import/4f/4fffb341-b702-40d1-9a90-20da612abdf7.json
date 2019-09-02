@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "02人五-SDB_0000_12_0002_renwu",
+    "texture": "7ambZt/b1OO5RDT8/beEr+",
+    "rect": [
+      458,
+      787,
+      121,
+      87
+    ],
+    "offset": [
+      -1,
+      2
+    ],
+    "originalSize": [
+      175,
+      105
+    ],
+    "rotated": 1
+  }
+}

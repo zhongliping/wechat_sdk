@@ -1,0 +1,213 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paguo-xg",
+  "_duration": 1.7,
+  "sample": 10,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cbcRP2zvlAm6IiHQBtYxcm"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "83g+VR7OpCnKsUF4Gx2ICx"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "96LRg0e0BK8IZHHn38p1Ak"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "40Lptt9phBAZWFV064iuMN"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "3cOVRFInVMXLAs8bIR8rlw"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "08Rq1whbZHS5OV8j+agYe1"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "5bbKa0f7RMVpaiTjprPT+l"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "52VRhhnb5KY4MNjUA3ZVEa"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "690fho3cpOpa8eFzHgD57c"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "33qXGLk91Oj6VCM4vSys7M"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d8E3QDs61K5796cC/S4EIm"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "20ncnSBchAhI4zPBnPVa19"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "4ayDrAaJZCbZvOo5c52jYc"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.6,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.7,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1.1,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 1.2,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 2
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.5,
+          "value": 255
+        },
+        {
+          "frame": 1.7,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

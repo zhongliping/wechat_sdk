@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_room",
+    "texture": "c38apyMEFHtYGkQQWxcrzg",
+    "rect": [
+      2,
+      0,
+      30,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      27
+    ]
+  }
+}

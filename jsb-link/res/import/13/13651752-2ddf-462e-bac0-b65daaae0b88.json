@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_buqiang",
+    "texture": "3aIRwMiVNKIo7ntbyXHv06",
+    "rect": [
+      0,
+      0,
+      83,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      40
+    ]
+  }
+}

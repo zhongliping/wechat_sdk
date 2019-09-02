@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "task.plist",
+  "_spriteFrames": {
+    "box01": {
+      "__uuid__": "0elVv9UadEsbISxTk0DdBz"
+    },
+    "box02": {
+      "__uuid__": "7444l1fAxEvYBZ+yYt4lMd"
+    },
+    "dutiao": {
+      "__uuid__": "ebYQ9CdMhIerrnygSMS0aG"
+    },
+    "dutiao_di": {
+      "__uuid__": "ffTCLG7qNCCJyg9+1I2ZRr"
+    },
+    "renwu": {
+      "__uuid__": "32FvsoDf5D3LQjBP6NDWux"
+    }
+  }
+}

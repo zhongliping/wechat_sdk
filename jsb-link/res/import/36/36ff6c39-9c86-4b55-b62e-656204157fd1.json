@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuang",
+    "texture": "e3uDz4BDFMg7I0OGkyEmwi",
+    "rect": [
+      0,
+      0,
+      310,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      482
+    ]
+  }
+}

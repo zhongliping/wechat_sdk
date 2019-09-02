@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "intreactive_button",
+    "texture": "44IudelvNFxaBNllASuj3D",
+    "rect": [
+      2,
+      2,
+      122,
+      196
+    ],
+    "offset": [
+      -1,
+      28
+    ],
+    "originalSize": [
+      128,
+      256
+    ]
+  }
+}

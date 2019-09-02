@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameover_lose2",
+    "texture": "2cNAD+EW5Mbq93v15p/qDG",
+    "rect": [
+      0,
+      0,
+      1033,
+      60
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1034,
+      60
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bao_zuo",
+    "texture": "a8I9dn2DFLvKlObM2dT7lx",
+    "rect": [
+      0,
+      0,
+      64,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      60
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SheZhi-popup_shezhi",
+    "texture": "29vcDDGxJJXK63alrcYRFs",
+    "rect": [
+      2,
+      474,
+      114,
+      36
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      166,
+      38
+    ]
+  }
+}

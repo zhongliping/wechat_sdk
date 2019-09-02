@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "julebu_tex",
+  "_atlasJson": "{\"imagePath\":\"julebu_tex.png\",\"width\":32,\"SubTexture\":[{\"width\":17,\"y\":1,\"height\":34,\"name\":\"图层_4\",\"x\":1}],\"height\":64,\"name\":\"julebu\"}",
+  "texture": {
+    "__uuid__": "cbYu9a6hNDWrZQI/o0byvw"
+  }
+}

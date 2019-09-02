@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_failure",
+    "texture": "55l6v73n1E2o5gSierZL+S",
+    "rect": [
+      0,
+      0,
+      71,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      70
+    ]
+  }
+}

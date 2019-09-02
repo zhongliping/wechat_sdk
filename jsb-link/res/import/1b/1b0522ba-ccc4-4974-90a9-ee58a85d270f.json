@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "3g.plist",
+  "_spriteFrames": {
+    "01至尊九-Sg_0000_zzj": {
+      "__uuid__": "f8zq5fKxFNGoMB2ROyjojI"
+    },
+    "01至尊九-Sg_0001_zzj": {
+      "__uuid__": "feglZA8jVHWJvQXaLVbv1c"
+    },
+    "01至尊九-Sg_0002_zzj": {
+      "__uuid__": "abVgLaU+RIhZu9Q+A68IYg"
+    },
+    "01至尊九-Sg_0003_zzj": {
+      "__uuid__": "f8ybX136pEWb0wX3EhHePK"
+    },
+    "01至尊九-Sg_0004_zzj": {
+      "__uuid__": "6eNV2NNZtAuL+a/aalch7A"
+    },
+    "01至尊九-Sg_0005_zzj": {
+      "__uuid__": "6bUn8Y/JRO4pBvgJgVn81y"
+    },
+    "01至尊九-Sg_0006_zzj": {
+      "__uuid__": "e7v7V5BVdDNaHV2hcRtKjz"
+    },
+    "01至尊九-Sg_0007_zzj": {
+      "__uuid__": "98ho02TaFBxZvI76D1Ds5j"
+    },
+    "01至尊九-Sg_0008_zzj": {
+      "__uuid__": "6ac9VddUdBVKI+Tv2OysCt"
+    },
+    "01至尊九-Sg_0009_zzj": {
+      "__uuid__": "72EyI5uOtMEYuEP/SI27I1"
+    },
+    "01至尊九-Sg_0010_zzj": {
+      "__uuid__": "9233t1cFBFrq6Gvaj1a9kE"
+    },
+    "02三条-SG_0000_st": {
+      "__uuid__": "6b13VEGs5D0qXKbTyfP9eR"
+    },
+    "02三条-SG_0001_st": {
+      "__uuid__": "64cm0Ocj9CFIGT7ym5NK2p"
+    },
+    "02三条-SG_0002_st": {
+      "__uuid__": "1crcRmYypMo4nFz56mGF+8"
+    },
+    "02三条-SG_0003_st": {
+      "__uuid__": "3eB3JOddZDiKj/Oifym7Pv"
+    },
+    "02三条-SG_0004_st": {
+      "__uuid__": "83O3bT8s5PZosZglZTqr0n"
+    },
+    "02三条-SG_0005_st": {
+      "__uuid__": "c8qLocU7hMipMTXV4xcVBF"
+    },
+    "02三条-SG_0006_st": {
+      "__uuid__": "5aGih55F1JUbvSfYOtOAJb"
+    },
+    "02三条-SG_0007_st": {
+      "__uuid__": "ebRd6HtftNRK+eKZ+/lfYE"
+    },
+    "02三条-SG_0008_st": {
+      "__uuid__": "9cSXEfnlFBi62NAXtZQL2j"
+    },
+    "02三条-SG_0009_st": {
+      "__uuid__": "5aJTmspCBFab4+9FgpGlkt"
+    },
+    "03三公-Sg_0000_sg": {
+      "__uuid__": "a5IIpLd8BMu6fozLJKKyUe"
+    },
+    "03三公-Sg_0001_sg": {
+      "__uuid__": "55fAYsa3xJ37jQavmQVKfB"
+    },
+    "03三公-Sg_0002_sg": {
+      "__uuid__": "269es6Wr1D4rstg6qfFukG"
+    },
+    "03三公-Sg_0003_sg": {
+      "__uuid__": "7eEZNQPB1Fho97o8PDbUh3"
+    },
+    "03三公-Sg_0004_sg": {
+      "__uuid__": "f3QLTNNj9Lzp/ppFnLLNV8"
+    },
+    "03三公-Sg_0005_sg": {
+      "__uuid__": "1ePq2RlFhMZqBVn3mvakHX"
+    },
+    "03三公-Sg_0006_sg": {
+      "__uuid__": "c5MEjGxmRDNb86qMS3R+v8"
+    },
+    "03三公-Sg_0007_sg": {
+      "__uuid__": "4bdql2dk5PgpeWrHxNdbAp"
+    },
+    "03三公-Sg_0008_sg": {
+      "__uuid__": "8aipeLieVPZZ8+/F50BcCC"
+    },
+    "03三公-Sg_0009_sg": {
+      "__uuid__": "e3rHlZ34VCurUSn1i+SW5E"
+    }
+  }
+}

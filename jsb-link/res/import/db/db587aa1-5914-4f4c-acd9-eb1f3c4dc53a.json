@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_dh",
+    "texture": "0aGFl30rlJcKw6JKpfliiL",
+    "rect": [
+      0,
+      0,
+      127,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      36
+    ]
+  }
+}

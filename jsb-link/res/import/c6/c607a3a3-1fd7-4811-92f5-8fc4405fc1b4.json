@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "飞机9",
+    "texture": "0eAJ0arQ1BBZA4zBf1m1Yv",
+    "rect": [
+      685,
+      2,
+      621,
+      195
+    ],
+    "offset": [
+      -30,
+      6
+    ],
+    "originalSize": [
+      681,
+      207
+    ],
+    "rotated": 1
+  }
+}

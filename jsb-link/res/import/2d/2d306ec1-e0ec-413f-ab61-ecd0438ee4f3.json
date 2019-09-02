@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fiy-miaozhun",
+  "_duration": 0.45,
+  "sample": 20,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e8lP9glOJEg6UlAK9bFahw"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "0am0o9R+JLHqeC2V03zGxQ"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e1+QAiCgpC466v5kqGj8et"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "bdX65CRptG14qI8IdWI61F"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "28x+mxbD9GpIxlwky2tcJw"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e1QEhkz+xCjrSJ54Bi8fS4"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "33KsQvJdJG+IUVK9cUxIwI"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "c4NGQYONBB+LXp9WuWZ1mh"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "87kQ5LEdNLP7vuq7Orr4eO"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            1,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.35,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        }
+      ]
+    }
+  }
+}

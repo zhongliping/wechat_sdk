@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chongzhao",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      342,
+      473,
+      191,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      109
+    ]
+  }
+}

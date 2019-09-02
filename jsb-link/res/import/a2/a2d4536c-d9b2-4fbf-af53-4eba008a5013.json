@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_right01",
+    "texture": "d1FlxH5IlE175INUgYFQrx",
+    "rect": [
+      0,
+      2,
+      368,
+      45
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      368,
+      47
+    ]
+  }
+}

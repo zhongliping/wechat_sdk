@@ -1,0 +1,29 @@
+{
+    "ndk_module_path" :[
+        "D:/Tools/creator1.9.3/CocosCreator/resources/cocos2d-x",
+        "D:/Tools/creator1.9.3/CocosCreator/resources/cocos2d-x/cocos",
+        "D:/Tools/creator1.9.3/CocosCreator/resources/cocos2d-x/external"
+    ],
+    "copy_resources": [
+        {
+            "from": "../../../src",
+            "to": "src"
+        },
+        {
+            "from": "../../../res",
+            "to": "res"
+        },
+        {
+            "from": "../../../main.js",
+            "to": ""
+        },
+        {
+            "from": "D:/Tools/creator1.9.3/CocosCreator/resources/cocos2d-x/cocos/scripting/js-bindings/script",
+            "to": "script"
+        },
+        {
+            "from": "../../../project.json",
+            "to": ""
+        }
+    ]
+}

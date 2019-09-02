@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gang_zuo",
+    "texture": "60PWEJqR1PNoSEij1gW8Kp",
+    "rect": [
+      0,
+      0,
+      63,
+      58
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      63,
+      59
+    ]
+  }
+}

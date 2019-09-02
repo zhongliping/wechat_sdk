@@ -1,0 +1,132 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mj_hands.plist",
+  "_spriteFrames": {
+    "hand_0_1": {
+      "__uuid__": "25Qn1djgxJRYs6k87mdACa"
+    },
+    "hand_0_2": {
+      "__uuid__": "70sg0ZZ8ROcJi/Dg0Zs7b5"
+    },
+    "hand_0_3": {
+      "__uuid__": "c8Rqhrv+VHm4oJQOULGADO"
+    },
+    "hand_0_4": {
+      "__uuid__": "af3s7wk5dDyJb0fJmJaDkY"
+    },
+    "hand_0_5": {
+      "__uuid__": "12JdLy/LRKDqGkypTiiFlt"
+    },
+    "hand_0_6": {
+      "__uuid__": "54iVlFN7pHl6kvArbHNCa5"
+    },
+    "hand_0_7": {
+      "__uuid__": "a3zZLt4hZM4pBB1yM6p9nw"
+    },
+    "hand_0_8": {
+      "__uuid__": "80o4qw1N5Ba5C3pEaf+xOi"
+    },
+    "hand_0_9": {
+      "__uuid__": "ffQ6Q62D9Pca4mYdjChY9c"
+    },
+    "hand_1_1": {
+      "__uuid__": "17nZeEhEhPCYSnG3A9O7Od"
+    },
+    "hand_1_2": {
+      "__uuid__": "64kBhLBFJPnpDfc0vMTLqW"
+    },
+    "hand_1_3": {
+      "__uuid__": "3aL8CU/g9Np7qOSha0+zGX"
+    },
+    "hand_1_4": {
+      "__uuid__": "dflBGoKMJDi5ovBwKyxL9Y"
+    },
+    "hand_1_5": {
+      "__uuid__": "adgMY20H9IL7NA5egPD0Je"
+    },
+    "hand_1_6": {
+      "__uuid__": "1eR4HmQylHUrvFSCLlm78d"
+    },
+    "hand_1_7": {
+      "__uuid__": "5fuFiWlCZHMLq3fBNJcJ9r"
+    },
+    "hand_1_8": {
+      "__uuid__": "0e5dIbfL5OXrO7Ios2e6nb"
+    },
+    "hand_1_9": {
+      "__uuid__": "b2mQA3Jp1HCq8V2ELsAmsf"
+    },
+    "hand_2_1": {
+      "__uuid__": "06oUDahwJPjJGBTW576xZx"
+    },
+    "hand_2_2": {
+      "__uuid__": "df2sYKKY1IZIm9biU6XlJ2"
+    },
+    "hand_2_3": {
+      "__uuid__": "27J2qmuPNHlpsD/0ortx+I"
+    },
+    "hand_2_4": {
+      "__uuid__": "11l/NUCq9ITYAoBWjnkgOd"
+    },
+    "hand_2_5": {
+      "__uuid__": "38kwXti6NPLZUHvoyB3AYQ"
+    },
+    "hand_2_6": {
+      "__uuid__": "c2QJs3qTlHXLmedtu+gc/4"
+    },
+    "hand_2_7": {
+      "__uuid__": "e31p/fKHFPsJYAAFuQVbYO"
+    },
+    "hand_2_8": {
+      "__uuid__": "b1A8uUH5lN75NDMVo3BRxa"
+    },
+    "hand_2_9": {
+      "__uuid__": "19oLDjWvtFD6Ean2udTZBh"
+    },
+    "hand_3_1": {
+      "__uuid__": "cff+AM8LFBTbntukdTEa5n"
+    },
+    "hand_3_2": {
+      "__uuid__": "2ehzm+pFVLFaJy+1q6I/sH"
+    },
+    "hand_3_3": {
+      "__uuid__": "83IuBvka1LnoPHFE2X3puY"
+    },
+    "hand_3_4": {
+      "__uuid__": "5cQz6CwoVC3qxF6dgFXoOh"
+    },
+    "hand_3_5": {
+      "__uuid__": "7c8aGU4y1FB53GkLCaMEJR"
+    },
+    "hand_3_6": {
+      "__uuid__": "8bygYFQYRO2IVTHFeV3iw7"
+    },
+    "hand_3_7": {
+      "__uuid__": "9cPxHA+RNO976BLDGobKjL"
+    },
+    "hand_4_1": {
+      "__uuid__": "81IbE+N/ZAHboxVeVqPetb"
+    },
+    "hand_4_2": {
+      "__uuid__": "9b3vccMKNKVqW440yjkvvF"
+    },
+    "hand_4_3": {
+      "__uuid__": "51f0gslM1NPKh9xKchVCl5"
+    },
+    "hand_4_4": {
+      "__uuid__": "25VlxZSAhDmqnRCODfgizE"
+    },
+    "hand_4_5": {
+      "__uuid__": "01DFPpS/VDBpGChgKihg5Y"
+    },
+    "hand_4_6": {
+      "__uuid__": "d4+cYjsUZNl6dN6GgBAcHv"
+    },
+    "hand_4_7": {
+      "__uuid__": "15oDPTaE9Hk4bBsAZ2dChB"
+    },
+    "hand_4_8": {
+      "__uuid__": "3bvFsez8hHCZbedI8zri6m"
+    }
+  }
+}

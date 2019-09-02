@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nage_1",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      527,
+      1917,
+      129,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      170
+    ],
+    "rotated": 1
+  }
+}

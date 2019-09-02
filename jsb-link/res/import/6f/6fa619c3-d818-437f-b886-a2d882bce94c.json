@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peng_bg_4gai",
+    "texture": "8fE64vWM1EvIuGA1UE+VX9",
+    "rect": [
+      87,
+      110,
+      83,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      60
+    ],
+    "rotated": 1
+  }
+}

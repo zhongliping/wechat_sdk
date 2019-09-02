@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_pyq",
+    "texture": "67p/RFaYtCW6IjeT/JbyUW",
+    "rect": [
+      7,
+      26,
+      305,
+      332
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      319,
+      384
+    ]
+  }
+}

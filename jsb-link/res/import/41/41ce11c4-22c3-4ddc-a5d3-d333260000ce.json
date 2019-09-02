@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_fuka_tag",
+    "texture": "e10nNZ7b9A4IwU0Qkuyv2K",
+    "rect": [
+      0,
+      0,
+      102,
+      43
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      102,
+      44
+    ]
+  }
+}

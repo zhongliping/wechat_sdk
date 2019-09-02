@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chips.plist",
+  "_spriteFrames": {
+    "D": {
+      "__uuid__": "b1dDBtmn1DyaG/HSyXFNc4"
+    },
+    "chip_01": {
+      "__uuid__": "20WrFlFY1Iepm4J8fb0dV5"
+    },
+    "chip_01a": {
+      "__uuid__": "c7sJfBJjVGEYBlhoPO94AO"
+    },
+    "chip_02": {
+      "__uuid__": "be6fNprChNg6XSkY41flRa"
+    },
+    "chip_02a": {
+      "__uuid__": "a4ZBdRNdhAjY+5P4rnOxH/"
+    },
+    "chip_03": {
+      "__uuid__": "59kuiVPZdNZKMy3JYJ43vc"
+    },
+    "chip_03a": {
+      "__uuid__": "9erKY7bBhHlpqbRj/l+mua"
+    },
+    "chip_04": {
+      "__uuid__": "a0y3FcrSVOa5TqXxFpEIcU"
+    },
+    "chip_04a": {
+      "__uuid__": "f7iO6dH6JB0K8qt65mQd6J"
+    },
+    "chip_05": {
+      "__uuid__": "7ezh56QMpKJZaxnmumcvKD"
+    },
+    "chip_05a": {
+      "__uuid__": "ec+kUJI8pA5rNYDP8pyypF"
+    },
+    "chip_zj": {
+      "__uuid__": "c5O1VzlUtIg6miOFiz2I9y"
+    },
+    "dichi_di": {
+      "__uuid__": "1bRu9fpfVJ+7aRBtjr+esW"
+    },
+    "replayFrame": {
+      "__uuid__": "d1de9ww1dHf7KcCehMtzwy"
+    }
+  }
+}

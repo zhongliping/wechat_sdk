@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "feiji.plist",
+  "_spriteFrames": {
+    "飞机1": {
+      "__uuid__": "30gXoOORVPCqBeyxj0Jxyi"
+    },
+    "飞机10": {
+      "__uuid__": "a2trTU8VBI2ofKrEj+6U0d"
+    },
+    "飞机11": {
+      "__uuid__": "2dGkxFxDRF3IDWoVW4kJri"
+    },
+    "飞机2": {
+      "__uuid__": "d6KlyMcPdNQLYdKkiqRwI0"
+    },
+    "飞机3": {
+      "__uuid__": "bdRltsiH1OHZAtSsK7RxUx"
+    },
+    "飞机4": {
+      "__uuid__": "27OtRwj41EVro319KVsriS"
+    },
+    "飞机5": {
+      "__uuid__": "0aGMvrhPNCdZ8/zz2EZD7S"
+    },
+    "飞机6": {
+      "__uuid__": "17SMi24DdIXbCv1R8BIf0t"
+    },
+    "飞机7": {
+      "__uuid__": "13FqE2139Ktr7ROqVuwjtp"
+    },
+    "飞机8": {
+      "__uuid__": "f5nlq+0rJNXpTUxGArocgV"
+    },
+    "飞机9": {
+      "__uuid__": "61xUitKcxJLbukSFAKqWaF"
+    }
+  }
+}

@@ -1,0 +1,214 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "out_Item",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "out_Item",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "2boAUWOFlFOa1/A7O6+M5v"
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -104
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "07pz/dlJhF04j/Pvb5D93m"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "60xUFZKPhDhqCCfcear2zy"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 122,
+      "height": 162
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 3
+        },
+        "_spriteFrame": {
+          "__uuid__": "01atSGe1RJy7mbw856bAHJ"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "b1y4XuOANJQqjoUWql+0R7"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 83,
+      "height": 116
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "item",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 4
+        },
+        "_spriteFrame": {
+          "__uuid__": "80o4qw1N5Ba5C3pEaf+xOi"
+        }
+      },
+      {
+        "__type__": "d9ae3bju5NJWqOR4PPgKT8R",
+        "node": {
+          "__id__": 4
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "56ZPurnwBAu4RIfYtY3gfR"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 93,
+      "height": 139
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -10
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "shandian",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 6
+      }
+    ],
+    "_active": false,
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "c4HZyY/bxJb4Sr+3cnfwTs"
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 58
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Node",
+    "_parent": {
+      "__id__": 5
+    },
+    "_components": [
+      {
+        "__type__": "dragonBones.ArmatureDisplay",
+        "node": {
+          "__id__": 6
+        },
+        "_armatureName": "Sprite",
+        "_animationName": "Sprite",
+        "playTimes": 0,
+        "_N$dragonAsset": {
+          "__uuid__": "9fn1ehgQxLHIv9KaBaJlZb"
+        },
+        "_N$dragonAtlasAsset": {
+          "__uuid__": "4eXVrRUYNLwa6dsaFBtuXl"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "29T+NZqJ1J4bzMqlU2Y8DA"
+      },
+      "fileId": "f9GuuznTtHbqLQ6Wx9UdbJ"
+    }
+  }
+]

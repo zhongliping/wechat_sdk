@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_more_game",
+    "texture": "1aZsiW4mhEHJzPiVTpzIrg",
+    "rect": [
+      0,
+      0,
+      90,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      146
+    ]
+  }
+}

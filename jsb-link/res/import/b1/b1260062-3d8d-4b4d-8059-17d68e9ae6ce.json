@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhousai",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1983,
+      918,
+      84,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      41
+    ],
+    "rotated": 1
+  }
+}

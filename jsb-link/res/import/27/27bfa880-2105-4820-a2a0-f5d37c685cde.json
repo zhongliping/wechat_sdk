@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "small_joker",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      300,
+      321,
+      53,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      88
+    ]
+  }
+}

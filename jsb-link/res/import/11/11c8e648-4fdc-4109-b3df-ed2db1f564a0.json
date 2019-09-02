@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chupai_paidi",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      636,
+      2,
+      134,
+      288
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      288
+    ],
+    "rotated": 1
+  }
+}

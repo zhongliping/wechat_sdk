@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daqiang",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      2,
+      2,
+      2040,
+      2010
+    ],
+    "offset": [
+      -2,
+      17
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

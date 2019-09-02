@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ppl_xuanpai-2",
+    "texture": "95inrqemZID7rD8/lvs/M2",
+    "rect": [
+      0,
+      0,
+      186,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      157
+    ],
+    "capInsets": [
+      48,
+      51,
+      62,
+      51
+    ]
+  }
+}

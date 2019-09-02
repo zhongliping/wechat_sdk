@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_gengduo",
+    "texture": "09TlJGr3pEgYhFvQ1gql0O",
+    "rect": [
+      2,
+      11,
+      110,
+      35
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

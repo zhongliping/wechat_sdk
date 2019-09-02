@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yun",
+  "_duration": 0.5,
+  "sample": 8,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f8yrSl7tVGvpglvL0K8KtC"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "74PwpJA7pIcJBHEzjw/BKz"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "130Yhawe5GFpuCl0d7H/gJ"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "1cx+p9VclNYISbxpRRkQ9J"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

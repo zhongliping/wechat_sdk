@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhengka",
+    "texture": "25OoJMMcdH5o4wQpQZ2cI4",
+    "rect": [
+      0,
+      7,
+      114,
+      37
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

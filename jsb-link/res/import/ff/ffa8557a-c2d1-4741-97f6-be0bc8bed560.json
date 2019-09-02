@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mingci",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2007,
+      406,
+      48,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      21
+    ],
+    "rotated": 1
+  }
+}

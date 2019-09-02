@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angry0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      126,
+      364,
+      112,
+      112
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      112,
+      116
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "paguo.plist",
+  "_spriteFrames": {
+    "liuju_bg": {
+      "__uuid__": "c3PZPgjThP4oBC4RAcsPvT"
+    },
+    "zi_liuju": {
+      "__uuid__": "70lFLulBlOtJD7kAdrHMvD"
+    },
+    "主、叫分、得分-背景框": {
+      "__uuid__": "66AV+Mq15AtLk64ZjnIImO"
+    },
+    "主、叫分、得分-背景框（加文字）": {
+      "__uuid__": "40gcybxhlArZQhkIvGACQZ"
+    },
+    "主牌-方块": {
+      "__uuid__": "2f75DV3LJIiY8b5651PBIJ"
+    },
+    "主牌-梅花": {
+      "__uuid__": "1danQnBthLP68RfYIlyCg/"
+    },
+    "主牌-红桃": {
+      "__uuid__": "95gbKwZLxPLquMufWTnETZ"
+    },
+    "主牌-黑桃": {
+      "__uuid__": "25YpMlZDJKgrVuPQvgMi6M"
+    },
+    "勾选": {
+      "__uuid__": "d5Bi1/f9xNm7sodkdJu+sH"
+    },
+    "单局输赢结算背景": {
+      "__uuid__": "2egl5dv+RDj6xCMRIh3gcd"
+    },
+    "叫分按钮-棕色": {
+      "__uuid__": "6bzwVAZCpFFo42wT5oynZT"
+    },
+    "叫分按钮-灰色": {
+      "__uuid__": "0c30Av0P5OD4UCDzy45QB/"
+    },
+    "叫分按钮-蓝色": {
+      "__uuid__": "baktgJ2qdHMr+S1UxXYJgc"
+    },
+    "叫分按钮-黄色": {
+      "__uuid__": "404Xcge4RFlZorgHtxFb8g"
+    },
+    "叫分背景框": {
+      "__uuid__": "b3Gg+vpZdC+pxMhJApJQXC"
+    },
+    "叫分说明": {
+      "__uuid__": "80AX9rA7VCHabRlFA0U123"
+    },
+    "图标-主": {
+      "__uuid__": "5fg5xqD1xF+53mbyZK5gBH"
+    },
+    "图标-庄": {
+      "__uuid__": "26sb0NVYNCILxhvHR3Ceyd"
+    },
+    "图标-本人": {
+      "__uuid__": "7fJIUXfeFN5IdntZuWBmTk"
+    },
+    "图标-牌大": {
+      "__uuid__": "99oztZ2L9LUp+TYq6Cf70H"
+    },
+    "文字-垮庄": {
+      "__uuid__": "66q9bddgVImq8u4lnRJE4K"
+    },
+    "游戏说明框": {
+      "__uuid__": "7fKuCg8uVFcKPvIFLUJnMJ"
+    },
+    "赢了-红色飘带": {
+      "__uuid__": "f10P2hGM5LK6kR54Hnyiet"
+    },
+    "赢了": {
+      "__uuid__": "3aRdH7DPlGZZOwmKTWo7Zp"
+    },
+    "输了-灰色飘带": {
+      "__uuid__": "cawzuqu9dBmZi2nBApGyqw"
+    },
+    "输了": {
+      "__uuid__": "24H8kFekdEzoUPdkNFiE8J"
+    }
+  }
+}

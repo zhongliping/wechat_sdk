@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_bg_back_big",
+    "texture": "b3+Etht65PkJod1KZlpp3n",
+    "rect": [
+      1,
+      1,
+      124,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      176
+    ]
+  }
+}

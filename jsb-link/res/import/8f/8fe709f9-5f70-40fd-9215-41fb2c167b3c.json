@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "反春3",
+    "texture": "71y7kfelZNc6oivzFGYjHJ",
+    "rect": [
+      203,
+      210,
+      195,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      250
+    ]
+  }
+}

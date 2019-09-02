@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洞-洞 (9)",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      1388,
+      833,
+      87,
+      72
+    ],
+    "offset": [
+      22,
+      16
+    ],
+    "originalSize": [
+      131,
+      118
+    ]
+  }
+}

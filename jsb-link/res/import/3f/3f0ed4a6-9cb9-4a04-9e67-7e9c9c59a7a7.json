@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DZPK",
+    "texture": "betQa4z8hB4oub25GlPu4o",
+    "rect": [
+      17,
+      12,
+      274,
+      378
+    ],
+    "offset": [
+      -2.5,
+      1
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

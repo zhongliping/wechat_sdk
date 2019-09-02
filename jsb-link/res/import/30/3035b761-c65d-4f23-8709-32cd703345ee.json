@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_t01",
+    "texture": "321BJfx0BEIrPhwCq3rRve",
+    "rect": [
+      0,
+      0,
+      151,
+      89
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      153,
+      90
+    ]
+  }
+}

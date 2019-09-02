@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chongdao",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      201,
+      315,
+      185,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      103
+    ]
+  }
+}

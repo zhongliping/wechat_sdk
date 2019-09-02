@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_bangma",
+    "texture": "c5Op4o12JBwov2SaQsIYoX",
+    "rect": [
+      1,
+      5,
+      113,
+      41
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

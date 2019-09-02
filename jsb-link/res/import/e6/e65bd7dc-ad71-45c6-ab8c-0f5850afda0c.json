@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_tab",
+    "texture": "3cgSNsR65OULenDuhoH8UJ",
+    "rect": [
+      3,
+      3,
+      255,
+      250
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      261,
+      261
+    ]
+  }
+}

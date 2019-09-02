@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_shiming",
+    "texture": "94CVYCeLhOzopSrMpwBWrF",
+    "rect": [
+      1,
+      2,
+      113,
+      53
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      115,
+      55
+    ]
+  }
+}

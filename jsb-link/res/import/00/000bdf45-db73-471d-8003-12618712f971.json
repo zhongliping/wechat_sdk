@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "liandui.plist",
+  "_spriteFrames": {
+    "连对 (1)": {
+      "__uuid__": "bfAZSNJTNJs6MBRJb/xeba"
+    },
+    "连对 (2)": {
+      "__uuid__": "92CqnZ26VPh4jvk9801YiX"
+    },
+    "连对 (3)": {
+      "__uuid__": "d4aXpgKmpDPLXCpiZRKheT"
+    },
+    "连对 (4)": {
+      "__uuid__": "4f3Z7tlERC3pDMKtcME+VX"
+    },
+    "连对 (5)": {
+      "__uuid__": "87bsQ1CQhA47exy8LHvxoF"
+    },
+    "连对 (6)": {
+      "__uuid__": "62E0XbTMlCXqlx4xbwYdgS"
+    },
+    "连对 (7)": {
+      "__uuid__": "34u8n5VRxMvKpI+7d7vu6Q"
+    },
+    "连对 (8)": {
+      "__uuid__": "d7Wr5+/G5IEp4xs1uXt7fS"
+    }
+  }
+}

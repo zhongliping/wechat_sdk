@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paihangbang",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      1291,
+      193,
+      73
+    ],
+    "offset": [
+      0,
+      22
+    ],
+    "originalSize": [
+      431,
+      311
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beijingheise",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      7,
+      1280,
+      632
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      632
+    ]
+  }
+}

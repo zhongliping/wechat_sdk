@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_touxiangkuang",
+    "texture": "0fmct3PJhIGLppxI8aiec5",
+    "rect": [
+      0,
+      0,
+      164,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      164
+    ]
+  }
+}

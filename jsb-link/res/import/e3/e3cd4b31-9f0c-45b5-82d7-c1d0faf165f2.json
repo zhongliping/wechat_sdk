@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "currency_bg1",
+    "texture": "83KssH5aZPcKxgM2Sv4OQd",
+    "rect": [
+      0,
+      0,
+      170,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      61
+    ]
+  }
+}

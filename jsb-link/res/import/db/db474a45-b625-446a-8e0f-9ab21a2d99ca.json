@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btnRecord",
+    "texture": "086DAcxjtBy6ZXW1Ow0lca",
+    "rect": [
+      15,
+      0,
+      65,
+      78
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      96,
+      78
+    ]
+  }
+}

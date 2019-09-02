@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "han0",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      129,
+      133,
+      115,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      129
+    ],
+    "rotated": 1
+  }
+}

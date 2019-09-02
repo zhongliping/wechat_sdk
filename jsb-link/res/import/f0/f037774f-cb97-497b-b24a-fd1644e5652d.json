@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_btn_a2",
+    "texture": "54N2EH8RtNqpVemvg+qZC4",
+    "rect": [
+      4,
+      3,
+      35,
+      35
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      44,
+      41
+    ]
+  }
+}

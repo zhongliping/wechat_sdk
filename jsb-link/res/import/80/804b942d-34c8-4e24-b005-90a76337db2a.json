@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_joker_small",
+    "texture": "fdRFezqxFEaZ0VEfgOho2O",
+    "rect": [
+      2,
+      2,
+      110,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      150
+    ],
+    "rotated": 1
+  }
+}

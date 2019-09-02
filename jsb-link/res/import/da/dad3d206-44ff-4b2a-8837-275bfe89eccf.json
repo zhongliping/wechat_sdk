@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "全垒打 (2)",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      1836,
+      2,
+      207,
+      57
+    ],
+    "offset": [
+      9,
+      -10
+    ],
+    "originalSize": [
+      349,
+      175
+    ]
+  }
+}

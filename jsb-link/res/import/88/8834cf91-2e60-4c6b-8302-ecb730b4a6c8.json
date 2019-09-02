@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_tuguang",
+    "texture": "7e8df5HwVMoZe+VtJeCGLo",
+    "rect": [
+      1,
+      0,
+      80,
+      97
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      82,
+      98
+    ]
+  }
+}

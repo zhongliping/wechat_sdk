@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "time_bt",
+    "texture": "5bCQtTCDhCY6XSgsCFf0ZI",
+    "rect": [
+      110,
+      830,
+      104,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      104
+    ]
+  }
+}

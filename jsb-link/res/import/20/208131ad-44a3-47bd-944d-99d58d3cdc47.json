@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fangpao",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      843,
+      138,
+      139,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      80
+    ],
+    "rotated": 1
+  }
+}

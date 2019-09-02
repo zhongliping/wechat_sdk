@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jin_xia",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      202,
+      360,
+      62,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      51
+    ],
+    "rotated": 1
+  }
+}

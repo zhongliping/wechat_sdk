@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanhui",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      1672,
+      184,
+      73
+    ],
+    "offset": [
+      12,
+      -45
+    ],
+    "originalSize": [
+      232,
+      217
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blink2",
+    "texture": "dbRJYrXv9FBLoyZSevEYVl",
+    "rect": [
+      0,
+      0,
+      294,
+      450
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      294,
+      450
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "当前玩法",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      317,
+      983,
+      152,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      33
+    ]
+  }
+}

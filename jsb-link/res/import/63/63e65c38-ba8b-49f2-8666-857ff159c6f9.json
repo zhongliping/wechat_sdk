@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bao_shang",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      67,
+      366,
+      61,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      61
+    ]
+  }
+}

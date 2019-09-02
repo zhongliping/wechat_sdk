@@ -1,0 +1,200 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dnn-n9",
+  "_duration": 1.56,
+  "sample": 18,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "798nmZGZxBjZzaSZ+wImDR"
+            }
+          },
+          {
+            "frame": 0.05555555555555555,
+            "value": {
+              "__uuid__": "70IdIsscJCTYs7OXahUduV"
+            }
+          },
+          {
+            "frame": 0.1111111111111111,
+            "value": {
+              "__uuid__": "95r9FRT7hFha4qAPwFYzuc"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9163z6DNBE45dkY6cIUfPR"
+            }
+          },
+          {
+            "frame": 0.2222222222222222,
+            "value": {
+              "__uuid__": "b7Egp/5txDcbUOgJeK+E5a"
+            }
+          },
+          {
+            "frame": 0.2777777777777778,
+            "value": {
+              "__uuid__": "7a99dmlutPpq4JQgVE6yWw"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "41zLP8tvFCZ5TCtJPR0uM7"
+            }
+          },
+          {
+            "frame": 0.3888888888888889,
+            "value": {
+              "__uuid__": "fdFoQlARFDzpEF0qihmpMi"
+            }
+          },
+          {
+            "frame": 0.4444444444444444,
+            "value": {
+              "__uuid__": "97N37J6xNJ3o3JbETbXkM2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "64XnwluhFCBbWtXtKiW4+r"
+            }
+          },
+          {
+            "frame": 0.5555555555555556,
+            "value": {
+              "__uuid__": "7e69I4fw1MJpI/83eUfY+A"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -56,
+            0
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05555555555555555,
+          "value": [
+            -33,
+            1
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1111111111111111,
+          "value": [
+            0.5,
+            3
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": [
+            0.6666666666666666,
+            3
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.2222222222222222,
+          "value": [
+            1,
+            1
+          ]
+        },
+        {
+          "frame": 0.2777777777777778,
+          "value": [
+            1,
+            1
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            1,
+            1
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.3888888888888889,
+          "value": [
+            1,
+            1
+          ],
+          "curve": "constant"
+        },
+        {
+          "frame": 0.4444444444444444,
+          "value": [
+            1,
+            2
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            1,
+            2
+          ]
+        },
+        {
+          "frame": 0.5555555555555556,
+          "value": [
+            1,
+            2
+          ]
+        },
+        {
+          "frame": 0.6111111111111112,
+          "value": [
+            1,
+            2
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.4444444444444444,
+          "value": 255
+        },
+        {
+          "frame": 1.5555555555555556,
+          "value": 255
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ]
+    }
+  }
+}

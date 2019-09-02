@@ -1,0 +1,90 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "emoji",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "emoji",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "f6h03tMT9M5aPUCJJb4xJl"
+          },
+          {
+            "__uuid__": "0cWUa5y4NBua+OHoguXGym"
+          },
+          {
+            "__uuid__": "2fJnKBAxNKtbsgLIwIS523"
+          },
+          {
+            "__uuid__": "78uRdNNc5Okq814APzNI00"
+          },
+          {
+            "__uuid__": "17E/F37WRLboU1pc6oEB9a"
+          },
+          {
+            "__uuid__": "08yljgsOdMvL3cDlpUvYxI"
+          },
+          {
+            "__uuid__": "4az8mw1zdCsa3mglTL6RTT"
+          },
+          {
+            "__uuid__": "0dHYxZsWBMdIqPnXeHdQL6"
+          },
+          {
+            "__uuid__": "10xrIxwl5Oq4CM8Qfg5m3/"
+          },
+          {
+            "__uuid__": "75A71/ePFMi7aLICvPJsxA"
+          },
+          {
+            "__uuid__": "33ah0YFkdPTaKXD1Rojhz+"
+          },
+          {
+            "__uuid__": "ddBqpGqsJIqY0WRN4aH9Nt"
+          },
+          {
+            "__uuid__": "b0oUdp2W1L4LAu+93Kk22q"
+          },
+          {
+            "__uuid__": "43adCmqwVI97GC9NoFtCBR"
+          },
+          {
+            "__uuid__": "14XixLCcdOA4XMOp4MpCB9"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "88thDgrkZFR5unfz01oJyI"
+      },
+      "fileId": "1d2acZOoqRBx7W6H0QcRS42"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

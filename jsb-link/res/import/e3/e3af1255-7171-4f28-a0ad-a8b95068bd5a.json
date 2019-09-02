@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JiaRuFangJian-popup_close",
+    "texture": "29vcDDGxJJXK63alrcYRFs",
+    "rect": [
+      118,
+      2,
+      75,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      78
+    ],
+    "rotated": 1
+  }
+}

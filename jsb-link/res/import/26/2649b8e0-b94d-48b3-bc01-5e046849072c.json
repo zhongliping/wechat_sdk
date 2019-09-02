@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ppl_effect_win",
+    "texture": "a8nuQHRE1Km6fA+hc1RdDi",
+    "rect": [
+      3,
+      2,
+      165,
+      154
+    ],
+    "offset": [
+      -0.5,
+      4
+    ],
+    "originalSize": [
+      172,
+      166
+    ]
+  }
+}

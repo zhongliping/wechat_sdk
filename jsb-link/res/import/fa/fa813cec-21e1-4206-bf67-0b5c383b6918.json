@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chi_xian",
+    "texture": "5a0715USxGZLq/uxVlpr41",
+    "rect": [
+      2,
+      2,
+      632,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      632,
+      13
+    ]
+  }
+}

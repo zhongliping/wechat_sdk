@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_1.plist",
+  "_spriteFrames": {
+    "春天 (1)": {
+      "__uuid__": "beyGjvrwhIAIy1ufYMl9oc"
+    },
+    "春天 (11)": {
+      "__uuid__": "aaad/bqwRNMYHbjPq+Ulgf"
+    },
+    "春天 (13)": {
+      "__uuid__": "824fh9dnhFtpcGMasU1+vW"
+    },
+    "春天 (15)": {
+      "__uuid__": "10BuaciDxF6bECOo+Tl+aO"
+    },
+    "春天 (17)": {
+      "__uuid__": "b8qKpDZn1DBKMRmzRinRrf"
+    },
+    "春天 (19)": {
+      "__uuid__": "01c+f9lb5B/4SnztCfeM+P"
+    },
+    "春天 (21)": {
+      "__uuid__": "a7sTZlvFRLyptwxfEUqEU4"
+    },
+    "春天 (23)": {
+      "__uuid__": "9fGvMM75dCcrQMz1YIj6pk"
+    },
+    "春天 (3)": {
+      "__uuid__": "c4gCucLFRJqpoDHxxhLf0A"
+    },
+    "春天 (5)": {
+      "__uuid__": "e8FZTJ3MVCjL/DVtF1eoiq"
+    },
+    "春天 (7)": {
+      "__uuid__": "9aGaMMPpNCP7lEOeoDYvAz"
+    },
+    "春天 (9)": {
+      "__uuid__": "d0+B7lxCtNDYEoheWf2QGe"
+    }
+  }
+}

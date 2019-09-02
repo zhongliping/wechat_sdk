@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "green_bai_37",
+    "texture": "2cUpCLGzNGXYDwLocdE3Pr",
+    "rect": [
+      3,
+      2,
+      129,
+      85
+    ],
+    "offset": [
+      -21,
+      22
+    ],
+    "originalSize": [
+      177,
+      133
+    ]
+  }
+}

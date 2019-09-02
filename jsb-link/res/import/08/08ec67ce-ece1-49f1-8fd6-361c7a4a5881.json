@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "seat_bg",
+    "texture": "ceXza1wM1N3JncN0jKESVh",
+    "rect": [
+      0,
+      0,
+      105,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      131
+    ]
+  }
+}

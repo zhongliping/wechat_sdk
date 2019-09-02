@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Power_bg",
+    "texture": "32gxjqmHtKvphzxlwHguIi",
+    "rect": [
+      0,
+      0,
+      52,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      27
+    ]
+  }
+}

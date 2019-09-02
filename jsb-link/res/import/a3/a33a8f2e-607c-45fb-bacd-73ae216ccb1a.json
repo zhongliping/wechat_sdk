@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "saoCard9",
+    "texture": "6akpyDSQdMx51+ixwX81jq",
+    "rect": [
+      336,
+      272,
+      56,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      62
+    ],
+    "rotated": 1
+  }
+}

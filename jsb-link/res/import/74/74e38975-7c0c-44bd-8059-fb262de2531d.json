@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box02",
+    "texture": "3blNQc/fdB87fdljpyNNop",
+    "rect": [
+      2,
+      384,
+      113,
+      90
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      113,
+      92
+    ],
+    "rotated": 1
+  }
+}

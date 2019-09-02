@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "平局-11",
+    "texture": "91WHYwDGNKXYzqgYR53iey",
+    "rect": [
+      2,
+      256,
+      403,
+      82
+    ],
+    "offset": [
+      -4,
+      59
+    ],
+    "originalSize": [
+      603,
+      286
+    ]
+  }
+}

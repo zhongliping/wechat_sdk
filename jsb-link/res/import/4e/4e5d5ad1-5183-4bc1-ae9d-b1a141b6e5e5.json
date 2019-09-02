@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "shandian2_tex",
+  "_atlasJson": "{\"imagePath\":\"shandian2_tex.png\",\"width\":1024,\"SubTexture\":[{\"width\":256,\"y\":331,\"height\":275,\"name\":\"shandian4\",\"x\":1},{\"width\":192,\"y\":608,\"height\":290,\"name\":\"shandian3\",\"x\":1},{\"width\":359,\"y\":580,\"height\":174,\"name\":\"shandian6\",\"x\":259},{\"width\":405,\"y\":422,\"height\":156,\"name\":\"shandian8\",\"x\":259},{\"width\":180,\"y\":527,\"height\":265,\"name\":\"shandian1\",\"x\":666},{\"width\":235,\"y\":223,\"height\":302,\"name\":\"shandian2\",\"x\":733},{\"width\":101,\"y\":331,\"height\":84,\"name\":\"shandian\",\"x\":259},{\"width\":372,\"y\":1,\"height\":220,\"name\":\"shandian5\",\"x\":366},{\"width\":363,\"y\":1,\"height\":328,\"name\":\"shandian7\",\"x\":1},{\"width\":365,\"y\":223,\"height\":197,\"name\":\"shandian9\",\"x\":366}],\"height\":1024,\"name\":\"shandian2\"}",
+  "texture": {
+    "__uuid__": "e3P1sxLpZBDLokMsi38jWS"
+  }
+}

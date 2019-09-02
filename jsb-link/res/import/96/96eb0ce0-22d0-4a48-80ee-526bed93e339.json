@@ -1,0 +1,80 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "turnCardPrefab",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "turnCardPrefab",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "966wzgItBKSIDuUmvtk+M5"
+      },
+      "fileId": "8a9e4kd+i5GsLuAp54pstzt"
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": 318
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "poker",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        }
+      },
+      {
+        "__type__": "63332A0N2ZJmqmy4vbBIQZ8",
+        "node": {
+          "__id__": 2
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 2
+        },
+        "_clips": [
+          {
+            "__uuid__": "7eV83aUVNFb6dH97ovVhco"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "966wzgItBKSIDuUmvtk+M5"
+      },
+      "fileId": "e6af88a4PpKxL+hA3E3qCl/"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 36
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dianshu_bg",
+    "texture": "4fUeMVNOdA5osCcjLewQLw",
+    "rect": [
+      463,
+      2,
+      47,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      33
+    ]
+  }
+}

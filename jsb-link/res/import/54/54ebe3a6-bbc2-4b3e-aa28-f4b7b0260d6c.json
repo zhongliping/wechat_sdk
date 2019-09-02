@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pingju",
+    "texture": "0aOeZ9ujtPXaOKtHqJk+BV",
+    "rect": [
+      4,
+      1,
+      594,
+      190
+    ],
+    "offset": [
+      -0.5,
+      47
+    ],
+    "originalSize": [
+      603,
+      286
+    ]
+  }
+}

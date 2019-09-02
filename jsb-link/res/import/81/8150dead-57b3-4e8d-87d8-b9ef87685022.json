@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "雷达",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      545,
+      803,
+      142,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      64
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinquanquan",
+    "texture": "e3vAxuBJlABIoaWj6s+Lg5",
+    "rect": [
+      1564,
+      2,
+      1202,
+      417
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1202,
+      417
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_t_box_bg",
+    "texture": "619/gZ1KZIyrQwTDyc6mRk",
+    "rect": [
+      0,
+      0,
+      530,
+      382
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      530,
+      382
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_cai",
+    "texture": "83a9lTKdZMAZSh5gPvc4pp",
+    "rect": [
+      0,
+      0,
+      70,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      73
+    ]
+  }
+}

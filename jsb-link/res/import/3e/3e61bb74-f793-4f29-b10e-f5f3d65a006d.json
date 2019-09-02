@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dibu",
+    "texture": "c59R2ytz9BB44vfpnj7GOM",
+    "rect": [
+      0,
+      0,
+      1560,
+      1000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1560,
+      1000
+    ]
+  }
+}

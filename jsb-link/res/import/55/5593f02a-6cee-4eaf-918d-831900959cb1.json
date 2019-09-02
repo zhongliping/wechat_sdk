@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ddz_4.plist",
+  "_spriteFrames": {
+    "顺子10": {
+      "__uuid__": "2eCCCx7jZBQ6G708UtuyeC"
+    },
+    "顺子11": {
+      "__uuid__": "ffr3cEsV9Kso491IggxojC"
+    },
+    "顺子12": {
+      "__uuid__": "c3N3g3zSlMw6ByQV+0t3SB"
+    },
+    "顺子2": {
+      "__uuid__": "7cXUHkS+dO3K623KjWqT7H"
+    },
+    "顺子3": {
+      "__uuid__": "e6Tc7ZQ8hORZ2vjaWyGFj+"
+    },
+    "顺子4": {
+      "__uuid__": "5cw9Bx6fdOM5F9CwX4Zt2/"
+    },
+    "顺子5": {
+      "__uuid__": "fbmv/26S5GX7bOX1tIz3Eg"
+    },
+    "顺子6": {
+      "__uuid__": "0cXE0zWxxIbKCNBjAeSbGG"
+    },
+    "顺子7": {
+      "__uuid__": "52ubLRcj9EUY/Z4oFO43h3"
+    },
+    "顺子8": {
+      "__uuid__": "190X6yQKRHC6uykuH++CRi"
+    },
+    "顺子9": {
+      "__uuid__": "4cjwPHbrtG6abjdardgvvd"
+    }
+  }
+}

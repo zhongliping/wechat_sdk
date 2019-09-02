@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "p_chat.plist",
+  "_spriteFrames": {
+    "bg_wupin": {
+      "__uuid__": "214egpZLJC8I/gi4JQyCt7"
+    },
+    "btn01": {
+      "__uuid__": "7aRADe6q1Okr2OEx4OxskN"
+    },
+    "fasong": {
+      "__uuid__": "fdnDyWc9xKz7hAS4v/b8CO"
+    },
+    "icon_biaoqing01": {
+      "__uuid__": "1bEwKoRKxJnYpPfIKM3BB5"
+    },
+    "icon_biaoqing02": {
+      "__uuid__": "3bKqxWL4RIpK1AKfEA8YIK"
+    },
+    "icon_dazi01": {
+      "__uuid__": "76e/Vt7bFBQpYL0JzmYM87"
+    },
+    "icon_dazi02": {
+      "__uuid__": "b2rhDaQXdGX4fFLXRrQ6gw"
+    },
+    "icon_jilu01": {
+      "__uuid__": "c8QBtHG2VEc7JYJ11YtH2N"
+    },
+    "icon_jilu02": {
+      "__uuid__": "2b0q+LH+5BWY0V6CqUgQ8g"
+    },
+    "line01_4": {
+      "__uuid__": "07wijo7lVGHps86QlqLRpD"
+    },
+    "popup_close": {
+      "__uuid__": "994H0BWbtNCL/uqaT0RpJr"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flower",
+    "texture": "bc175tRJVP5ZlOkfMXYqfu",
+    "rect": [
+      2,
+      143,
+      73,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      37
+    ]
+  }
+}

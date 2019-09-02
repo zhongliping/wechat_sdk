@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_dingwei",
+    "texture": "ddgmtMnExAXKAKElf4/W7x",
+    "rect": [
+      3,
+      1,
+      29,
+      34
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      35,
+      35
+    ]
+  }
+}

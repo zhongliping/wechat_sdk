@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "枪-枪2",
+    "texture": "c8pp3U7dpLO45+UnjiqIUn",
+    "rect": [
+      1836,
+      61,
+      177,
+      74
+    ],
+    "offset": [
+      -26,
+      -13
+    ],
+    "originalSize": [
+      229,
+      100
+    ]
+  }
+}

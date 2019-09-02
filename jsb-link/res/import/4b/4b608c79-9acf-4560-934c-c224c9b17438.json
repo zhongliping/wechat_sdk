@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yun3",
+    "texture": "8c7+C51zFJx5QgUUN130ke",
+    "rect": [
+      401,
+      264,
+      104,
+      117
+    ],
+    "offset": [
+      3,
+      -6
+    ],
+    "originalSize": [
+      128,
+      129
+    ]
+  }
+}

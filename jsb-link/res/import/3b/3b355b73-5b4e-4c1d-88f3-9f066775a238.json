@@ -1,0 +1,131 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "ppl_item",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ppl_item",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "bd4cdB9FmdJ7IQPIyHLaVFF",
+        "node": {
+          "__id__": 1
+        },
+        "pk_img": {
+          "__id__": 4
+        },
+        "pk_node": {
+          "__id__": 3
+        }
+      },
+      {
+        "__type__": "cc.Button",
+        "node": {
+          "__id__": 1
+        },
+        "_N$target": {
+          "__id__": 1
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bNVtzW05MHYjznwZndaI4"
+      },
+      "fileId": "eb74b9AjL9AhLUUfIRL0bEv"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 70,
+      "height": 102
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "1dMKok6IFOh58J+0Iswe8K"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bNVtzW05MHYjznwZndaI4"
+      },
+      "fileId": "f802f22CxZKg5Q8JidOrwQy"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 87,
+      "height": 117
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pk_node",
+    "_parent": {
+      "__id__": 1
+    },
+    "_active": false,
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "3bNVtzW05MHYjznwZndaI4"
+      },
+      "fileId": "b9ab80L/P9PX4xHFhtJq3VN"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 70,
+      "height": 102
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 3
+    },
+    "_spriteFrame": {
+      "__uuid__": "a3oTBrg0dKiYGW9dmMrOko"
+    },
+    "_sizeMode": 0
+  }
+]

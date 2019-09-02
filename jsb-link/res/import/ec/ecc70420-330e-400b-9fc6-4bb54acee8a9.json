@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huoyan",
+    "texture": "f7fPXlsvZFnL16cDYkt/nq",
+    "rect": [
+      2,
+      2,
+      2002,
+      2028
+    ],
+    "offset": [
+      -21,
+      8
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

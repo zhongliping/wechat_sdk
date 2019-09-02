@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "egg",
+    "texture": "0acwhiLPZNgb4se74K5eWg",
+    "rect": [
+      0,
+      0,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      64
+    ]
+  }
+}

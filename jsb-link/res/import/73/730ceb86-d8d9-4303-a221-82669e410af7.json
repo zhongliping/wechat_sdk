@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PHZ",
+    "texture": "62ER5G45FJzIPzbn+bKS84",
+    "rect": [
+      12,
+      12,
+      282,
+      379
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

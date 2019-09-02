@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "julebupindao",
+    "texture": "13aKWL64FIPK8Tq5pm+jdQ",
+    "rect": [
+      0,
+      0,
+      180,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      31
+    ]
+  }
+}

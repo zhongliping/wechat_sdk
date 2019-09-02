@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diujidan_008",
+    "texture": "36xvdPN2tGta+ZMeOSJtT1",
+    "rect": [
+      2,
+      171,
+      258,
+      167
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      260,
+      167
+    ]
+  }
+}

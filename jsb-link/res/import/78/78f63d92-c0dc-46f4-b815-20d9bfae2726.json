@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhuanquan",
+    "texture": "d2V1YNsZBLFJZqwxL8Usdy",
+    "rect": [
+      0,
+      0,
+      50,
+      53
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      51,
+      53
+    ]
+  }
+}

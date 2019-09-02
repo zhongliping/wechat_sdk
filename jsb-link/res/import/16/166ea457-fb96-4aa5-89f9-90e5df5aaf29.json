@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quanguan",
+    "texture": "cbNIjuUUxDKLyJdMRp+P9m",
+    "rect": [
+      4,
+      4,
+      963,
+      976
+    ],
+    "offset": [
+      -26.5,
+      20
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

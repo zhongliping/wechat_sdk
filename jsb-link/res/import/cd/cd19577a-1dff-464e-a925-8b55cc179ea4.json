@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taitou",
+    "texture": "caSUtEV39Lx5x9voEsCjFX",
+    "rect": [
+      2,
+      1858,
+      1262,
+      57
+    ],
+    "offset": [
+      -41,
+      7
+    ],
+    "originalSize": [
+      1346,
+      71
+    ]
+  }
+}

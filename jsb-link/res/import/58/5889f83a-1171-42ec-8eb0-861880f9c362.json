@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "match_tip_baoming",
+    "texture": "4d7rHEhrVJ56aKFCYn3QkB",
+    "rect": [
+      0,
+      0,
+      156,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      58
+    ]
+  }
+}

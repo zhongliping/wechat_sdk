@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_success",
+    "texture": "ddrcLxLHVKOKkbr+NMdg1c",
+    "rect": [
+      0,
+      0,
+      71,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      70
+    ]
+  }
+}

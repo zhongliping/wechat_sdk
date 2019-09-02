@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhadan",
+    "texture": "5euag/cKpB36rFU3Xwe6CY",
+    "rect": [
+      4,
+      3,
+      982,
+      1012
+    ],
+    "offset": [
+      -17,
+      3
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

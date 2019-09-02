@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "主牌-方块",
+    "texture": "0drKKRRjhM4L6gCLpxcS6h",
+    "rect": [
+      372,
+      673,
+      88,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "双顺15",
+    "texture": "10n/NOSMhPBocWPif/gWGF",
+    "rect": [
+      2,
+      180,
+      425,
+      192
+    ],
+    "offset": [
+      8,
+      -42
+    ],
+    "originalSize": [
+      449,
+      324
+    ]
+  }
+}

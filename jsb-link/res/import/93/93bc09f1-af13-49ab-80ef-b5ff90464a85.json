@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_fan_spring",
+    "texture": "54Vycbdw1KvptKzOicN5Vx",
+    "rect": [
+      0,
+      0,
+      1440,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      720
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sleep4",
+    "texture": "4fkHrcTY9OCZtqT4+9lXmQ",
+    "rect": [
+      251,
+      0,
+      133,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      137
+    ]
+  }
+}

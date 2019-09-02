@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hand_bg",
+    "texture": "ecDt6oLoRAIb21b9I+uImN",
+    "rect": [
+      0,
+      0,
+      83,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      116
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_ip",
+    "texture": "12MA2+PfZGt6R6Ve5kYYxG",
+    "rect": [
+      2,
+      3,
+      30,
+      30
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      35,
+      35
+    ]
+  }
+}

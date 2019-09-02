@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "12DAni",
+    "texture": "baYhfdu85HWIKNRxY7hRDX",
+    "rect": [
+      2,
+      3,
+      1006,
+      1015
+    ],
+    "offset": [
+      -7,
+      1.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "go1",
+    "texture": "38t6k/wCdFzJ3BK5Nb79X1",
+    "rect": [
+      0,
+      0,
+      215,
+      215
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      215
+    ]
+  }
+}

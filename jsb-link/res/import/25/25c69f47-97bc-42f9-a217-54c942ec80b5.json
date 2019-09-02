@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "headtimenum",
+    "texture": "66Vvs16kpKRrcVl18PXWYM",
+    "rect": [
+      2,
+      4,
+      164,
+      156
+    ],
+    "offset": [
+      -0.5,
+      26.5
+    ],
+    "originalSize": [
+      169,
+      217
+    ]
+  }
+}

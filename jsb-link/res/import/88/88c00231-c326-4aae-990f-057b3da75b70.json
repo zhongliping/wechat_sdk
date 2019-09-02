@@ -1,0 +1,52 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "3dhtexiao",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "3dhtexiao",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "0732hXdzNEJKiVMCPIWi0l"
+          },
+          {
+            "__uuid__": "7em2YfondMDZH5owkqYUV/"
+          },
+          {
+            "__uuid__": "4cos65TehGIpEhU4+rYj5p"
+          },
+          {
+            "__uuid__": "eed+DkRiNEx4p9soL4kKrj"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "13vZHFnHFAlrNZT11iR7UV"
+    }
+  }
+]

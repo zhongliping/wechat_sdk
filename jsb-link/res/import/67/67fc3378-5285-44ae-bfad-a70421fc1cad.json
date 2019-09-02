@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "21点与十点半-爆点-3",
+    "texture": "baYhfdu85HWIKNRxY7hRDX",
+    "rect": [
+      242,
+      712,
+      54,
+      49
+    ],
+    "offset": [
+      -1,
+      -18
+    ],
+    "originalSize": [
+      118,
+      111
+    ],
+    "rotated": 1
+  }
+}

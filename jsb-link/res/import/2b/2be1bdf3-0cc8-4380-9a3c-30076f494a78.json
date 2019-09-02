@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_popup",
+    "texture": "4bSGjhAfJOULUlPBRIFXx3",
+    "rect": [
+      1,
+      1,
+      1072,
+      634
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1074,
+      635
+    ]
+  }
+}

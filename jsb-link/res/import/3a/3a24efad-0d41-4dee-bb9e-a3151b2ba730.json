@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liandui",
+  "_duration": 1.5,
+  "sample": 8,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bfAZSNJTNJs6MBRJb/xeba"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "92CqnZ26VPh4jvk9801YiX"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d4aXpgKmpDPLXCpiZRKheT"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "4f3Z7tlERC3pDMKtcME+VX"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "87bsQ1CQhA47exy8LHvxoF"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "62E0XbTMlCXqlx4xbwYdgS"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "34u8n5VRxMvKpI+7d7vu6Q"
+            }
+          },
+          {
+            "frame": 0.875,
+            "value": {
+              "__uuid__": "d7Wr5+/G5IEp4xs1uXt7fS"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.875,
+          "value": 255
+        },
+        {
+          "frame": 1.5,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 1.5,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 1.5,
+          "value": 2
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            50
+          ]
+        }
+      ]
+    }
+  }
+}

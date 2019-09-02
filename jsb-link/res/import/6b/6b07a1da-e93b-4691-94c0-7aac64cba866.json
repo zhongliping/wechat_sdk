@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "match_atlas.plist",
+  "_spriteFrames": {
+    "match_0_2": {
+      "__uuid__": "39R6/sLzBGX4wWA9Qa1vvp"
+    },
+    "match_0_3": {
+      "__uuid__": "01oLlCLQxAaJgk1j2vC7KL"
+    },
+    "match_1_5": {
+      "__uuid__": "bdhBM+V91HHrfJYdsgwjQs"
+    },
+    "match_1_6": {
+      "__uuid__": "22PIL32L9D7bzoBjHcv4Aq"
+    },
+    "match_1_9": {
+      "__uuid__": "c7oUgTSSZPaZfvj1ex8rAe"
+    },
+    "match_2_2": {
+      "__uuid__": "f5HVjGDaxNXa/LpOqP5M+/"
+    },
+    "match_2_3": {
+      "__uuid__": "c9DeTouddC6K+eAeD9BUEP"
+    },
+    "match_2_4": {
+      "__uuid__": "30Wccd3FBJhpXO1L/cwmcX"
+    },
+    "match_2_6": {
+      "__uuid__": "57Jkyzq+FHJKnhete+1zR8"
+    },
+    "match_2_7": {
+      "__uuid__": "0cz/ZJV0xCioxotkFNftEn"
+    },
+    "match_2_8": {
+      "__uuid__": "21pBWNELRJDZA8MIhtNVJl"
+    },
+    "match_2_9": {
+      "__uuid__": "45SahqS9ZBh4NwT0gTunsH"
+    },
+    "matchend_1_1": {
+      "__uuid__": "2d4BLFVrRFe47H8ltZVADK"
+    },
+    "matchend_1_6": {
+      "__uuid__": "33w/j7yHNNXJLUlqSzNjg6"
+    }
+  }
+}

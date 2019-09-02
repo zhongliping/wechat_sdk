@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "feiwen_012",
+    "texture": "36xvdPN2tGta+ZMeOSJtT1",
+    "rect": [
+      2,
+      1389,
+      138,
+      113
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      138,
+      115
+    ]
+  }
+}

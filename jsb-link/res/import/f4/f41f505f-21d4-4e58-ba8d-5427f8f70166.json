@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HGW",
+    "texture": "45g5ekOHVCNrni18IxgMLi",
+    "rect": [
+      21,
+      12,
+      272,
+      378
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      313,
+      404
+    ]
+  }
+}

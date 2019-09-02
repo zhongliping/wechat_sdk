@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shunzi.plist",
+  "_spriteFrames": {
+    "顺子1": {
+      "__uuid__": "b0f36DGt5Imq8cn6khxzOO"
+    },
+    "顺子10": {
+      "__uuid__": "86hVc3a4JF/L4sY4NGajRM"
+    },
+    "顺子11": {
+      "__uuid__": "7eLOqZYBVNI7nprbeMN42L"
+    },
+    "顺子12": {
+      "__uuid__": "32ouYv5cFBYqeMhe8OLmIp"
+    },
+    "顺子13": {
+      "__uuid__": "dfZzjp3sxFUIHNQfr2HZs1"
+    },
+    "顺子14": {
+      "__uuid__": "62HXL32olNgZhKMcRMFTf6"
+    },
+    "顺子15": {
+      "__uuid__": "9aJsVraY1Jc6KLzipdwgyX"
+    },
+    "顺子2": {
+      "__uuid__": "b3m0wF7zlHPJXu+MDwaCPD"
+    },
+    "顺子3": {
+      "__uuid__": "f2QyTDNWJMM4wHeYd1H6Rs"
+    },
+    "顺子4": {
+      "__uuid__": "efUhTAbyVB7oXIi+dwXnMa"
+    },
+    "顺子5": {
+      "__uuid__": "b8EFUio4FLDre8O3Z6s+zK"
+    },
+    "顺子6": {
+      "__uuid__": "9e3NLg53dKQKCdhu0Zsx08"
+    },
+    "顺子7": {
+      "__uuid__": "8b1jNfrWRL5Lek2rF16yFo"
+    },
+    "顺子8": {
+      "__uuid__": "15brYYA/9Le4VBM6mUhfTa"
+    },
+    "顺子9": {
+      "__uuid__": "b37p3SZ2ZDaaV437xtZzm0"
+    }
+  }
+}

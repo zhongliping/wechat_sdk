@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btngonggao",
+    "texture": "201a2IfwpOOZyr9/0UIbPS",
+    "rect": [
+      0,
+      0,
+      104,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      109
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_biaotikuang02",
+    "texture": "30posCDbhCDoKy0jZMuV8D",
+    "rect": [
+      471,
+      565,
+      194,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      45
+    ]
+  }
+}

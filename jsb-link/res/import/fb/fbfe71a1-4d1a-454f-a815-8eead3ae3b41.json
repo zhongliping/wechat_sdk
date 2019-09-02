@@ -1,0 +1,90 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "point_out",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "point_out",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "da1839tfRBOjod5vS+D0yvm",
+        "node": {
+          "__id__": 1
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "fb/nGhTRpFT6gVjurTrjtB"
+      },
+      "fileId": "f7eV3dtp5Iw6dsC6jrLFl8"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Jump",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "d3NOrwf1VD3ZfNxMFDWcOG"
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 2
+        },
+        "_defaultClip": {
+          "__uuid__": "593enbi2pGUr+W+Y3jKDFs"
+        },
+        "_clips": [
+          {
+            "__uuid__": "593enbi2pGUr+W+Y3jKDFs"
+          }
+        ],
+        "playOnLoad": true
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "fb/nGhTRpFT6gVjurTrjtB"
+      },
+      "fileId": "6bMgmAS+NP8Ynn0qWCAwaN"
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": -0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 32,
+      "height": 39
+    }
+  }
+]

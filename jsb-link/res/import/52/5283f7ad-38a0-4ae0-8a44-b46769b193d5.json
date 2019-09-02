@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jump-jump_b1",
+    "texture": "7boKeqZvZDLZ5+8rjr3now",
+    "rect": [
+      391,
+      1294,
+      87,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      87
+    ],
+    "rotated": 1
+  }
+}

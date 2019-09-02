@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnCacel",
+    "texture": "298U3Rqw9GwrtkVcVz5xR0",
+    "rect": [
+      916,
+      2,
+      81,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      81
+    ]
+  }
+}
